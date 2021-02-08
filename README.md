@@ -38,4 +38,6 @@ Primeiramente decidimos resolver a questão do **template para as pesquisas**. C
 6. Participantes;
 7. Tipo do Projeto (Iniciação Científica, Mestrado, Doutorado, ...);
 8. Objetivos de Desenvolvimento Sustentáveis Relacionados;
-x. Grupo de Pesquisa do Projeto?
+9. ??? Grupo de Pesquisa do Projeto ???
+
+Esse é um modelo que sugerimos e que pode ser alterado conforme a necessidade dos demais grupos. Qualquer necessidade pelos grupos de desenvolvimento pode ser enviada para discutirmos a respeito.
