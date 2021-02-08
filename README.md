@@ -27,6 +27,7 @@ _**Projetos de pesquisa do campus Macaé:**_ http://www.macae.ufrj.br/index.php/
 
 ## Definições do Dia 08/02/21
 
+### Template dos Projetos de Pesquisa
 Primeiramente decidimos resolver a questão do **template para as pesquisas**. Como foi discutido na aula anterior, talvez não fosse interessante ramificar tanto cada tipo de pesquisa, mas tentar criar um modelo para **projeto de pesquisa**. Sendo assim, observando as nossas pesquisas e o que outros grupos já coletaram, sugerimos o seguinte **template para projetos de pesquisa**:
 
 1. Título do Projeto;
@@ -37,5 +38,4 @@ Primeiramente decidimos resolver a questão do **template para as pesquisas**. C
 6. Participantes;
 7. Tipo do Projeto (Iniciação Científica, Mestrado, Doutorado, ...);
 8. Objetivos de Desenvolvimento Sustentáveis Relacionados;
-
-?. Grupo de Pesquisa do Projeto?
+x. Grupo de Pesquisa do Projeto?
