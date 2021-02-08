@@ -20,11 +20,14 @@ Ademais focamos em compreender como as pesquisas se subdividiam. Vimos que são 
 Como a área de pesquisa é muito difusa de informações torna-se difícil ter um único local para procurar as informações. Para tentar melhorar isso focamos em procurar feiras em que as pesquisas fossem apresentadas. Encontramos as seguintes fontes:
 
 *Resumo das pesquisas apresentadas na SIAC e JICTAC*
+
 http://posgraduacao.ufrj.br/jictac/publicacao
 
 *Feira de Pesquisa do Instituto de Economia*
+
 https://www.ie.ufrj.br/pesquisa-j/jornada-de-pesquisa-ie-2020.html
 
 *Projetos de pesquisa do campus Macaé*
+
 http://www.macae.ufrj.br/index.php/77-pesquisa/projetos/696-projetos-de-pesquisa-do-campus-ufrj-macae
 
