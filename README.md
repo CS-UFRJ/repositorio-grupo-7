@@ -1,7 +1,7 @@
 # Repositorio do Grupo 7 - Pesquisa
-Grupo: Vinicius, Thierry e Rafaela.
+**Grupo**: Vinicius, Thierry e Rafaela.
 
-ODS: 1,2,3,6,13,14,15,17
+**ODS**: 1,2,3,6,13,14,15,17
 
 ## Definições do Dia 01/02/21
 
