@@ -25,3 +25,17 @@ _**Feira de Pesquisa do Instituto de Economia:**_ https://www.ie.ufrj.br/pesquis
 
 _**Projetos de pesquisa do campus Macaé:**_ http://www.macae.ufrj.br/index.php/77-pesquisa/projetos/696-projetos-de-pesquisa-do-campus-ufrj-macae
 
+## Definições do Dia 08/02/21
+
+Primeiramente decidimos resolver a questão do **template para as pesquisas**. Como foi discutido na aula anterior, talvez não fosse interessante ramificar tanto cada tipo de pesquisa, mas tentar criar um modelo para **projeto de pesquisa**. Sendo assim, observando as nossas pesquisas e o que outros grupos já coletaram, sugerimos o seguinte **template para projetos de pesquisa**:
+
+1. Título do Projeto;
+2. Descrição Breve do Projeto;
+3. Resumo do Projeto;
+4. Data da Apresentação;
+5. Orientador;
+6. Participantes;
+7. Tipo do Projeto (Iniciação Científica, Mestrado, Doutorado, ...);
+8. Objetivos de Desenvolvimento Sustentáveis Relacionados;
+
+?. Grupo de Pesquisa do Projeto?
