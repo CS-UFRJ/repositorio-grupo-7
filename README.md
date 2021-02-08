@@ -10,6 +10,7 @@ ODS: 1,2,3,6,13,14,15,17
 Compactamos nossas ODS nos seguintes grupos: 
 
 **Subgrupo alimentação e classes sociais:** Erradicação da Pobreza, Fome Zero e Agricultura Sustentável, Saúde e Bem-estar e Água Potável e Saneamento;
+
 **Subgrupo ambiental e externalização:** Ação Contra a Mudança Global do Clima, Vida na Água, Vida Terrestre e Parcerias e Meios de Implementação;
 
 Ademais focamos em compreender como as pesquisas se subdividiam. Vimos que são relevantes para nós as Iniciações Científicas, pesquisas de Pós-Graduação, Laboratórios e os Grupos de Pesquisa.
