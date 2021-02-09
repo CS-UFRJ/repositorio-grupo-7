@@ -29,6 +29,25 @@ _**Listagem de todos os cursos de Pós-Graduação, com todas as dissertações:
 
 _**Listagem de todos os Laboratórios da UFRJ:**_ http://pr2.ufrj.br/laboratorios
 
+#### Separado por ODS:
+
+##### Erradicação da Pobreza
+...
+##### Fome Zero e Agricultura Sustentável
+...
+##### Saúde e Bem-estar
+...
+##### Água Potável e Saneamento
+...
+##### Ação Contra a Mudança Global do Clima
+**Painel Brasileiro de Mudanças Climáticas:** http://www.pbmc.coppe.ufrj.br
+##### Vida na Água
+...
+##### Vida Terrestre
+...
+##### Parcerias e Meios de Implementação
+...
+
 ## Definições do Dia 08/02/21
 
 ### Template dos Projetos de Pesquisa
