@@ -45,6 +45,7 @@ _**Listagem de todos os Laboratórios da UFRJ:**_ http://pr2.ufrj.br/laboratorio
 
 #### Ação Contra a Mudança Global do Clima
 _**Painel Brasileiro de Mudanças Climáticas:**_ http://www.pbmc.coppe.ufrj.br
+_**Centro Clima:**_ http://www.centroclima.coppe.ufrj.br/index.php/br
 
 #### Vida na Água
 ...
@@ -78,4 +79,6 @@ Esse é um modelo que sugerimos e que pode ser alterado conforme a necessidade d
 **INVENTÁRIO DAS EMISSÕES DE GASES DE EFEITO ESTUFA DERIVADAS DE HIDRELÉTRICAS - Pós Graduação:**
 http://antigo.ppe.ufrj.br/ppe/production/tesis/masantos.pdf
 
+**The potential contribution of emerging economies to stop dangerous climate change. The case of Brazil.**
+https://onlinelibrary.wiley.com/doi/abs/10.1002/wcc.614
 
