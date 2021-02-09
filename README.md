@@ -96,7 +96,11 @@ _**Listagem de todos os Laboratórios da UFRJ:**_ http://pr2.ufrj.br/laboratorio
 ...
 
 #### Água Potável e Saneamento
-...
+_Centro experimental de saneamento ambiental:_ http://www.saneamento.poli.ufrj.br/index.php/br/
+
+_Programa de engenharia ambiental:_ http://www.pea.poli.ufrj.br/linhas.php
+
+_Laboratório de Tratamento de Águas e Reuso de Efluentes:_ http://www.eq.ufrj.br/labtare/
 
 #### Ação Contra a Mudança Global do Clima
 _Painel Brasileiro de Mudanças Climáticas:_ http://www.pbmc.coppe.ufrj.br
@@ -132,6 +136,8 @@ Esse é um modelo que sugerimos e que pode ser alterado conforme a necessidade d
 
 ### Listagem de Pesquisas encontradas
 
+#### Clima, energia
+
 **INVENTÁRIO DAS EMISSÕES DE GASES DE EFEITO ESTUFA DERIVADAS DE HIDRELÉTRICAS - Pós Graduação:** [7,9,13]
 
 http://antigo.ppe.ufrj.br/ppe/production/tesis/masantos.pdf
@@ -148,6 +154,8 @@ https://www.tandfonline.com/doi/abs/10.1080/14693062.2020.1717415
 
 http://www.centroclima.coppe.ufrj.br/index.php/br/estudos-e-projetos/encerrados/62-2020/237-proposta-metodologica-para-incorporacao-do-risco-climatico-nas-estrategias-de-negocios-da-neoenergia-apoio-ao-projeto-piloto-de-adaptacao-da-termope
 
+#### Criação de Embalagens
+
 **Desenvolvimento de embalagens valorizáveis para acondicionamento de frutas e hortaliças.** [15,12,9,17,(2)]
 
 https://ainfo.cnptia.embrapa.br/digital/bitstream/item/129760/1/antoniolli-XIVENFRUTE-P4-maio2015.pdf
@@ -155,3 +163,7 @@ https://ainfo.cnptia.embrapa.br/digital/bitstream/item/129760/1/antoniolli-XIVEN
 **(TCC)UM ESTUDO SOBRE AS PERDAS DE ALIMENTO NUMA DISTRIBUIDORA BRASILEIRA DE FRUTAS, LEGUMES E VERDURAS - FLV.** [15,12,(2)]
 
 https://pantheon.ufrj.br/bitstream/11422/12329/1/TTLouzada.pdf
+
+#### Saneamento e água potável
+
+
