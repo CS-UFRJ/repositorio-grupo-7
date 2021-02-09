@@ -48,7 +48,7 @@ Esse é um modelo que sugerimos e que pode ser alterado conforme a necessidade d
 
 ### Listagem de Pesquisas encontradas
 
-**INVENTÁRIO DAS EMISSÕES DE GASES DE EFEITO ESTUFA DERIVADAS DE HIDRELÉTRICAS - Pós Graduação: **
+**INVENTÁRIO DAS EMISSÕES DE GASES DE EFEITO ESTUFA DERIVADAS DE HIDRELÉTRICAS - Pós Graduação:**
 http://antigo.ppe.ufrj.br/ppe/production/tesis/masantos.pdf
 
 
