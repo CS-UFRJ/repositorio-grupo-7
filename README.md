@@ -44,7 +44,7 @@ _**Listagem de todos os Laboratórios da UFRJ:**_ http://pr2.ufrj.br/laboratorio
 ...
 
 #### Ação Contra a Mudança Global do Clima
-**Painel Brasileiro de Mudanças Climáticas:** http://www.pbmc.coppe.ufrj.br
+_**Painel Brasileiro de Mudanças Climáticas:**_ http://www.pbmc.coppe.ufrj.br
 
 #### Vida na Água
 ...
