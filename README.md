@@ -45,3 +45,10 @@ Primeiramente decidimos resolver a questão do **template para as pesquisas**. C
 9. ??? Grupo de Pesquisa do Projeto ???
 
 Esse é um modelo que sugerimos e que pode ser alterado conforme a necessidade dos demais grupos. Qualquer necessidade pelos grupos de desenvolvimento pode ser enviada para discutirmos a respeito.
+
+### Listagem de Pesquisas encontradas
+
+**INVENTÁRIO DAS EMISSÕES DE GASES DE EFEITO ESTUFA DERIVADAS DE HIDRELÉTRICAS - Pós Graduação: **
+http://antigo.ppe.ufrj.br/ppe/production/tesis/masantos.pdf
+
+
