@@ -1,7 +1,62 @@
 # Repositorio do Grupo 7 - Pesquisa
 **Grupo**: Vinicius, Thierry e Rafaela.
 
-**ODS**: 1,2,3,6,13,14,15,17
+**Nossos ODS**: 1,2,3,6,13,14,15,17
+
+## Listagem de Todos os ODS apenas para Referência
+1. **Erradicação da pobreza:**
+Desenvolve produtos ou serviços que beneficiam e melhoram a qualidade de vida de grupos economicamente vulneráveis. 
+
+2. **Fome zero e agricultura sustentável:**
+Apoia pequenos produtores de alimentos e a agricultura familiar.
+
+3. **Saúde e Bem-estar:**
+Incentiva comportamentos saudáveis entre seus públicos e melhora o acesso de seus colaboradores aos cuidados com a saúde.
+
+4. **Educação de qualidade:**
+Assegura que os funcionários de suas operações diretas e da cadeia de fornecimento tenham acesso a treinamento profissional e oportunidades de aprendizagem
+
+5. **Igualdade de Gênero:**
+Trata mulheres e homens de forma justa, com oportunidades iguais de crescimento profissional e equiparação de cargos e salários. 
+Respeita e apoia os direitos humanos e combate toda e qualquer discriminação à diversidade.
+
+6. **Água potável e Saneamento:**
+Implanta estratégias de gestão da água que sejam ambientalmente sustentáveis  e economicamente benéficas na região hidrográfica onde atua.
+
+7. **Energia Acessível e Limpa:**
+Aumenta sua eficiência energética, utiliza fontes renováveis e leva essas mesmas ações à sua cadeia de suprimentos.
+
+8. **Trabalho decente e crescimento econômico:**
+Garante condições de trabalho decente para funcionários em toda a sua operação e na cadeia de negócios e suprimentos. Cria empregos decentes e formais em setores intensivos em mão de obra. Educa e treina para o trabalho.
+
+9. **Indústria, Inovação e Infra-estrutura:**
+Investe em tecnologia para criar produtos, serviços e modelos de negócios Que promovam uma infraestrutura sustentável, moderna e resiliente.
+
+10. **Redução das desigualdades:**
+Cria e implementa produtos, serviços e modelos de negócios que visam explicitamente às necessidades das populações desfavorecidas e marginalizadas. Desenvolve políticas de compras que beneficiam pequenas empresas da região em que atua.
+
+11. **Cidades e comunidades sustentáveis:**
+Pesquisa, desenvolve e implanta produtos e serviços que melhoram o acesso a edifícios resilientes, mobilidade eficiente, limpa e moderna e a espaços comuns verdes. 
+Reflete sobre as melhores políticas de deslocamento e mobilidade de Funcionários, bem como de produtos e matéria-prima, dentro do contexto urbano.
+
+12. **Consumo e produção responsáveis:**
+Desenvolve, implementa e compartilha soluções para rastrear e divulgar a procedência de seus produtos, informar o consumidor por meio de políticas de rotulagem e monitora a eficácia dessa ação buscando o desenvolvimento da consciência ambiental e social na sociedade.
+
+13. **Ação contra a mudança global do clima:**
+Reduz substancialmente as emissões associadas às operações próprias e às da cadeia de suprimentos, em alinhamento com os mecanismos de regulação climática.
+
+14. **Vida na água:**
+Pesquisa, desenvolve e implementa produtos, serviços e modelos de negócios que eliminam impactos nos ecossistemas oceânicos e colaboram para sua restauração.
+
+15. **Vida terrestre:**
+Implementa políticas e práticas para proteger os ecossistemas naturais que são afetados por suas atividades e pelas ações de sua cadeia de suprimentos.
+Investe em pesquisa e tecnologia para o desenvolvimento de produtos, embalagens biodegradáveis, proporcionando assim uma mudança na própria indústria.
+
+16. **Paz, justiça e instituições eficazes:**
+Identifica e toma medidas eficazes contra a corrupção e a violência, nas suas próprias operações e nas de sua cadeia de abastecimento.
+
+17. **Parcerias e meios de implementação:**
+Atua em conjunto com o governo e sociedade civil em prol dos Objetivos De Desenvolvimento Sustentável
 
 ## Definições do Dia 01/02/21
 
