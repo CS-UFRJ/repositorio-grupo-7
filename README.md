@@ -25,6 +25,10 @@ _**Feira de Pesquisa do Instituto de Economia:**_ https://www.ie.ufrj.br/pesquis
 
 _**Projetos de pesquisa do campus Macaé:**_ http://www.macae.ufrj.br/index.php/77-pesquisa/projetos/696-projetos-de-pesquisa-do-campus-ufrj-macae
 
+_**Listagem de todos os cursos de Pós-Graduação, com todas as dissertações:**_ http://app.pr2.ufrj.br/cursos
+
+_**Listagem de todos os Laboratórios da UFRJ:**_ http://pr2.ufrj.br/laboratorios
+
 ## Definições do Dia 08/02/21
 
 ### Template dos Projetos de Pesquisa
