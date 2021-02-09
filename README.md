@@ -133,19 +133,25 @@ Esse é um modelo que sugerimos e que pode ser alterado conforme a necessidade d
 ### Listagem de Pesquisas encontradas
 
 **INVENTÁRIO DAS EMISSÕES DE GASES DE EFEITO ESTUFA DERIVADAS DE HIDRELÉTRICAS - Pós Graduação:** [7,9,13]
+
 http://antigo.ppe.ufrj.br/ppe/production/tesis/masantos.pdf
 
 **The potential contribution of emerging economies to stop dangerous climate change. The case of Brazil.** 
+
 https://onlinelibrary.wiley.com/doi/abs/10.1002/wcc.614
 
 **The role of lifestyle changes in low-emissions development strategies: an economy-wide assessment for Brazil.**
+
 https://www.tandfonline.com/doi/abs/10.1080/14693062.2020.1717415
 
 **Proposta metodológica para incorporação do risco climático nas estratégias de negócios da NEOENERGIA. Apoio ao projeto piloto de adaptação da TERMOPE.** [7,9,13,17]
+
 http://www.centroclima.coppe.ufrj.br/index.php/br/estudos-e-projetos/encerrados/62-2020/237-proposta-metodologica-para-incorporacao-do-risco-climatico-nas-estrategias-de-negocios-da-neoenergia-apoio-ao-projeto-piloto-de-adaptacao-da-termope
 
 **Desenvolvimento de embalagens valorizáveis para acondicionamento de frutas e hortaliças.** [15,12,9,17,(2)]
+
 https://ainfo.cnptia.embrapa.br/digital/bitstream/item/129760/1/antoniolli-XIVENFRUTE-P4-maio2015.pdf
 
-**UM ESTUDO SOBRE AS PERDAS DE ALIMENTO NUMA DISTRIBUIDORA BRASILEIRA DE FRUTAS, LEGUMES E VERDURAS - FLV.** [15,12,(2)]
+**(TCC)UM ESTUDO SOBRE AS PERDAS DE ALIMENTO NUMA DISTRIBUIDORA BRASILEIRA DE FRUTAS, LEGUMES E VERDURAS - FLV.** [15,12,(2)]
+
 https://pantheon.ufrj.br/bitstream/11422/12329/1/TTLouzada.pdf
