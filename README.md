@@ -169,3 +169,17 @@ https://pantheon.ufrj.br/bitstream/11422/12329/1/TTLouzada.pdf
 ### Listagem de Pesquisas encontradas (Thierry)
 
 ### Listagem de Pesquisas encontradas (Rafaela)
+
+**Desenvolvimento de um dispositivo de liberação controlada de fármaco para tratamento coadjuvante de doença periodontal.** [3] 
+
+http://www.metalmat.ufrj.br/index.php/br/pesquisa/producao-academica/-7/2018-1/554--520/file
+
+**Multimetodologia aplicada à gestão de resíduos sólidos em terminais portuários.** [13,14]
+
+http://www.coc.ufrj.br/pt/teses-de-doutorado/618-2019/9414-betina-maciel-versiani
+
+**A Brazilian Perspective on Zero Emission Fuels For Shipping** [7,14,15]
+
+http://www.ppe.ufrj.br/index.php/pt/pesquisa/projetos-de-pesquisa/2020/1728-a-brazilian-perspective-on-zero-emission-fuels-for-shipping
+
+
