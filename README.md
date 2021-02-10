@@ -134,7 +134,7 @@ Primeiramente decidimos resolver a questão do **template para as pesquisas**. C
 
 Esse é um modelo que sugerimos e que pode ser alterado conforme a necessidade dos demais grupos. Qualquer necessidade pelos grupos de desenvolvimento pode ser enviada para discutirmos a respeito.
 
-### Listagem de Pesquisas encontradas
+### Listagem de Pesquisas encontradas (Vinicius)
 
 #### Clima, energia
 
@@ -166,4 +166,6 @@ https://pantheon.ufrj.br/bitstream/11422/12329/1/TTLouzada.pdf
 
 #### Saneamento e água potável
 
+### Listagem de Pesquisas encontradas (Thierry)
 
+### Listagem de Pesquisas encontradas (Rafaela)
