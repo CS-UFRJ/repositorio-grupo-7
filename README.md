@@ -184,9 +184,11 @@ http://www.coc.ufrj.br/pt/teses-de-doutorado/618-2019/9414-betina-maciel-versian
 http://www.ppe.ufrj.br/index.php/pt/pesquisa/projetos-de-pesquisa/2020/1728-a-brazilian-perspective-on-zero-emission-fuels-for-shipping
 
 **Efeito de fibras de semente de manga nas propriedades mecânicas do cimento (artigo: 1120)** [9,15]
+
 http://sistemas.macae.ufrj.br/8siac/arquivo/Caderno_de_resumos_CT_2017.pdf
 
 **Produção orgânica e agroecológica de alimentos de origem animal e vegetal em propriedades urbanas com mão de obra familiar do estado do Rio de Janeiro (artigo: 37)** [1,2,8]
+
 https://sistemasiac.ufrj.br/cadernoController/gerarCadernoResumo/35000000
 
 
