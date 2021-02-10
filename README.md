@@ -179,15 +179,15 @@ http://www.metalmat.ufrj.br/index.php/br/pesquisa/producao-academica/-7/2018-1/5
 
 http://www.coc.ufrj.br/pt/teses-de-doutorado/618-2019/9414-betina-maciel-versiani
 
-**A Brazilian Perspective on Zero Emission Fuels For Shipping** [7,14,15]
+**A Brazilian Perspective on Zero Emission Fuels For Shipping** [14,15]
 
 http://www.ppe.ufrj.br/index.php/pt/pesquisa/projetos-de-pesquisa/2020/1728-a-brazilian-perspective-on-zero-emission-fuels-for-shipping
 
-**Efeito de fibras de semente de manga nas propriedades mecânicas do cimento (artigo: 1120)** [9,15]
+**Efeito de fibras de semente de manga nas propriedades mecânicas do cimento (artigo: 1120)** [15]
 
 http://sistemas.macae.ufrj.br/8siac/arquivo/Caderno_de_resumos_CT_2017.pdf
 
-**Produção orgânica e agroecológica de alimentos de origem animal e vegetal em propriedades urbanas com mão de obra familiar do estado do Rio de Janeiro (artigo: 37)** [1,2,8]
+**Produção orgânica e agroecológica de alimentos de origem animal e vegetal em propriedades urbanas com mão de obra familiar do estado do Rio de Janeiro (artigo: 37)** [1,2]
 
 https://sistemasiac.ufrj.br/cadernoController/gerarCadernoResumo/35000000
 
