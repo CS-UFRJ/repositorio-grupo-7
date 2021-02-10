@@ -4,13 +4,13 @@
 **Nossos ODS**: 1,2,3,6,13,14,15,17
 
 ## Listagem de Todos os ODS apenas para Referência
-1. **!Erradicação da pobreza:**
+1. **! Erradicação da pobreza:**
 Desenvolve produtos ou serviços que beneficiam e melhoram a qualidade de vida de grupos economicamente vulneráveis. 
 
-2. **!Fome zero e agricultura sustentável:**
+2. **! Fome zero e agricultura sustentável:**
 Apoia pequenos produtores de alimentos e a agricultura familiar.
 
-3. **!Saúde e Bem-estar:**
+3. **! Saúde e Bem-estar:**
 Incentiva comportamentos saudáveis entre seus públicos e melhora o acesso de seus colaboradores aos cuidados com a saúde.
 
 4. **Educação de qualidade:**
@@ -20,7 +20,7 @@ Assegura que os funcionários de suas operações diretas e da cadeia de forneci
 Trata mulheres e homens de forma justa, com oportunidades iguais de crescimento profissional e equiparação de cargos e salários. 
 Respeita e apoia os direitos humanos e combate toda e qualquer discriminação à diversidade.
 
-6. **!Água potável e Saneamento:**
+6. **! Água potável e Saneamento:**
 Implanta estratégias de gestão da água que sejam ambientalmente sustentáveis  e economicamente benéficas na região hidrográfica onde atua.
 
 7. **Energia Acessível e Limpa:**
@@ -42,20 +42,20 @@ Reflete sobre as melhores políticas de deslocamento e mobilidade de Funcionári
 12. **Consumo e produção responsáveis:**
 Desenvolve, implementa e compartilha soluções para rastrear e divulgar a procedência de seus produtos, informar o consumidor por meio de políticas de rotulagem e monitora a eficácia dessa ação buscando o desenvolvimento da consciência ambiental e social na sociedade.
 
-13. **!Ação contra a mudança global do clima:**
+13. **! Ação contra a mudança global do clima:**
 Reduz substancialmente as emissões associadas às operações próprias e às da cadeia de suprimentos, em alinhamento com os mecanismos de regulação climática.
 
-14. **!Vida na água:**
+14. **! Vida na água:**
 Pesquisa, desenvolve e implementa produtos, serviços e modelos de negócios que eliminam impactos nos ecossistemas oceânicos e colaboram para sua restauração.
 
-15. **!Vida terrestre:**
+15. **! Vida terrestre:**
 Implementa políticas e práticas para proteger os ecossistemas naturais que são afetados por suas atividades e pelas ações de sua cadeia de suprimentos.
 Investe em pesquisa e tecnologia para o desenvolvimento de produtos, embalagens biodegradáveis, proporcionando assim uma mudança na própria indústria.
 
 16. **Paz, justiça e instituições eficazes:**
 Identifica e toma medidas eficazes contra a corrupção e a violência, nas suas próprias operações e nas de sua cadeia de abastecimento.
 
-17. **!Parcerias e meios de implementação:**
+17. **! Parcerias e meios de implementação:**
 Atua em conjunto com o governo e sociedade civil em prol dos Objetivos De Desenvolvimento Sustentável
 
 ## Definições do Dia 01/02/21
