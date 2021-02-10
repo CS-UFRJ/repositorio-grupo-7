@@ -170,6 +170,7 @@ https://pantheon.ufrj.br/bitstream/11422/12329/1/TTLouzada.pdf
 
 ### Listagem de Pesquisas encontradas (Rafaela)
 
+
 **Desenvolvimento de um dispositivo de liberação controlada de fármaco para tratamento coadjuvante de doença periodontal.** [3] 
 
 http://www.metalmat.ufrj.br/index.php/br/pesquisa/producao-academica/-7/2018-1/554--520/file
