@@ -88,7 +88,9 @@ _**Listagem de todos os Laboratórios da UFRJ:**_ http://pr2.ufrj.br/laboratorio
 
 #### Erradicação da Pobreza
 _Programa de Pós-Graduação em Políticas Públicas, Estratégias e Desenvolvimento:_ https://www.ie.ufrj.br/pped-apresentacao.html
+
 _Centro de Estudos sobre Desigualdade e Desenvolvimento:_ https://www.ie.ufrj.br/cede
+
 _LABORATÓRIO DE RESPONSABILIDADE SOCIAL:_ https://www.lares.ie.ufrj.br/index.php/pt/
  
 #### Fome Zero e Agricultura Sustentável
