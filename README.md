@@ -150,13 +150,21 @@ http://monografias.poli.ufrj.br/monografias/monopoli10029635.pdf
 
 http://www.pee.ufrj.br/index.php/pt/producao-academica/teses-de-doutorado/2010/2010092101-2010092101/file
 
-**ANÁLISE NUMÉRICA DA DISTRIBUIÇÃO DE TEMPERATURA NO CÉREBRO HUMANO UTILIZANDO O MÉTODO DOS ELEMENTOS FINITOS** - tratamento de asfixia perinatal - []
+**ANÁLISE NUMÉRICA DA DISTRIBUIÇÃO DE TEMPERATURA NO CÉREBRO HUMANO UTILIZANDO O MÉTODO DOS ELEMENTOS FINITOS** - tratamento de asfixia perinatal - [3]
 
 https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=&ved=2ahUKEwjhzriE1-LuAhXhJbkGHdNOAAoQFjABegQIBhAC&url=http%3A%2F%2Fwww.coc.ufrj.br%2Fpt%2Fdocuments2%2Fmestrado%2F2012-2%2F1-ana-beatriz-de-carvalho-gonzaga-e-silva-mestrado%2Ffile&usg=AOvVaw10u_rho1FCKV8OJmBwtIio
 
 https://www.researchgate.net/publication/315036954_Modelo_Termoregulatorio_em_Elementos_Finitos_para_Simulacao_de_Tratamento_por_Hipotermia_em_Recem-nascidos
 
+**DESENVOLVIMENTO DE LEISHMANIA AMAZONENSIS EXPRESSANDO A PROTEÍNA FLUORESCENTE MCHERRY** - Criação de vacina - [3]
 
+https://sistemasiac.ufrj.br/cadernoController/gerarCadernoResumo/35000000       [artigo 2950]
+
+#### Fome Zero e Agricultura Sustentavel
+
+**CONEXÃO CAMPO E CIDADE UNEM UNIVERSIDADE E COMUNIDADE**
+
+https://sistemasiac.ufrj.br/cadernoController/gerarCadernoResumo/38000000       [artigo 6321]
 
 #### Clima, energia
 
@@ -227,3 +235,6 @@ https://sistemasiac.ufrj.br/cadernoController/gerarCadernoResumo/35000000     [a
 **ALGORITMO DE CLASSIFICAÇÃO DE PARES NO LINKAGE DE BASES DE DADOS DE SAÚDE**
 
 https://sistemasiac.ufrj.br/cadernoController/gerarCadernoResumo/35000000      [artigo 2257]
+
+**PROJETO IRRIGASOL: PROJETO DE IRRIGAÇÃO SUSTENTÁVEL**
+https://sistemasiac.ufrj.br/cadernoController/gerarCadernoResumo/38000000      [artigo 6353]
