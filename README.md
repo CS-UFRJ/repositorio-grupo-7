@@ -140,6 +140,11 @@ Esse é um modelo que sugerimos e que pode ser alterado conforme a necessidade d
 
 ### Listagem de Pesquisas encontradas (Vinicius)
 
+#### Saúde e Bem estar
+
+**PIPABOT: O CHATBOT DO PROJETO PIPA UFRJ** - Bebês Prematuros - [3]
+http://monografias.poli.ufrj.br/monografias/monopoli10029635.pdf
+
 #### Clima, energia
 
 **INVENTÁRIO DAS EMISSÕES DE GASES DE EFEITO ESTUFA DERIVADAS DE HIDRELÉTRICAS - Pós Graduação:** [7,9,13]
@@ -169,6 +174,8 @@ https://ainfo.cnptia.embrapa.br/digital/bitstream/item/129760/1/antoniolli-XIVEN
 https://pantheon.ufrj.br/bitstream/11422/12329/1/TTLouzada.pdf
 
 #### Saneamento e água potável
+**AVALIAÇÃO DE PROCESSOS OXIDATIVOS AVANÇADOS PARA POLIMENTODE EFLUENTE HOSPITALARBIOTRATADOCOM VISTAS AO REÚSO.** [3,6,(14)]
+https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=&ved=2ahUKEwjcytq10OLuAhWrILkGHeblBBEQFjAAegQIARAC&url=https%3A%2F%2Fpea.ufrj.br%2Fdownload%2F%3Fprocessos-oxidativos-avancados-para-polimento-de-efluente-hospitalar-biotratado-com-vistas-ao-reuso.pdf&usg=AOvVaw3-CuCMp619GQKuJRA3UvOG
 
 ### Listagem de Pesquisas encontradas (Thierry)
 
