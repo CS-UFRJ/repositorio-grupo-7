@@ -87,8 +87,10 @@ _**Listagem de todos os Laboratórios da UFRJ:**_ http://pr2.ufrj.br/laboratorio
 ### Fontes Separadas por ODS:
 
 #### Erradicação da Pobreza
-...
-
+_Programa de Pós-Graduação em Políticas Públicas, Estratégias e Desenvolvimento:_ https://www.ie.ufrj.br/pped-apresentacao.html
+_Centro de Estudos sobre Desigualdade e Desenvolvimento:_ https://www.ie.ufrj.br/cede
+_LABORATÓRIO DE RESPONSABILIDADE SOCIAL:_ https://www.lares.ie.ufrj.br/index.php/pt/
+ 
 #### Fome Zero e Agricultura Sustentável
 ...
 
@@ -100,7 +102,7 @@ _Centro experimental de saneamento ambiental:_ http://www.saneamento.poli.ufrj.b
 
 _Programa de engenharia ambiental:_ http://www.pea.poli.ufrj.br/linhas.php
 
-_Laboratório de Tratamento de Águas e Reuso de Efluentes:_ http://www.eq.ufrj.br/labtare/
+_(Antigo) Laboratório de Tratamento de Águas e Reuso de Efluentes:_ http://www.eq.ufrj.br/labtare/
 
 #### Ação Contra a Mudança Global do Clima
 _Painel Brasileiro de Mudanças Climáticas:_ http://www.pbmc.coppe.ufrj.br
@@ -169,27 +171,3 @@ https://pantheon.ufrj.br/bitstream/11422/12329/1/TTLouzada.pdf
 ### Listagem de Pesquisas encontradas (Thierry)
 
 ### Listagem de Pesquisas encontradas (Rafaela)
-
-
-**Desenvolvimento de um dispositivo de liberação controlada de fármaco para tratamento coadjuvante de doença periodontal.** [3] 
-
-http://www.metalmat.ufrj.br/index.php/br/pesquisa/producao-academica/-7/2018-1/554--520/file
-
-**Multimetodologia aplicada à gestão de resíduos sólidos em terminais portuários.** [13,14]
-
-http://www.coc.ufrj.br/pt/teses-de-doutorado/618-2019/9414-betina-maciel-versiani
-
-**A Brazilian Perspective on Zero Emission Fuels For Shipping** [14,15]
-
-http://www.ppe.ufrj.br/index.php/pt/pesquisa/projetos-de-pesquisa/2020/1728-a-brazilian-perspective-on-zero-emission-fuels-for-shipping
-
-**Efeito de fibras de semente de manga nas propriedades mecânicas do cimento (artigo: 1120)** [15]
-
-http://sistemas.macae.ufrj.br/8siac/arquivo/Caderno_de_resumos_CT_2017.pdf
-
-**Produção orgânica e agroecológica de alimentos de origem animal e vegetal em propriedades urbanas com mão de obra familiar do estado do Rio de Janeiro (artigo: 37)** [1,2]
-
-https://sistemasiac.ufrj.br/cadernoController/gerarCadernoResumo/35000000
-
-
-
