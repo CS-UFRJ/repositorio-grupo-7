@@ -84,6 +84,8 @@ _**Listagem de todos os cursos de Pós-Graduação, com todas as dissertações:
 
 _**Listagem de todos os Laboratórios da UFRJ:**_ http://pr2.ufrj.br/laboratorios
 
+_**Pantheon - Repositório Institucional da UFRJ:**_ https://pantheon.ufrj.br/
+
 ### Fontes Separadas por ODS:
 
 #### Erradicação da Pobreza
@@ -165,6 +167,10 @@ https://sistemasiac.ufrj.br/cadernoController/gerarCadernoResumo/35000000       
 **CONEXÃO CAMPO E CIDADE UNEM UNIVERSIDADE E COMUNIDADE**
 
 https://sistemasiac.ufrj.br/cadernoController/gerarCadernoResumo/38000000       [artigo 6321]
+
+**Contribuição com a cadeia produtiva da pesca: beneficiamento de massa de macarrão sem glúten à base de Surimi**
+
+https://pantheon.ufrj.br/handle/11422/5794
 
 #### Clima, energia
 
