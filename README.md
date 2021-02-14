@@ -211,12 +211,19 @@ https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=&ved=2ahUKEwjcytq1
 https://sistemasiac.ufrj.br/cadernoController/gerarCadernoResumo/35000000 [artigo 17]
  
 **Título do Projeto:** Medição do aumento da aeração nasal após manobras de higiene, hidratação e aumento da demanda cardiorrespiratória em pacientes respiradores orais.
-**Descrição breve do Projeto:** O projeto tem o intuito de quantificar as mudanças ocorridas na geometria das cavidades nasais, antes e depois das manobras de higiene, hidratação e aumento da demanda cardiorrespiratória por meio da medida da aeração nasal em pacientes respiradores orais para verificar a eficácia das mesmas
+
+**Descrição breve do Projeto:** O projeto tem o intuito de quantificar as mudanças ocorridas na geometria das cavidades nasais, antes e depois das manobras de higiene, hidratação e aumento da demanda cardiorrespiratória por meio da medida da aeração nasal em pacientes respiradores orais para verificar a eficácia das mesmas.
+
 **Resumo do Projeto:** Introdução: A respiração nasal é considerada a matriz funcional do crescimento craniofacial. Essencial para a olfação, filtragem e umidificação do ar inspirado. Quando a via nasal não possibilita a passagem de ar, este passa a ser captado por meio da boca, instalando-se a respiração oral por princípio de adaptação patológica. Este trabalho foi realizado com o intuito de relatar o impacto das manobras de higiene, hidratação, aumento da demanda cardiorrespiratória e conscientização de cada narina em benefício da aeração nasal em pacientes respiradores orais. Objetivos: Quantificar as mudanças ocorridas na geometria das cavidades nasais, antes e depois das manobras de higiene, hidratação e aumento da demanda cardiorrespiratória por meio da medida da aeração nasal em pacientes respiradores orais para verificar a eficácia das mesmas. Métodos: O estudo foi realizado com 13 pacientes respiradores orais do projeto Intervenção Fonoaudiológica em Pacientes Acompanhados no Ambulatório de Motricidade Orofacial Funcional do Instituto de Neurologia Deolindo Couto/UFRJ, submetidos à avaliação da aeração nasal com o auxílio do espelho milimetrado de Altmann. Primeiramente a área embaçada do ar expirado foi marcada com hidrocor azul e logo após as manobras de higiene, hidratação e aumento da demanda cardiorrespiratória houve uma nova marcação com hidrocor vermelho, para a comparação dos resultados. As imagens foram importadas para o computador através do aplicativo para celular CamScanner. A análise foi realizada no software ImageJ, e utilizada a mensuração da área de acordo com a transformação da escala de pixels por cm2 . A pesquisa foi do tipo descritivo e transversal. Resultados: É possível notar ganho da aeração nasal após as manobras nasais. Observamos ainda que, como foram selecionados pacientes com síndrome do respirador oral, ou seja, abrangendo pacientes alérgicos e com obstruções mecânicas de vias aéreas, pode-se notar que não houve um padrão entre as áreas em cada narina. Conclusão: Foi possível concluir que as manobras de higiene, hidratação e aumento da demanda cardiorrespiratória apresentam significativa eficácia para a melhora da aeração nasal em pacientes respiradores orais.
+
 **Data da Apresentação:** Outubro de 2019
+
 **Orientador(a):** Marcia Mendonça Lucena
+
 **Participantes:** Alice Thalita Guedes da Silva, Marcia Mendonça Lucena, Thais Araújo Ferreira Chabudt
+
 **Tipo de Projeto:** Iniciação Científica
+
 **Objetivos de Desenvolvimento Sustentável:** Saúde e Bem Estar
  
 **CLASSIFICAÇÃO E EPIDEMIOLOGIA DA FORMA RECOMBINANTE CRF45_CPX DO HIV-1 NO BRASIL** [3]
