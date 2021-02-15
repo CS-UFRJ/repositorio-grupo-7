@@ -148,6 +148,10 @@ Esse é um modelo que sugerimos e que pode ser alterado conforme a necessidade d
 
 http://monografias.poli.ufrj.br/monografias/monopoli10029635.pdf
 
+**Associação entre vitamina D e marcadores do metabolismo glicídico na gestação e desfechos neonatais: resultados de uma coorte brasileira** [3]
+
+http://www.ppgn.ufrj.br/wp-content/uploads/2020/07/Camila-Benaim-Rodriguez-tese.pdf
+
 **FABRICAÇÃO E FUNCIONALIZAÇÃO DE SENSORES À FIBRA ÓPTICA DE PLÁSTICO, EM FORMA DE W, PARA ADETECÇÃO DE SALMONELLA ENTÉRICA** [3]
 
 http://www.pee.ufrj.br/index.php/pt/producao-academica/teses-de-doutorado/2010/2010092101-2010092101/file
@@ -171,6 +175,10 @@ https://sistemasiac.ufrj.br/cadernoController/gerarCadernoResumo/38000000       
 **Contribuição com a cadeia produtiva da pesca: beneficiamento de massa de macarrão sem glúten à base de Surimi**
 
 https://pantheon.ufrj.br/handle/11422/5794
+
+**DEVELOPMENT AND CHARACTERIZATION OF POLYMERIC COMPOSITES FOR APPLICATION AS A POST-HARVEST COATING ON STRAWBERRIES**
+
+https://ppgcal.iq.ufrj.br/wp-content/uploads/Tese-Caroline-Coelho-PPGCAL.pdf
 
 #### Clima, energia
 
@@ -202,7 +210,13 @@ https://pantheon.ufrj.br/bitstream/11422/12329/1/TTLouzada.pdf
 
 #### Saneamento e água potável
 **AVALIAÇÃO DE PROCESSOS OXIDATIVOS AVANÇADOS PARA POLIMENTODE EFLUENTE HOSPITALARBIOTRATADOCOM VISTAS AO REÚSO.** [3,6,(14)]
+
 https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=&ved=2ahUKEwjcytq10OLuAhWrILkGHeblBBEQFjAAegQIARAC&url=https%3A%2F%2Fpea.ufrj.br%2Fdownload%2F%3Fprocessos-oxidativos-avancados-para-polimento-de-efluente-hospitalar-biotratado-com-vistas-ao-reuso.pdf&usg=AOvVaw3-CuCMp619GQKuJRA3UvOG
+
+#### Vida terrestre 
+**EMPREENDIMENTOS DE GERAÇÃO HIDRELÉTRICA NA AMAZÔNIA: DESMATAMENTO EM ÁREAS DE USO RESTRITO E GESTÃO DE ÁREAS PROTEGIDAS ** [15]
+
+http://www.ppe.ufrj.br/images/publica%C3%A7%C3%B5es/doutorado/Orleno_Marques_da_Silva_Junior.pdf
 
 ### Listagem de Pesquisas encontradas (Thierry)
 #### Saúde e Bem estar
@@ -356,5 +370,50 @@ https://sistemasiac.ufrj.br/cadernoController/gerarCadernoResumo/38000000      [
 
 ## Definições do Dia 18/02/21
 
+### Fontes externas
+
+http://www.funasa.gov.br/pesquisas-e-desenvolvimento-tecnologico-em-saude-ambiental-e-saneamento
+
 ### Ações de Pesquisa Externas
 
+#### Conservação Marinha
+
+**Projeto NuPlastiQ XP - USP**
+
+O projeto visa avaliar o mecanismo de biodegradação e os efeitos potenciais do NuPlastiQ XP no ambiente marinho, considerando o emprego de diferentes abordagens metodológicas para trazer evidências da teoria microbiológica e ecológica sobre diferentes aspectos do processo de biodegradação.
+
+**Projeto PEMALM - USP**
+
+O Plano de Monitoramento e Avaliação do Lixo no Mar (PEMALM) é um projeto que visa estabelecer, de maneira participativa, um canal de comunicação eficaz entre ciência e gestão, a fim de agregar iniciativas e criar oportunidades de aprendizado coletivo, considerando tomadores de decisão e outros atores interessados em contribuir para soluções para o problema do lixo no mar no Estado de São Paulo. 
+
+**Projeto OLA - USP**
+
+O lixo marinho é um problema global, havendo diversas iniciativas nacionais e internacionais tentando entendê-lo e combatê-lo. O Brasil, como muitos outros países em desenvolvimento, busca uma abordagem multi-soluções para enfrentar o lixo no mar, mas encontra inúmeras barreiras para engajar a sociedade e promover o controle social. 
+
+**Projeto Lixo nos Mares - USP**
+
+O problema do lixo nos mares é de ordem onipresente que demanda a colaboração de todos os atores da sociedade tais como governo, organizações da sociedade civil, indústria etc. Através do convênio entre o setor plástico e o Instituto Oceanográfico da USP, este projeto tem como objetivo a implementação de ações para mitigar a entrada de resíduos nos mares.
+
+#### Água Potável e Saneamento
+
+**SmARTER II: Sustainable Approaches for Resilience Building in North East Brazil - UFC**
+
+https://www.sciencedirect.com/science/article/abs/pii/S0306261920311776?via%3Dihub
+
+**Avaliação da microaeração na eficiência, estabilidade operacional, qualidade do biogás e controle de odor em sistemas anaeróbios de tratamento - UFC**
+
+http://www.repositorio.ufc.br/handle/riufc/7986
+
+**Avaliação do processo de desinfecção solar (SODIS) e de sua viabilidade social no estado do Ceará - UFC**
+
+http://www.repositorio.ufc.br/handle/riufc/16847
+
+**Aerosol and clouds lifecycles in Amazonia: biogenic emissions, biomass burning and impacts on ecosystem (2018-2022)** [13,15]
+
+http://lfa.if.usp.br/index.php/Proj/ATTO
+
+#### Vida Terrestre
+
+**Adaptive Networks for Restoration Ecology - UFPB**
+
+https://www.sciencedirect.com/science/article/abs/pii/S0169534718301393#!
