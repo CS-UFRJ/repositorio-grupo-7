@@ -244,7 +244,7 @@ https://sistemasiac.ufrj.br/cadernoController/gerarCadernoResumo/35000000 [artig
 
 **Participantes:** Alexandre Bonfim Pinheiro da Silva, João Marcos Pereira Bezerra, Tiago Graf, Beatriz Mello Carvalho
 
-T**ipo de Projeto:** Iniciação Científica
+**Tipo de Projeto:** Iniciação Científica
 
 **Objetivos de Desenvolvimento Sustentável:** Saúde e Bem estar
 
@@ -353,3 +353,8 @@ https://sistemasiac.ufrj.br/cadernoController/gerarCadernoResumo/35000000      [
 
 **PROJETO IRRIGASOL: PROJETO DE IRRIGAÇÃO SUSTENTÁVEL**
 https://sistemasiac.ufrj.br/cadernoController/gerarCadernoResumo/38000000      [artigo 6353]
+
+## Definições do Dia 18/02/21
+
+### Ações de Pesquisa Externas
+
