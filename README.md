@@ -170,10 +170,6 @@ https://sistemasiac.ufrj.br/cadernoController/gerarCadernoResumo/35000000       
 
 #### Fome Zero e Agricultura Sustentavel
 
-**CONEXÃO CAMPO E CIDADE UNEM UNIVERSIDADE E COMUNIDADE**
-
-https://sistemasiac.ufrj.br/cadernoController/gerarCadernoResumo/38000000       [artigo 6321]
-
 **Contribuição com a cadeia produtiva da pesca: beneficiamento de massa de macarrão sem glúten à base de Surimi**
 
 https://pantheon.ufrj.br/handle/11422/5794
