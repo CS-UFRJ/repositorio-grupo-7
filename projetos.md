@@ -84,6 +84,8 @@ Esse arquivo possui os projetos com todos os dados completos, seguindo o templat
 
 
 
+
+
 ## Modelo Termoregulatório em Elementos Finitos para Simulação de Tratamento por Hipotermia em Recém-nascidos
 
 **Título do Projeto:** Modelo Termoregulatório em Elementos Finitos para Simulação de Tratamento por Hipotermia em Recém-nascidos
@@ -121,5 +123,119 @@ Esse arquivo possui os projetos com todos os dados completos, seguindo o templat
 **Tipo de Projeto:** Não Identificado
 
 **Objetivos de Desenvolvimento Sustentável:** Saúde e Bem-Estar [3]
+
+
+
+
+
+##MEDIÇÃO DO AUMENTO DA AERAÇÃO NASAL PÓS MANOBRAS DE HIGIENE, HIDRATAÇÃO E AUMENTO DA DEMANDA CARDIORRESPIRATÓRIA EM PACIENTES RESPIRADORES ORAIS
+
+https://sistemasiac.ufrj.br/cadernoController/gerarCadernoResumo/35000000 [artigo 17]
+ 
+**Título do Projeto:** Medição do aumento da aeração nasal após manobras de higiene, hidratação e aumento da demanda cardiorrespiratória em pacientes respiradores orais.
+
+**Descrição breve do Projeto:** O projeto tem o intuito de quantificar as mudanças ocorridas na geometria das cavidades nasais, antes e depois das manobras de higiene, hidratação e aumento da demanda cardiorrespiratória por meio da medida da aeração nasal em pacientes respiradores orais para verificar a eficácia das mesmas.
+
+**Resumo do Projeto:** Introdução: A respiração nasal é considerada a matriz funcional do crescimento craniofacial. Essencial para a olfação, filtragem e umidificação do ar inspirado. Quando a via nasal não possibilita a passagem de ar, este passa a ser captado por meio da boca, instalando-se a respiração oral por princípio de adaptação patológica. Este trabalho foi realizado com o intuito de relatar o impacto das manobras de higiene, hidratação, aumento da demanda cardiorrespiratória e conscientização de cada narina em benefício da aeração nasal em pacientes respiradores orais. Objetivos: Quantificar as mudanças ocorridas na geometria das cavidades nasais, antes e depois das manobras de higiene, hidratação e aumento da demanda cardiorrespiratória por meio da medida da aeração nasal em pacientes respiradores orais para verificar a eficácia das mesmas. Métodos: O estudo foi realizado com 13 pacientes respiradores orais do projeto Intervenção Fonoaudiológica em Pacientes Acompanhados no Ambulatório de Motricidade Orofacial Funcional do Instituto de Neurologia Deolindo Couto/UFRJ, submetidos à avaliação da aeração nasal com o auxílio do espelho milimetrado de Altmann. Primeiramente a área embaçada do ar expirado foi marcada com hidrocor azul e logo após as manobras de higiene, hidratação e aumento da demanda cardiorrespiratória houve uma nova marcação com hidrocor vermelho, para a comparação dos resultados. As imagens foram importadas para o computador através do aplicativo para celular CamScanner. A análise foi realizada no software ImageJ, e utilizada a mensuração da área de acordo com a transformação da escala de pixels por cm2 . A pesquisa foi do tipo descritivo e transversal. Resultados: É possível notar ganho da aeração nasal após as manobras nasais. Observamos ainda que, como foram selecionados pacientes com síndrome do respirador oral, ou seja, abrangendo pacientes alérgicos e com obstruções mecânicas de vias aéreas, pode-se notar que não houve um padrão entre as áreas em cada narina. Conclusão: Foi possível concluir que as manobras de higiene, hidratação e aumento da demanda cardiorrespiratória apresentam significativa eficácia para a melhora da aeração nasal em pacientes respiradores orais.
+
+**Data da Apresentação:** Outubro de 2019
+
+**Orientador(a):** Marcia Mendonça Lucena
+
+**Participantes:** Alice Thalita Guedes da Silva, Marcia Mendonça Lucena, Thais Araújo Ferreira Chabudt
+
+**Tipo de Projeto:** Iniciação Científica
+
+**Objetivos de Desenvolvimento Sustentável:** Saúde e Bem Estar [3]
+
+
+
+
+##CLASSIFICAÇÃO E EPIDEMIOLOGIA DA FORMA RECOMBINANTE CRF45_CPX DO HIV-1 NO BRASIL
+
+https://sistemasiac.ufrj.br/cadernoController/gerarCadernoResumo/35000000 [artigo 4185]
+
+**Título do Projeto:** Classificação e Epidemiologia da forma recombinante CRF45_CPX do HIV-1 no Brasil
+
+**Descrição breve do Projeto:** O projeto busca destacar a importância para a vigilância epidemiológica de formas emergentes do HIV-1 no país, que podem ser vinculadas a processos de introduções externas, efeitos fundadores e/ou crescimento de práticas que ponham em risco determinados nichos populacionais.
+
+**Resumo do Projeto:** A pandemia da aids é causada pelo vírus HIV-1, cujo grupo M é dividido em nove subtipos que podem se recombinar gerando formas recombinantes circulantes (CRFs) [1]. No Brasil, majoritariamente, os subtipos do HIV-1 circulantes são o B, C, F1 e as CRFs formadas pela combinação destes subtipos [2]. Porém, outras CRFs vêm sendo notificadas, como CRF45_cpx que é composta pelos subtipos A, K e regiões indeterminadas (U). Esta é uma CRF encontrada principalmente na África Ocidental, mas já foi registrada em outros países, como Reino Unido, França, Estados Unidos e Brasil [3]. O objetivo deste trabalho foi investigar a presença dessa variante em sequências nucleotídicas virais contidas no banco de dados da Rede Nacional de Genotipagem do HIV-1 (RENAGENO) entre os anos de 2008 a 2017. Inicialmente, as sequências do gene pol do HIV-1, foram subtipadas usando três ferramentas onlines: RIP, COMET e REGA. As sequências que se mostraram discordantes pelas três ferramentas foram separadas para posterior construção de árvores filogenéticas. As sequências foram colocadas juntamente com um dataset de sequências referência e alinhadas com o programa MAFFT. O portal CIPRES foi usado para rodar e construir as árvores de máxima verossimilhança, através do programa IQ-TREE, utilizando o método de ultrafast bootstrap (UFBOOT) como suporte estatístico para os cálculos. As árvores foram visualizadas no programa FigTree e aquelas que tiveram alto suporte de agrupamento (>70 UFBOOT) com sequências referências foram classificadas. Após isso, os indivíduos infectados com a forma CRF45_cpx foram caracterizados quanto a seus dados demográficos e epidemiológicos. Os resultados mostraram que 58 sequências são CRF45_cpx. Os estados que tiveram ocorrências foram Minas Gerais (48,3%, n=28), Rio de Janeiro (34,5%, n=20), São Paulo (8,6%, n=5), Paraná (5,2%, n=3) e Rio Grande do Sul (3,4%, n=2). A cidade do Rio de Janeiro foi a que teve mais casos (20,7%, n=12). Dos 58 casos, as mulheres representaram 60,3% (n=35). Quanto à etnia, a maioria se autodeclarou como parda (50% dos informados, n=15). A faixa etária de 34 a 45 anos representou 34,5% (n=20). Não foi observada nenhuma tendência de crescimento ou diminuição da prevalência da CRF45_cpx ao longo do período amostrado, sendo que em média ela representou 0,1% das sequências por ano. Apesar da baixa prevalência, nosso estudo chama atenção para uma nova CRF que vem se espalhando pelo Brasil, principalmente pela região Sudeste. A principal via de transmissão, aparentemente é a heterossexual, em virtude do grande número de mulheres infectadas. Estes resultados destacam a importância para a vigilância epidemiológica de formas emergentes do HIV-1 no país, que podem ser vinculadas a processos de introduções externas, efeitos fundadores e/ou crescimento de práticas que ponham em risco determinados nichos populacionais. 
+
+**Data de Apresentação:** Outubro de 2019
+
+**Orientador(a):** Tiago Graf e Beatriz Mello Carvalo
+
+**Participantes:** Alexandre Bonfim Pinheiro da Silva, João Marcos Pereira Bezerra, Tiago Graf, Beatriz Mello Carvalho
+
+**Tipo de Projeto:** Iniciação Científica
+
+**Objetivos de Desenvolvimento Sustentável:** Saúde e Bem estar [3]
+
+
+
+##PRODUÇÃO ORG NICA E AGROECOLÓGICA DE ALIMENTOS DE ORIGEM ANIMAL E VEGETAL EM PROPRIEDADES URBANAS COM MÃO DE OBRA FAMILIAR DO ESTADO DO RIO DE JANEIRO
+
+https://sistemasiac.ufrj.br/cadernoController/gerarCadernoResumo/35000000 [artigo 37]
+
+**Título do Projeto:** Produção orgânica e agroecológica de alimentos de origem animal e vegetal em propriedades urbanas com mão de obra familiar do estado do rio de janeiro
+
+**Descrição Breve do Projeto:** O projeto provê assistência técnica para promover e estimular a produção de alimentos orgânicos em propriedades com mão de obra familiar, inclusive como fonte de aumento de renda.
+
+**Resumo do Projeto:** A produção sustentável e saudável de alimentos é uma prioridade atualmente. Existe mercado e tecnologia para isso. A assistência técnica pode promover e estimular a produção de alimentos orgânicos em propriedades com mão de obra familiar, inclusive como fonte de aumento de renda. A Fazendinha Nossa Terra foi alvo do projeto no ano de 2017 e está capacitada a produzir ovos, leite e hortaliças sem uso regular de antibióticos, agrotóxicos e hormônios. A Fazenda pertence a uma comunidade urbana conhecida como Monte Sião, composta por 40 famílias e localizada em Várzea das Moças, Niterói, RJ. Com cerca de 300 moradores, há voluntários que cuidam da manutenção da Fazenda, além de um empregado em tempo integral. A área de criação de animais conta com vacas leiteiras, galinhas poedeiras e cavalos. As vacas são inseminadas artificialmente e as fêmeas ao parir passam a fornecer o leite. As galinhas são dispostas em dois galinheiros e produzem ovos que, assim como o leite, são consumidos pelos moradores da comunidade e o excedente é vendido em uma feira orgânica. Tanto as vacas como as galinhas são dispostas em piquetes de rotação, a fim de que o solo se restabeleça de forma natural. A área agrícola é composta por uma horta feita em telhas suspensas, a fim de facilitar manuseio e evitar alagamento em épocas de chuva, e um pomar com variedade de árvores frutíferas, como mangueiras, goiabeiras, bananeiras, aceroleiras, romãzeiras e outras mais exóticas, como abiu, jambo, mangostão e grumixama. Há ainda um espaço dedicado à produção de brotos e sementeiras. Com foco na sustentabilidade, a Fazenda conta com tecnologias sustentáveis já em funcionamento, como o biodigestor e a compostagem para produção de fertilizantes naturais, e outras em processo de adaptação e melhorias, como o cata-vento para bombeamento de água na irrigação da horta, e a criação de larvas Soldado Negro, desenvolvidas a partir da decomposição de resíduos orgânicos e capazes de servir de alimento para animais como galinhas e peixes. Esta fazenda foi acompanhada por visitas quinzenais de alunos e professores de áreas afins para auxiliar no combate a doenças, pragas e necessidades diversas do sistema de produção com uso de tecnologias baseadas em fitoterapia, homeopatia, manejo racional e profilaxia. A integração entre as culturas também foi estimulada como meio de fortalecer a cadeia produtiva dentro da fazenda e evitar uso de produtos químicos adquiridos externamente. As técnicas caseiras ou populares para lidar com as culturas são consideradas e seu uso avaliado quanto à resposta efetiva à produção. A produção agropecuária é mensurada e a viabilidade econômica está sendo verificada. Um relatório anual será confeccionado para avaliação da eficácia do acompanhamento técnico e da evolução da qualidade de vida dos participantes. 
+
+**Data de Apresentação:** Outubro de 2019
+
+**Orientador(a):** Sandro Cesar Salvador
+
+**Participantes:** Sandro Cesar Salvador, Karen Ferreira Martins dos Santos
+
+**Tipo de Projeto:** Iniciação Científica
+
+**Objetivos de Desenvolvimento Sustentável:** Fome Zero e Agricultura Sustentável [2] e Erradicação da Pobreza [1]
+
+
+
+
+##ESTUDO DE ADAPTAÇÃO DAS FUNÇÕES URBANAS APLICADAS NA FERRAMENTA “INTEGRATED MODIFICATION METHODOLOGY (IMM)” COM FOCO NO PLANEJAMENTO DE BACIAS URBANAS – ESTUDO DE CASO DA BACIA HIDROGRÁFICA DO CANAL DO MANGUE
+
+https://sistemasiac.ufrj.br/cadernoController/gerarCadernoResumo/36000000 [artigo 4047]
+
+**Título do Projeto:**  Estudo de adaptação das funções urbanas aplicadas na ferramenta “integrated modification methodology (IMM)” com foco no planejamento de bacias urbanas - estudos de caso da bacia hidrográfica do canal do mangue
+
+**Descrição Breve do Projeto:** Nesta iniciação científica, em particular, a análise está centrada no estudo das funções urbanas, e sua relação com as inundações, e busca analisar a ideia de vitalidade urbana, que sintetiza o conjunto de potencialidades e/ou falhas na diversidade de serviços e funções oferecidos.
+
+**Resumo do Projeto:** Os processos de urbanização, frequentemente, tendem a não considerar valores ambientais, culturais e sociais, de forma sistêmica, no processo de planejamento da paisagem e ordenação do uso do solo, agravando um dos principais problemas enfrentados pelas cidades na atualidade: o risco de inundações. Neste contexto, este estudo visa contribuir para o desenvolvimento de em método analítico para planejamento e projeto urbano, que incorpora a dinâmica das águas nas soluções urbanas atuais e futuras. Alternativas de projeto devem explorar as relações entre os ambientes natural e construído, identificando que tipos de relações espaciais estão sendo criadas para subsidiar a discussão sobre possibilidades futuras. A metodologia “Integrated Modification Methodology (IMM)”, desenvolvida pelo Laboratório de Desenho Urbano Multidisciplinar para a Sustentabilidade Urbana - da Universidade Politécnica de Milão, visa incrementar a eficiência energética das cidades, com destaque para a otimização dos transportes com relações sinérgicas para outras camadas de planejamento. Uma adaptação desta metodologia é aqui proposta visando a mitigação de inundações urbanas. Nesse contexto, substitui-se a camada de avaliação relacionada com os transportes pela drenagem urbana, defendida como eixo estruturante do planejamento, cumprindo um papel de intermediação entre necessidades ambientais e demandas urbanas. A metodologia do IMM parte da análise de quatro camadas básicas: volumes, vazios, funções e transporte. Na adaptação proposta, portanto, tem-se também quatro camadas: o estudo das densidades, analisando os volumes urbanos, o estudo das áreas Livres, fundamentais para provimento de volumes de armazenamento para a drenagem, o estudo das funções, que passa incluir a mobilidade e, por fim, o estudo de inundação, sendo observados os aspectos de funcionamento da drenagem urbana. Nesta iniciação científica, em particular, a análise está centrada no estudo das funções urbanas, e sua relação com as inundações, e busca analisar a ideia de vitalidade urbana, que sintetiza o conjunto de potencialidades e/ou falhas na diversidade de serviços e funções oferecidos. Foram definidas seis funções a serem analisadas, segundo seus raios de influência na área urbana: saúde pública, educação pública, segurança pública, entretenimento, comércio e mobilidade. Efetua-se a espacialização das funções e o cruzamento com a mancha de inundação para o tempo de retorno de referência de 25 anos. Tal análise auxilia na compreensão das dinâmicas urbanas, apontando, por exemplo, quais as áreas que sofrem mais perdas de suas funções por serem afetadas pela inundação. A bacia hidrográfica do Canal do Mangue, na Zona Norte do Rio de Janeiro, é tomada como bacia de teste, dado que ela foi estudada em pesquisas anteriores, com inúmeros resultados e diagnóstico de funcionamento. Para esta bacia, na SIAC passada, foram estudados os aspectos relativos às diversas densidades urbanas. 
+
+**Data de Apresentação:** Outubro de 2019
+
+**Orientador(a):** Marcelo Gomes Miguez
+
+**Participantes:** Sofia Martins Pessoa de Andrade, Marcelo Gomes, Miguez, Ianic Bigate Lourenço
+
+**Tipo de Projeto:** Iniciação Científica
+
+**Objetivos de Desenvolvimento Sustentável:** Água Potável e Saneamento [6], Indústria, Inovação e Infra-estrutura [9] e Cidades e Comunidades Sustentáveis [11]
+
+
+
+
+
+## Contribuição com a cadeia produtiva da pesca: beneficiamento de massa de macarrão sem glúten à base de Surimi
+
+**Título do Projeto:** Contribuição com a cadeia produtiva da pesca: beneficiamento de massa de macarrão sem glúten à base de Surimi
+
+**Descrição breve do Projeto:** O objetivo foi utilizare xcedentes de peixe capturado pelas comunidades pesqueiras, ou de cultivo (aquicultura), ou peixes de baixo valor de mercado para desenvolver ummacarrão. A pesquisa permitiu que os atores envolvidos conhecessem novas tecnologias, os dando a esperança de gerir novos empreendimentos e criar novos produtos.
+
+**Resumo do Projeto:** O Brasil precisa melhor aproveitar os recursos pesqueiros, desenvolvendo produtos socialmente inovadores com conhecimento técnico-científico, de alto valor agregado, baixo custo de produção e com identidade cultural. O surimi é um concentrado proteico extraído de peixe e o desafio desta dissertação foi beneficiar uma massa fresca a base de surimi semelhante ao macarrão, porém gluten free, ou seja, isenta de farinha de trigo. Para tanto, buscou-se utilizar excedentes de peixe capturado pelas comunidades pesqueiras, ou de cultivo (aquicultura), ou peixes de baixo valor de mercado. Foram testadas 24 formulações da massa contendo surimi (proporções entre 70 e 90%), diferentes amidos (milho, arroz, batata e mandioca nas proporções de 5 e 10%) e clara de ovo (fresca ou em pó), adequadas a diferentes condições de processos produtivos (mistura, trituração, formatação, tratamento térmico, fatiamento e embalagem), produzidos em escala artesanal. Foram realizadas análises centesimais (cinzas, proteínas e umidade) e instrumentais (textura e cor), determinação dos valores nutricionais e custos dos ingredientes, além de entrevistas junto das comunidades de pesca nos municípios de Mangaratiba, Arraial do Cabo e Cabo Frio para levantamento de dados sociais, realização de oficinas de beneficiamento, avaliação da aceitação sensorial e intenção de produção/venda do produto. Os resultados mostraram que diferentes tipos de amido e as condições do processo interferem na textura e na fatiabilidade da massa fresca de surimi (MFS). O percentual de cinzas, proteína e umidade variaram de 2 a 3%, 16 a 25% e de 71 a 78%, respectivamente. Durante as oficinas de beneficiamento, identificou-se que o peixe não é a proteína mais consumida nos lares dos entrevistados, dentre os co-produtos elaborados estão os quibes, almôndegas, nuggets e fish burguer, portanto, demonstraram interesse de desenvolver novos produtos e fazer o aproveitamento integral do peixe. Em uma escala de 0 a 5 a intenção de produção/venda do macarrão de surimi foi em média de 4,7 e o aspecto geral atingiu 4,3. Os processos produtivos da MFS foram executados em sistemas públicos de alimentação (escolas e produção comunitária) com equipamentos de fácil aquisição, no entanto foi relatado que o preparo do surimi é um pouco trabalhoso e demorado, mas o resultado final é satisfatório e positivamente impactante. A pesquisa permitiu que os atores envolvidos conhecessem novas tecnologias, os dando a esperança de gerir novos empreendimentos e criar novos produtos.
+
+**Data da Apresentação:** 18 de Abril de 2018
+
+**Orientador(a):** Ana Lúcia do Amaral Vendramini
+
+**Participantes:** Joyce Tarsia Garcia Cafiero
+
+**Tipo de Projeto:** Dissertação de Mestrado
+
+**Objetivos de Desenvolvimento Sustentável:** Fome zero e agricultura sustentável [2], Parcerias e meios de implementação [17]
 
 
