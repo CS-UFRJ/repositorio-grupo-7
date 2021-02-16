@@ -20,6 +20,9 @@ Esse arquivo possui os projetos com todos os dados completos, seguindo o templat
 
 **Objetivos de Desenvolvimento Sustentável:** ...
 
+
+
+
 ## Pipabot: O Chatbot do Projeto Pipa UFRJ
 **Título do Projeto:** Pipabot: O Chatbot do Projeto Pipa UFRJ
 
@@ -36,6 +39,9 @@ Esse arquivo possui os projetos com todos os dados completos, seguindo o templat
 **Tipo de Projeto:** Trabalho de Conclusão de Curso (TCC)
 
 **Objetivos de Desenvolvimento Sustentável:** Saúde e Bem-Estar [3]
+
+
+
 
 ## Associação entre vitamina D e marcadores do metabolismo glicídico na gestação e desfechos neonatais: resultados de uma coorte brasileira
 
@@ -54,6 +60,45 @@ Esse arquivo possui os projetos com todos os dados completos, seguindo o templat
 **Tipo de Projeto:** Tese de Doutorado
 
 **Objetivos de Desenvolvimento Sustentável:** Saúde e Bem-Estar [3]
+
+
+
+
+## Nanobiossensor a fibra óptica revestido com filme fino de ouro para detecção da bactéria Escherichia coli
+
+**Título do Projeto:** Nanobiossensor a fibra óptica revestido com filme fino de ouro para detecção da bactéria Escherichia coli 
+
+**Descrição breve do Projeto:** Desenvolvimento de uma nova técnica com sensor de fibra ótica, para detectar a bactéria Escherichia coli na água, que é um indicativo de contaminação fecal, podendo causar prejuízos à saúde.
+
+**Resumo do Projeto:** A Escherichia coli (E. coli) é uma espécie de bactéria que habita normalmente o trato intestinal de seres humanos e de alguns animais, portanto, sua presença na água ou nos alimentos é um indicador de contaminação fecal. E a depender da espécie, sua ingestão pode ser prejudicial à saúde. O principal método para a detecção deste microrganismo consiste no uso do meio de cultura bacteriológica que consome tempo e necessita de laboratório com pessoal especializado. Outros métodos mais sofisticados, não são rápidos o suficiente porque requerem o envio de amostras ao laboratório e possuem custo elevado. Este trabalho apresenta o desenvolvimento de um sensor a fibra óptica revestido com filme fino de ouro para a detecção da bactéria E. coli na água, como uma alternativa portátil, de resposta rápida e baixo custo às metodologias convencionais. O sensor é fabricado em fibra óptica plástica (POF) em forma de “U” e funciona pelo princípio de modulação de intensidade de luz monocromática por absorção imposta por dois efeitos: perda de luz na curva e Ressonância Plasmônica de Superfície (SPR). A seletividade à bactéria é conferida através da imobilização de anticorpos específicos na superfície da fibra. Foram testadas diversas espessuras do filme de ouro, que tem como objetivo melhorar a adesão da bactéria e permitir o efeito de SPR. O sensor apresentou um limite de detecção de bactérias de 1,5 x 103 UFC/mL, demonstrando que esta tecnologia pode ser uma eficiente ferramenta para análise de rotina da potabilidade e balneabilidade da água e da qualidade dos alimentos.
+
+**Data da Apresentação:** Maio de 2017
+
+**Orientador(a):** Marcelo Martins Werneck
+
+**Participantes:** Ariadny da Silva Arcas
+
+**Tipo de Projeto:** Tese de Doutorado
+
+**Objetivos de Desenvolvimento Sustentável:** Saúde e Bem-Estar [3] e Água Potável e Saneamento [6]
+
+
+
+## Modelo Termoregulatório em Elementos Finitos para Simulação de Tratamento por Hipotermia em Recém-nascidos
+
+**Título do Projeto:** Modelo Termoregulatório em Elementos Finitos para Simulação de Tratamento por Hipotermia em Recém-nascidos
+
+**Descrição breve do Projeto:** Esse trabalho apresenta a implementação por elementos finitos de um modelo termoregulatório para simular procedimentos por hipotermia para o tratamento de encefalopatiahipóxico-isquêmica em recém-nascidos.
+
+**Resumo do Projeto:** Esse trabalho apresenta a implementação por elementos finitos de um modelo termoregulatório para simular procedimentos por hipotermia para o tratamento de encefalopatiahipóxico-isquêmica em recém-nascidos. A equação de Pennes é utilizada para o cálculo transiente das temperaturas e o modelo de Fiala (2009) é considerado para obter variações natemperatura do sangue para simular um tratamento por hipotermia utilizando um capacete térmico no corpo de um recém-nascido. O modelo foi comparado com uma implementação no software comercial em volumes finitos FLUENT e validado com testes experimentais. As análises numéricas foram realizadas utilizando uma malha tridimensional baseada na geometria complexa do corpo de um recém-nascido obtidas através de imagens médicas de ressonância magnética.
+
+**Data da Apresentação:** Novembro de 2015 
+
+**Orientador(a):** N.A.
+
+**Participantes:** Ana Beatriz de C.G. e Silva, Joanna Laszczyk, Luiz C. Wrobel, Fernando L.B. Ribeiro e Andrzej J. Nowak.
+
+**Tipo de Projeto:** Apresentação em Congresso
 
 
 
