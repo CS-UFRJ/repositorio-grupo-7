@@ -154,7 +154,7 @@ http://monografias.poli.ufrj.br/monografias/monopoli10029635.pdf
 
 http://www.ppgn.ufrj.br/wp-content/uploads/2020/07/Camila-Benaim-Rodriguez-tese.pdf
 
-**Nanobiossensor a fibra óptica revestido com filme fino de ouro para detecção da bactéria Escherichia coli** [3]
+**Nanobiossensor a fibra óptica revestido com filme fino de ouro para detecção da bactéria Escherichia coli** [3,6]
 
 https://pantheon.ufrj.br/handle/11422/7662
 
