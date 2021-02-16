@@ -86,6 +86,8 @@ _**Listagem de todos os Laboratórios da UFRJ:**_ http://pr2.ufrj.br/laboratorio
 
 _**Pantheon - Repositório Institucional da UFRJ:**_ https://pantheon.ufrj.br/
 
+_**Laboratorios Pesquisa Covid-19:**_ https://ufrj.br/wp-content/uploads/legacy/img-noticia/2020/06/laborata3rios_pesquisa_covid_191.pdf
+
 ### Fontes Separadas por ODS:
 
 #### Erradicação da Pobreza
@@ -152,9 +154,9 @@ http://monografias.poli.ufrj.br/monografias/monopoli10029635.pdf
 
 http://www.ppgn.ufrj.br/wp-content/uploads/2020/07/Camila-Benaim-Rodriguez-tese.pdf
 
-**FABRICAÇÃO E FUNCIONALIZAÇÃO DE SENSORES À FIBRA ÓPTICA DE PLÁSTICO, EM FORMA DE W, PARA ADETECÇÃO DE SALMONELLA ENTÉRICA** [3]
+**Nanobiossensor a fibra óptica revestido com filme fino de ouro para detecção da bactéria Escherichia coli** [3]
 
-http://www.pee.ufrj.br/index.php/pt/producao-academica/teses-de-doutorado/2010/2010092101-2010092101/file
+https://pantheon.ufrj.br/handle/11422/7662
 
 **ANÁLISE NUMÉRICA DA DISTRIBUIÇÃO DE TEMPERATURA NO CÉREBRO HUMANO UTILIZANDO O MÉTODO DOS ELEMENTOS FINITOS** - tratamento de asfixia perinatal - [3]
 
