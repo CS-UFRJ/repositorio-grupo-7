@@ -184,10 +184,6 @@ https://ppgcal.iq.ufrj.br/wp-content/uploads/Tese-Caroline-Coelho-PPGCAL.pdf
 
 http://antigo.ppe.ufrj.br/ppe/production/tesis/masantos.pdf
 
-**The potential contribution of emerging economies to stop dangerous climate change. The case of Brazil.** 
-
-https://onlinelibrary.wiley.com/doi/abs/10.1002/wcc.614
-
 **The role of lifestyle changes in low-emissions development strategies: an economy-wide assessment for Brazil.**
 
 https://www.tandfonline.com/doi/abs/10.1080/14693062.2020.1717415
