@@ -349,3 +349,68 @@ This paper simulates shifts in household behaviour using a macroeconomic framewo
 **Tipo de Projeto:** Trabalho de Conclusão de Curso (TCC)
 
 **Objetivos de Desenvolvimento Sustentável:** Fome zero e agricultura sustentável [2], Consumo e produção responsáveis [12], Vida terrestre [15] e Parcerias e meios de implementação [17]
+
+
+
+
+## AVALIAÇÃODE PROCESSOS OXIDATIVOS AVANÇADOS PARA POLIMENTODE EFLUENTE HOSPITALARBIOTRATADOCOM VISTAS AO REÚSO
+
+**Título do Projeto:** AVALIAÇÃO DE PROCESSOS OXIDATIVOS AVANÇADOS PARA POLIMENTO DE EFLUENTE HOSPITALAR BIOTRATADO COM VISTAS AO REÚSO
+
+**Descrição breve do Projeto:** Com a necessidade de reuso da água, o projeto propõe uma técnica de tratar o efluente hospitalar através de Processos Oxidativos Avançados para ser reutilizado em torres de resfriamento.
+
+**Resumo do Projeto:** A necessidade de reúso de efluentes vem crescendo consideravelmente em consequência de diversos fatores como a escassez de água e o aumento do custo de aquisição da mesma. Uma proposta de reutilização do efluente gerado por hospitais é o uso em torres de resfriamento, como água de Make-up. Assim, este trabalho teve como objetivo a avaliação da aplicação de Processos Oxidativos Avançados (POA) -Fenton, Foto-Fenton e H2O2/UV -no polimento deefluente hospitalar biotratado, a avaliação da possibilidade de reúso após o POA em torres de resfriamento e o estudo da capacidade de remoção de Escherichia colido efluente. Diferentes condições do processo Fenton e Foto-Fenton foram avaliadas ([Fe2+: H2O2] = 1:3, 1:5 e 1:10), sendo os melhores resultados obtidos no processo Foto-Fenton com [Fe2+: H2O2] igual a 1:3 ou 1:5, obtendo-se remoções de 76, 74 e 61% para DQO, Abs254e COT, respectivamente. Ademais, amostras do efluente após os sistemas Fenton ([Fe2+:H2O2] = 1:10), Foto-Fenton ([Fe2+:H2O2] = 1:10) e H2O2/UV apresentaram ausência de bactérias Escherichia coli. Tais resultados indicam que este processo pode ser combinado ao biológico existente para obtenção de um efluente de melhor qualidade.
+
+**Data da Apresentação:** Setembro de 2016
+
+**Orientador(a):** Fabiana Valéria da Fonseca e Magali Christe Cammarota
+
+**Participantes:** Marllon da silva Nogueira
+
+**Tipo de Projeto:** Dissertação de Mestrado
+
+**Objetivos de Desenvolvimento Sustentável:** Água potável e Saneamento [6], Indústria, Inovação e Infra-estrutura [9] e Parcerias e meios de implementação [17]
+
+
+
+
+
+## EMPREENDIMENTOS DE GERAÇÃO HIDRELÉTRICA NA AMAZÔNIA: DESMATAMENTO EM ÁREAS DE USO RESTRITO E GESTÃO DE ÁREAS PROTEGIDAS
+
+**Título do Projeto:** EMPREENDIMENTOS DE GERAÇÃO HIDRELÉTRICA NA AMAZÔNIA: DESMATAMENTO EM ÁREAS DE USO RESTRITO E GESTÃO DE ÁREAS PROTEGIDAS
+
+**Descrição breve do Projeto:** Este  trabalho,  no entanto, apresenta um diagnóstico da importância das áreas protegidas para a conservação da cobertura vegetal no entorno de empreendimentos hidroelétricos, descreve e analisa o uso  de  instrumentos  de  gestão,  alguns  já  existentes  outros  a  serem  sugeridos,  que possibilite  uma  redução  dos  conflitos  e  uma  maior  eficiência  ambiental  na  geração  de energia.
+
+**Resumo do Projeto:** A  energia  elétrica  obtida  de  fontes  renováveis  representa  mais  de  80%  do  total produzido no Brasil, sendo cerca de 60% proveniente de fontes hidrelétricas. A Amazônia brasileira  é  conhecida  por  sua  abundância  hídrica, principal  fator  que  tem  atraído crescentes  investimentos  hidrelétricos  para  a  região.  Além  da  riqueza  de  seus  rios,  a Amazônia  é  rica  em  diversidade  biológica,  possuindo  uma  floresta  com  expressiva densidade de matéria orgânica. Grande parte da floresta na região, em função de pressões internas  e  externas  de  mudança  de  uso  do  solo,  está  sobre  algum  regime  especial  de proteção, sobretudo com o status de áreas protegidas (AP), tais como Terras  Indígenas (TI) e Unidades de Conservação (UC). Este cenário pode se constituir em exacerbações de tais conflitos, pois formas de proteção e conservação da natureza e das formas de vida de  populações  tradicionais  usam  dos  mesmos  territórios  e  recursos  naturais  que  os empreendimentos   geradores   de   energia   elétrica,   públicos   e   privados,   e   descrito majoritariamente  como  conflitante  e  com  consequências  negativas.  Este  trabalho,  no entanto, apresenta um diagnóstico da importância das áreas protegidas para a conservação da cobertura vegetal no entorno de empreendimentos hidroelétricos, descreve e analisa o uso  de  instrumentos  de  gestão,  alguns  já  existentes  outros  a  serem  sugeridos,  que possibilite  uma  redução  dos  conflitos  e  uma  maior  eficiência  ambiental  na  geração  de energia.
+
+**Data da Apresentação:** Março de 2018
+
+**Orientador(a):** Marco Aurélio dos Santos 
+
+**Participantes:** Orleno Marques da Silva Junior
+
+**Tipo de Projeto:** Tese de Doutorado
+
+**Objetivos de Desenvolvimento Sustentável:** Energia Acessível e Limpa [7] e Vida terrestre [15]
+
+
+
+
+
+## Template
+
+**Título do Projeto:** ...
+
+**Descrição breve do Projeto:** ...
+
+**Resumo do Projeto:** ...
+
+**Data da Apresentação:** ...
+
+**Orientador(a):** ...
+
+**Participantes:** ...
+
+**Tipo de Projeto:** ...
+
+**Objetivos de Desenvolvimento Sustentável:** ...
