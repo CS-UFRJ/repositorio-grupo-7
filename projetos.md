@@ -2,6 +2,9 @@
 
 Esse arquivo possui os projetos com todos os dados completos, seguindo o template estabelecido.
 
+
+
+
 ## Template
 
 **Título do Projeto:** ...
@@ -261,3 +264,88 @@ https://sistemasiac.ufrj.br/cadernoController/gerarCadernoResumo/36000000 [artig
 
 
 
+
+## INVENTÁRIO DE EMISSÕES DE GASES DE EFEITO ESTUFA DERIVADAS DE HIDRELÉTRICAS
+
+**Título do Projeto:** INVENTÁRIO DE EMISSÕES DE GASES DE EFEITO ESTUFA DERIVADAS DE HIDRELÉTRICAS
+
+**Descrição breve do Projeto:** Este  trabalho  investiga  o  problema  das  emissões  de  gases  de  efeito  estufa  derivadas  de  reservatórios  de  hidrelétricas  no  Brasil.
+
+**Resumo do Projeto:** Este  trabalho  investiga  o  problema  das  emissões  de  gases  de  efeito  estufa  derivadas  de  reservatórios  de  hidrelétricas  no  Brasil.  Para  tanto,  estabeleceu-se  uma  metodologia  para  mensurar  as  emissões  de  metano  e  de  dióxido    de  carbono  derivadas  de  um  conjunto  de  reservatórios  hidrelétricos  brasileiros  e  extrapolar  estes  valores  encontrados  para  o  parque  hidrelétrico  do  país.  Foram  quantificadas  as  emissões  de  metano  e  de  gás  carbônico  e  as  respectivas  dependências  paramétricas  de  modo  a  se  poder estimar valores de emissões para outras hidrelétricas.  Para  tanto,  empregou-se  a  medição  experimental  dos  gases  emanados  pelos  reservatórios  para  determinarespecificamente  as  emissões  de  gases  metano  (CH4) amostrados  sob  a  forma  de  bolhas,  que  emanam  do  fundo  do  lago  por  efeito  da  decomposição   da   biomassa   afogada,   e   dióxido   de   carbono   (CO2)  principalmente  transportados verticalmente no gradiente do lago por difusão molecular, gerados a partir de material orgânico interno e externo ao reservatório. As  emissões  das  hidrelétricas  estudadas  foram  comparadas  com  as  emissões  de  plantas termelétricas hipotéticas de mesma potência, de forma a se medir a economia de emissão  de  carbono  de  uma  tecnologia  em  relação  a  outra,  tomando  as  emissões  dos  gases de efeito estufa como elemento de análise.
+
+**Data da Apresentação:** Março de 2000
+
+**Orientador(a):** Luiz Pinguelli Rosa
+
+**Participantes:** Marco Aurélio dos Santos 
+
+**Tipo de Projeto:** Tese de Doutorado
+
+**Objetivos de Desenvolvimento Sustentável:** Energia Acessível e Limpa [7], Indústria, Inovação e Infra-estrutura [9] e Ação contra a mudança global do clima [13]
+
+
+
+
+
+## The role of lifestyle changes in low-emissions development strategies: an economy-wide assessment for Brazil
+
+**Título do Projeto:** The role of lifestyle changes in low-emissions development strategies: an economy-wide assessment for Brazil
+
+**Descrição breve do Projeto:** Esta é uma pesquisa que explora os gastos elétricos relacionados à emissão de gases que contribuem para o efeito estufa para cda nível social do Brazil, e cria algumas propostas de reduzir tais emissões.
+
+**Resumo do Projeto:** Reconciling climate and socioeconomic goals is a significant challenge in the developing world. Improving living standards is imperative. However, if emerging middle-classes in developing countries mirror current western consumption patterns, the chances of stabilizing greenhouse gas (GHG) emissions at safe atmospheric concentration levels will undoubtedly be reduced. In this sense, the mitigation potential of changing consumption patterns has been increasingly acknowledged. A growing body of literature explores what new consumption patterns might look like, along with their potential contribution to reducing emissions.
+This paper simulates shifts in household behaviour using a macroeconomic framework. We apply a hybrid computable general equilibrium model with six representative household groups to simulate exploratory scenarios for the Brazilian economy up to 2050. In the reference scenario, household demand is defined by current trends and standards. Consumption patterns converge among income groups, leading to major increases in demand for energy, transportation, consumer goods and services, especially for poorer households. This scenario is contrasted with an alternative pathway in which households seek a less carbon-intensive lifestyle. Our results indicate that a major gap in consumption levels and associated emissions between the poorest and richest households persists in the long run. We also show that sustainable practices contribute to significantly reducing energy-related GHG emissions with minor variations in GDP, employment and income distribution.
+
+**Data da Apresentação:** Fevereiro de 2020
+
+**Orientador(a):** N.A.
+
+**Participantes:** Carolina Grottera, Emilio Lèbre La Rovere, William Wills e Amaro Olímpio Pereira Jr
+
+**Tipo de Projeto:** Não Identificado
+
+**Objetivos de Desenvolvimento Sustentável:** Energia Acessível e Limpa[7] e Ação contra a mudança global do clima [13]
+
+
+
+
+
+## Proposta metodológica para incorporação do risco climático nas estratégias de negócios da NEOENERGIA. Apoio ao projeto piloto de adaptação da TERMOPE.
+
+**Título do Projeto:** Proposta metodológica para incorporação do risco climático nas estratégias de negócios da NEOENERGIA. Apoio ao projeto piloto de adaptação da TERMOPE.
+
+**Descrição breve do Projeto:** Busca ornecer subsídios para a incorporação do risco climático nas estratégias de negócios da NEOENERGIA, com base na estruturação de um plano de adaptação às mudanças do clima.
+
+**Resumo do Projeto:** ...
+
+**Data da Apresentação:** Março de 2020
+
+**Orientador(a):** Emilio Lèbre La Rovere e Heliana Vilela de Oliveira Silva.
+
+**Participantes:** Claudio de Freitas Neves; Denise da Silva de Sousa; Giovaninni Luigi; Paulo Cesar Rosman; Silvia B. Schaffel; Jônatas Cavalcanti Teixeira;
+
+**Tipo de Projeto:** Não Especificado
+
+**Objetivos de Desenvolvimento Sustentável:** Energia Acessível e Limpa [7], Indústria, Inovação e Infra-estrutura [9], Ação contra a mudança global do clima [13] e Parcerias e meios de implementação [17]
+
+
+
+
+
+## UM ESTUDO SOBRE AS PERDAS DE ALIMENTO NUMA DISTRIBUIDORA BRASILEIRA DE FRUTAS, LEGUMES E VERDURAS - FLV
+
+**Título do Projeto:** UM ESTUDO SOBRE AS PERDAS DE ALIMENTO NUMA DISTRIBUIDORA BRASILEIRA DE FRUTAS, LEGUMES E VERDURAS - FLV
+
+**Descrição breve do Projeto:** A pesquisa busca realizar um levantamento da gestão de uma distribuidora de alimentos e compreender as deficiências para poder tornar o processo mais eficiente, reduzindo as perdas dos produtos.
+
+**Resumo do Projeto:** A perda de alimentos é um problema no mundo todo, pois significa um grande desperdício de recursos naturais, enquanto que no âmbito empresarial ela também caracteriza redução de lucro e ineficiência do sistema operacional. A gestão das Frutas, Legumes e Verduras (FLV) representa uma preocupação para as organizações uma vez que, além de sofrerem com o processo de deteriorização mais rápido que outros produtos perecíveis, diversas variáveis influenciam no seu tempo de vida útil. A dificuldade de administrar esses produtos é refletida nas pesquisas, as quais apontam que grande parte da perda pós-colheita dessas mercadorias ocorre nas centrais de abastecimento e comercialização. Nesse sentido, afim de equalizar sustentabilidade e rentabilidade nas empresas, o objetivo deste trabalho foi realizar um estudo sobre as principais causas de perdas de FLV no comércio, buscando identificar as principais ações que podem ser realizadas para reduzir seu volume. Para tanto, foi realizado um estudo de caso qualitativo em uma atacadista, localizada no município do Rio de Janeiro – RJ – Brasil. A pesquisa bibliográfica e o acompanhamento pessoal dos processos internos foram substanciais para identificar potenciais causas de perda e, para entender a frequência e relevância desses acontecimentos, foi aplicado um questionário junto aos colaboradores dos setores de compra, venda, estoque e transporte, e também analisados relatórios de perda, compra e venda, em valores, da empresa em estudo. Assim, com base nos resultados e buscando contribuir com a teoria existente, à luz dos 3R’s da sustentabilidade - reduzir, reutilizar e reciclar -, foram propostas neste trabalho algumas estratégias que as organizações podem realizar para mitigar as perdas de FLV e seus efeitos financeiros. Entre os principais resultados encontrados na pesquisa, pode-se salientar pouca preparação ou mal treinamento dos funcionários para lidar com os produtos em pauta, complicações para manter a boa acurácia do estoque e manejo inapropriado dos produtos também por parte dos fornecedores, reduzindo a qualidade das mercadorias. Com o estudo foi retificado que a melhoria dos métodos logísticos ao lidar com FLV é necessária em toda a cadeia produtiva -sugestão para pesquisas futuras–, e pode acarretar significativamente na preservação do lucro e aumento da competitividade de uma empresa que comercialize estes produtos.
+
+**Data da Apresentação:** 2019
+
+**Orientador(a):** Camila Avosani Zago
+
+**Participantes:** Tatiane Teixeira Louzada
+
+**Tipo de Projeto:** Trabalho de Conclusão de Curso (TCC)
+
+**Objetivos de Desenvolvimento Sustentável:** Fome zero e agricultura sustentável [2], Consumo e produção responsáveis [12], Vida terrestre [15] e Parcerias e meios de implementação [17]
