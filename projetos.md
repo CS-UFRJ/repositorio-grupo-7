@@ -239,3 +239,25 @@ https://sistemasiac.ufrj.br/cadernoController/gerarCadernoResumo/36000000 [artig
 **Objetivos de Desenvolvimento Sustentável:** Fome zero e agricultura sustentável [2], Parcerias e meios de implementação [17]
 
 
+
+
+## DEVELOPMENT AND CHARACTERIZATION OF POLYMERIC COMPOSITES FOR APPLICATION AS A POST-HARVEST COATING ON STRAWBERRIES
+
+**Título do Projeto:** DEVELOPMENT AND CHARACTERIZATION OF POLYMERIC COMPOSITES FOR APPLICATION AS A POST-HARVEST COATING ON STRAWBERRIES
+
+**Descrição breve do Projeto:** O trabalho busca obter, caracterizar e avaliar a aplicação de nanocristais de celulose obtidos do bagaço de uvas como ua proteção superficial em morangos, buscando reduzir o impacto de embalagens no ambiente.
+
+**Resumo do Projeto:** Demand for sustainable and biodegradable products build with renewable resources has become an important effort to reduce the impact of food packaging on the environment. In this context, the search for more effective technologies for the preparation of biocomposites should be directed towards improving film properties. Initially, this work aimed to evaluate two concentrations of commercial microcrystalline cellulose (MCC) applied to starch and chitosan films with theapplication of moderate electric field (MEF) and ultrasonic bath. It was observed that the addition of different concentrations of MCC and the application of MEF were responsible for changes in theproperties of the films, being this effect dependent on the polysaccharide used. The use of MEF was efficient in reducing water vapor permeability in MCC-free chitosan films, as well as in producing more hydrophobic surface films. MCC addition promoted more opaque, rigid, less flexible and less hydrophobic films. Starch and MEF films were more hydrophilic with lower tensile strength and Young's modulus. MCC films were more opaque, less flexible and less hydrophilic than pure films.The composites showed good thermal properties, which increases their potential for use as packaging materials. Therefore, the incorporation of MCC in polysaccharide films, as well as the application of MEF, proved to be an interesting approach to alter the properties of the films. Viticulture involves the generation of significant amounts of solid waste and it is attractivetouse the bagasse by-product as option for development of new materials with the ability to improve packaging performance. Thus, this work aimed to obtain, characterize and evaluate the application of cellulose nanocrystals from grape pomace. Pinot Noir grape bagasse was subjected to a chemical pretreatment associated withacid hydrolysis and ultrasound treatment to obtain cellulose nanocrystals (CNC) with 80.1% of cellulose recovered from the bagasse. This nanomaterial was characterized by needle-shaped structures, dispersed suspensions, high aspect ratio crystals, high crystallinity and thermal stability. Subsequently, cellulose nanocrystals from Alicante Bouschet grape bagasse obtained by acid hydrolysis were characterized and added in starch-based filmogenic solutions (1, 2, 5, 10 and 15g / 100g of starch). Results of this test showed a continuous increase in the crystallinity index in the purified cellulose and the obtained CNCs, confirming the progressive removal of amorphous non-cellulosic materials (lignin, hemicellulose and other impurities) present in the bagasse. CNCs added to starch matrix produced films with lower water vapor permeability and the addition of up to 10% formed less hydrophilic films. Films with 5 to 15% of CNCs were more opaque and with better tensile strength and Young's modulus. The incorporation of CNC has improved mechanical properties and decreased water vapor permeability, important characteristics for food packaging materials. Thus, a case study was elaborated with the application of these filmogenic solutions as coating on strawberries of Mohaven cultivar. Starch-only coating reduced fruit weight loss. CNC reinforcement did not improve the water vapor barrier properties of fruits. The addition of CNCs in the filmogenic solutions maintained the physical and chemical properties of the strawberries as well as the color characteristics of the coated fruits within 12 days and showed a reduction in the count. control. Thus, further research should be recommended for the use of the proposed nanocomposites, showing that nanocrystals can be used in coating formulations.
+
+**Data da Apresentação:** Novembro de 2019
+
+**Orientador(a):** Dra. Lourdes Maria Correa Cabral, Dr. Otniel Freitas-Silva, Prof. Dr. Daniel Perrone Moreira
+
+**Participantes:** Caroline Corrêa de Souza Coelho
+
+**Tipo de Projeto:** Tese de Doutorado
+
+**Objetivos de Desenvolvimento Sustentável:** Vida Terrestre [15]
+
+
+
