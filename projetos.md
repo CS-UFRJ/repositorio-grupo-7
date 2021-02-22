@@ -397,6 +397,108 @@ This paper simulates shifts in household behaviour using a macroeconomic framewo
 
 
 
+## DESENVOLVIMENTO DE UM DISPOSITIVO DE LIBERAÇÃO CONTROLADA DE FÁRMACO PARA TRATAMENTO COADJUVANTE DE DOENÇA PERIODONTAL
+
+**Título do Projeto:** DESENVOLVIMENTO DE UM DISPOSITIVO DE LIBERAÇÃO CONTROLADA DE FÁRMACO PARA TRATAMENTO COADJUVANTE DE DOENÇA PERIODONTAL
+
+**Descrição breve do Projeto:** O objetivo do presente trabalho é o desenvolvimento de um dispositivo de liberação controlada de fármaco intrabolsa periodontal de base polimérica.
+
+**Resumo do Projeto:** Nas últimas décadas vem sendo desenvolvidos uma grande variedade de estudos para liberação controlada de fármacos para tratamento da DP (TABARY et al. 2014). Em específico, os dispositivos intrabolsa periodontal que podem ser divididos em duas categorias, dispositivos biodegradáveis e não–degradáveis. Os dispositivos biodegradáveis possuem a grande vantagem de exigir que o paciente não precise remover o dispositivo (RAMS, 1996; NAGARAJU et al. 1999), além de reduzir as reações adversas e efeitos colaterais indesejados associados à ação do fármaco (LANGER, 1990).
+
+**Data da Apresentação:** Março de 2018
+
+**Orientador(a):** Renata Antoun Simão e Maíra do Prado
+
+**Participantes:** Vanessa De Moura Queiroz
+
+**Tipo de Projeto:** Tese de Mestrado
+
+**Objetivos de Desenvolvimento Sustentável:** Saúde e Bem-estar [3]
+
+
+
+
+## MULTIMETODOLOGIA APLICADA À GESTÃO DE RESÍDUOS SÓLIDOS EM TERMINAIS PORTUÁRIOS
+
+**Título do Projeto:** MULTIMETODOLOGIA APLICADA À GESTÃO DE RESÍDUOS SÓLIDOS EM TERMINAIS PORTUÁRIOS
+
+**Descrição breve do Projeto:** O objetivo geral do presente trabalho de pesquisa é contribuir para o desenvolvimento de um modelo multimetodológico para avaliar o desempenho operacional de terminais portuários quanto a eficiência técnica e ambiental na gestão de resíduos sólidos.
+
+**Resumo do Projeto:** A análise envoltória de dados (DEA) tem se mostrado apropriada na avaliação de desempenho operacional portuário e seu emprego tem sido crescente nos últimos anos, embora restrita aos aspectos teóricos, sem a interação com os usuários. Esta tese desenvolve uma multimetodologia para avaliação de eficiência técnica e ambiental da gestão de resíduos sólidos nos terminais portuários do Porto de Santos. Com esse objetivo, o trabalho analisou 24 terminais portuários, no ano de 2015, com utilização do método DEA, quanto à movimentação de cargas em relação à infraestrutura disponível e à gestão de resíduos empregada. O resultado do modelo clássico revelou que cinco terminais de carga geral e sete de granel sólido estariam na fronteira de eficiência e, quando se aplicou a restrição aos pesos, quatro de cada cluster permaneceram na fronteira Pareto-eficiente. A análise quantitativa é formal e trata uma parte do problema, enquanto que a realidade é qualitativa. Assim, incorporou-se um mapa conceitual que explicita um conhecimento interno implícito. A multimetodologia proposta identifica os fatores envolvidos, incluindo os inconsistentes, inexistentes ou que não podem ser representados em uma base de dados. A integração dos métodos representa um importante subsídio para maior entendimento da influência da eficiência da gestão de resíduos na operação portuária para o processo decisório.
+
+**Data da Apresentação:** Abril de 2019
+
+**Orientador(a):** Cláudio Fernando Mahler e Marcos Pereira Estellita Lins
+
+**Participantes:** Betina Maciel Versiani
+
+**Tipo de Projeto:** Tese de Doutorado
+
+**Objetivos de Desenvolvimento Sustentável:** Ação Contra a Mudança Global do Clima [13] e Vida na Água [14]
+
+
+
+
+## A BRAZILIAN PERSPECTIVE ON ZERO EMISSION FUELS FOR SHIPPING
+
+**Título do Projeto:** A Brazilian Perspective on Zero Emission Fuels For Shipping 
+
+**Descrição breve do Projeto:** O estudo proposto identifica combustíveis alternativos não fósseis que poderiam ser produzidos no Brasil, com o objetivo de reduzir as emissões de GEE do transporte marítimo de longo curso, focando no potencial técnico-econômico e de sustentabilidade, bem como nas implicações para a produção de energia e mudanças diretas e indiretas do uso da terra.
+
+**Data da Apresentação:** 23/10/2019
+
+**Orientador(a):** Alexandre Salem Szklo
+
+**Participantes:** Eduardo Miranda Muller Drumond Casseres, Francielle Mello de Carvalho, Joana Correia de Oliveira de Portugal Pereira, Matheus Richter Poggio de Carvalho, Pedro Rua Rodrigues Pochedo, Roberto Schaeffer
+
+**Tipo de Projeto:** Projeto de pesquisa
+
+**Objetivos de Desenvolvimento Sustentável:** Vida na Água [14] e Vida Terrestre [15]
+
+
+
+
+## EFEITO DE FIBRAS DE SEMENTE DE MANGA NAS PROPRIEDADES MECÂNICAS DO CIMENTO
+
+**Título do Projeto:** EFEITO DE FIBRAS DE SEMENTE DE MANGA NAS PROPRIEDADES MECÂNICAS DO CIMENTO
+
+**Resumo do Projeto:** Efeito de Fibras de Sementes de Manga sob as Propriedades Mecânicas do Cimento Entre as muitas fontes renováveis utilizadas para preparo de novos materiais, as fibras naturais têm sido frequentemente pesquisadas. Isso se deve a algumas de suas interessantes propriedades, como boa resistência mecânica e baixa densidade, além do baixo custo e da boa disponibilidade. Particularmente, o uso de fibras de sementes de manga para o preparo de novos materiais compósitos é muito interessante, já que a manga (Mangifera indica L., família Anacardiaceae) é um material natural abundantemente consumido em todo o mundo. A manga cresce em quase todas as regiões tropicais e subtropicais do mundo e cerca de 27 milhões de toneladas desta fruta são produzidas anualmente. Só o Brasil produz cerca de 5% da manga consumida, sendo um dos oito maiores produtores do mundo. Por outro lado, o uso de reforço de fibras em materiais à base de cimento atrai cada vez mais interesse como uma solução para melhorar propriedades mecânicas de argamassas e obter materiais conhecidos como Compostos Cimentícios Reforçados por Fibras (FRCCs). Os FRCCs são geralmente caracterizados por uma maior resistência à tração e à flexão, um comportamento pós-craqueamento mais resistente e dúctil e propriedades de 106 SESSÕES SNCT durabilidade superiores resultantes de uma redução na fissura. A viabilidade do uso de fibras naturais é uma alternativa para a concepção e produção de FRCCs. Neste trabalho, foram realizadas modificações nas fibras, com nanopartículas de magnetita e polianilina/magnetita, com intuito de torná-las sensíveis a campos magnéticos com o objetivo de tentar orienta-las para obter melhores FRCCs. As fibras de semente de manga in natura e com modificações foram inseridas em uma pasta de cimento na proporção de 0,5%, 1% e 2%, em volume. A cura da matriz ocorreu na presença de ímãs, com a finalidade de orientar as fibras e provocar a anisotropia das propriedades mecânicas. As fibras de sementes de manga foram caracterizados por FTIR, MEV e TGA / DSC e os corpos de prova ensaiados mecanicamente. Os FRCCs que apresentaram melhores respostas ao ensaio de compressão foram os moldados com as fibras modificadas com polianilina/magnetita, inseridas na proporção 1%, cuja cura ocorreu na presença de imãs. O uso dos ímãs de ferrita produziu um aumento de 22% na tensão limite de ruptura em relação aos FRCCs curados na ausência de campo magnético. Esse é um resultado muito promissor e novos testes serão feitos com ímãs de neodímio, buscando entender mais profundamente o efeito do campo magnético sobre a cura dos FRCCs. 
+
+**Data da Apresentação:** 23 à 29 de outubro de 2017
+
+**Orientador(a):** Geiza Oliveira e Fernando Gomes de Souza Junior
+
+**Participantes:** Bianca Rodrigues Moura e Romildo Dias Toledo Filho
+
+**Tipo de Projeto:** Projeto de Pesquisa
+
+**Objetivos de Desenvolvimento Sustentável:** Vida Terrestre [15]
+
+
+
+
+## MICROALGAS: PRODUÇÃO, CARACTERIZAÇÃP E FRACIONAMENTO PARA A OBTENÇÃO DE BIOCOMBUSTÍVEIR E BIOPRODUTOS COM POTENCIAL BIOATIVO
+
+**Título do Projeto:** MICROALGAS: PRODUÇÃO, CARACTERIZAÇÃP E FRACIONAMENTO PARA A OBTENÇÃO DE BIOCOMBUSTÍVEIR E BIOPRODUTOS COM POTENCIAL BIOATIVO
+
+**Descrição breve do Projeto:** Este projeto visa o estudo das microalgas dentro de um conceito integrado de biorrefinaria, utilizando as hexoses e pentoses resultantes da hidrólise enzimática do bagaço da cana-de- açúcar, pré-tratada por processo hidrotérmico, como fonte de carbono nos cultivos mixo e heterotróficos.
+
+**Resumo do Projeto:** O projeto visa o estudo do cultivo e do processamento de microalgas por abordagens consistentes e inovadoras, envolvendo rotas biotecnológicas, físico-químicas e químicas avançadas. O cultivo das microalgas será estudado de três formas: fotoáutotrófico, mixotrófico e heterotrófico. Esta etapa permitirá selecionar as melhores condições de cultivo, assim como as linhagens de microalga mais promissoras para a produção de biomassa e seus derivados, biodiesel e bioprodutos.
+
+**Orientador(a):** Elba Pinto da Silva Bon
+
+**Tipo de Projeto:** Laboratório
+
+**Objetivos de Desenvolvimento Sustentável:** Ação Contra a Mudança Global do Clima [13] e Vida na Água [14]
+
+
+
+
+
+
+
+
+
 ## Template
 
 **Título do Projeto:** ...
