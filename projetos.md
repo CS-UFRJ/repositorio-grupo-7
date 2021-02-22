@@ -477,9 +477,9 @@ This paper simulates shifts in household behaviour using a macroeconomic framewo
 
 
 
-## MICROALGAS: PRODUÇÃO, CARACTERIZAÇÃP E FRACIONAMENTO PARA A OBTENÇÃO DE BIOCOMBUSTÍVEIR E BIOPRODUTOS COM POTENCIAL BIOATIVO
+## MICROALGAS: PRODUÇÃO, CARACTERIZAÇÃO E FRACIONAMENTO PARA A OBTENÇÃO DE BIOCOMBUSTÍVEIS E BIOPRODUTOS COM POTENCIAL BIOATIVO
 
-**Título do Projeto:** MICROALGAS: PRODUÇÃO, CARACTERIZAÇÃP E FRACIONAMENTO PARA A OBTENÇÃO DE BIOCOMBUSTÍVEIR E BIOPRODUTOS COM POTENCIAL BIOATIVO
+**Título do Projeto:** MICROALGAS: PRODUÇÃO, CARACTERIZAÇÃO E FRACIONAMENTO PARA A OBTENÇÃO DE BIOCOMBUSTÍVEIS E BIOPRODUTOS COM POTENCIAL BIOATIVO
 
 **Descrição breve do Projeto:** Este projeto visa o estudo das microalgas dentro de um conceito integrado de biorrefinaria, utilizando as hexoses e pentoses resultantes da hidrólise enzimática do bagaço da cana-de- açúcar, pré-tratada por processo hidrotérmico, como fonte de carbono nos cultivos mixo e heterotróficos.
 
