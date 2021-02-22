@@ -252,6 +252,7 @@ http://sistemas.macae.ufrj.br/8siac/arquivo/Caderno_de_resumos_CT_2017.pdf
 https://sistemasiac.ufrj.br/cadernoController/gerarCadernoResumo/35000000
 
 **Microalgas: Produção, caracterização e fracionamento para a obtenção de Biocombustíveis e Bioprodutos com potencial bioativo** [13,14]
+
 https://www.iq.ufrj.br/linhasdepesquisa/
 
 ### Pool de Pesquisas
