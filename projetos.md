@@ -494,6 +494,47 @@ This paper simulates shifts in household behaviour using a macroeconomic framewo
 
 
 
+## VULNERABILIDADE DOS MANGUEZAIS DA BAÍA DE SEPETIBA A DERRAMES DE ÓLEO NA ÁREA PORTUÁRIA 
+
+**Título do Projeto:** Vulnerabilidade dos manguezais da Baía de Sepetiba a derrames de óleo na área portuária
+
+**Descrição Breve do Projeto:** Este estudo verificou o comportamento da pluma oleosa através de cenários determinísticos previamente estabelecidos, observando a dispersão da mancha de óleo em função dos dados de vento recorrentes na região para os períodos de verão e inverno.
+
+**Resumo do Projeto:** Uma vez que o vento atua diretamente no espalhamento da mancha de óleo em incidentes de derramamento no meio marinho, o presente estudo analisou a importância da variabilidade do vento na área portuária da Baía de Sepetiba no qual estão inseridos manguezais da região metropolitana do Rio de Janeiro. Foram analisadas também as simulações de dispersão de óleo existentes nos Planos de Emergência Individual (PEI) do Porto de Itaguaí e Sudeste. Os resultados das simulações desse trabalho, bem como, dos PEI’s apontaram que os ventos de direção sudeste e sudoeste são determinantes na dispersão da mancha de óleo na direção dos manguezais da Baía de Sepetiba. As simulações com ventos nessas direções foram as únicas a atingir as regiões de manguezais.
+
+**Data da Apresentação:** Jan-2019
+
+**Orientador:** Susana Beatriz Vinzón e Fernanda Minikowski Achete
+
+**Participantes:** Ana Karina Augustinho de França Umezu
+
+**Tipo do Projeto:** Dissertação de Mestrado
+
+**Objetivos de Desenvolvimento Sustentáveis Relacionados:** Vida na Água (14)
+
+
+
+## DA INVENÇÃO À INOVAÇÃO: UM PROCESSO DE DESENVOLVIMENTO DE PRODUTOS SUSTENTÁVEIS PARA BIOTECNOLOGIA MARINHA 
+
+**Título do Projeto:** DA INVENÇÃO À INOVAÇÃO: UM PROCESSO DE DESENVOLVIMENTO DE PRODUTOS SUSTENTÁVEIS PARA BIOTECNOLOGIA MARINHA
+
+**Descrição Breve do Projeto:** O trabalho pretendeu desenvolver um processo capaz de transformar as descobertas oriundas das pesquisas acadêmicas da área de biotecnologia marinha, desenvolvidas nas ICTs públicas brasileiras, em produtos sustentáveis a serem disponibilizados à sociedade, de modo a contribuir para eliminar o hiato existente entre invenção e inovação.
+
+**Resumo do Projeto:** Este estudo foi feito partir de uma revisão bibliográfica, uma revisão documental e de entrevistas semi-estruturadas com diversos atores envolvidos na chamada “rede de inovação”, foram identificadas dificuldades que deram base à geração de premissas para o desenvolvimento do modelo do processo. Assim, o processo desenvolvido indica um caminho a ser trilhado, através de uma escala de desenvolvimento tecnológico, que vai da ideia até a inovação, integrando, de forma sistemática, diferentes atividades-chaves e atores de uma rede de relacionamento. O processo pretende contribuir para o aumento da geração de inovações, e apresenta-se como uma alternativa à geração de startups e uma fonte adicional de recursos financeiros, buscando o “ganha-ganha-ganha”, em que ganha a ICT, ganha a empresa privada e ganha a sociedade.
+
+**Data da Apresentação:** Fevereiro de 2019
+
+**Orientador:** Virgílio José Martins Ferreira Filho, Fabrício Molica de Mendonça e Ricardo Coutinho
+
+**Participantes:** Carla Carvalho da Veiga
+
+**Tipo do Projeto:** Tese de Doutorado
+
+**Objetivos de Desenvolvimento Sustentáveis Relacionados:** Vida na Água [14] e Parcerias e Meios de Implementação [17]
+
+
+
+
 
 
 
