@@ -255,6 +255,16 @@ https://sistemasiac.ufrj.br/cadernoController/gerarCadernoResumo/35000000
 
 https://www.iq.ufrj.br/linhasdepesquisa/
 
+**Vulnerabilidade dos manguezais da Baía de Sepetiba a derrames de óleo na área portuária** [14]
+
+https://pantheon.ufrj.br/bitstream/11422/13555/1/AnaKarinaAugustinhodeFrancaUmezu.pdf
+
+**DA INVENÇÃO À INOVAÇÃO: UM PROCESSO DE DESENVOLVIMENTO DE PRODUTOS SUSTENTÁVEIS PARA BIOTECNOLOGIA MARINHA** [14,17]
+
+https://pantheon.ufrj.br/bitstream/11422/13260/1/CarlaCarvalhoDaVeiga.pdf
+
+
+
 ### Pool de Pesquisas
 
 
