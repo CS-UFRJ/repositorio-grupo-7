@@ -314,3 +314,26 @@ http://lfa.if.usp.br/index.php/Proj/ATTO
 **Adaptive Networks for Restoration Ecology - UFPB**
 
 https://www.sciencedirect.com/science/article/abs/pii/S0169534718301393#!
+
+#### Saúde e Bem Estar
+
+**Sentidos e significados de chás e de outras preparações com plantas medicinais para pacientes com câncer avançado sob cuidado paliativos - UERJ**
+
+https://www.e-publicacoes.uerj.br/index.php/ceres/article/view/1967
+
+#### Fome Zero e Agricultura Sustentável
+
+**A integração entre agricultura e nutrição como um campo estratégico de ação: análise a partir das conferências internacionais de nutrição - UFRRJ**
+
+https://sucupira.capes.gov.br/sucupira/public/consultas/coleta/trabalhoConclusao/viewTrabalhoConclusao.jsf?popup=true&id_trabalho=6581079
+
+**Aproveitamento do albúmen sólido do coco verde para obtenção de smoothie de frutas tropicais - UFRRJ**
+
+https://tede.ufrrj.br/jspui/handle/jspui/2639
+
+#### Erradicação da Pobreza
+
+**Modos de vida rurais no vale do ribeira: diferenças no uso de recursos florestais e efeitos do programa bolsa família nas práticas e segurança alimentar - USP**
+
+http://dedalus.usp.br/F/KV1ET6NDC2LSE6KS8VIYLBUCUYQ2U22ILF5XF4EI4749ULBGUJ-14017?func=full-set-set&set_number=006632&set_entry=000001&format=999
+
