@@ -510,7 +510,7 @@ This paper simulates shifts in household behaviour using a macroeconomic framewo
 
 **Tipo do Projeto:** Dissertação de Mestrado
 
-**Objetivos de Desenvolvimento Sustentáveis Relacionados:** Vida na Água (14)
+**Objetivos de Desenvolvimento Sustentáveis Relacionados:** Vida na Água [14]
 
 
 
