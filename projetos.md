@@ -162,8 +162,6 @@ https://sistemasiac.ufrj.br/cadernoController/gerarCadernoResumo/35000000 [artig
 
 **Descrição breve do Projeto:** O projeto busca destacar a importância para a vigilância epidemiológica de formas emergentes do HIV-1 no país, que podem ser vinculadas a processos de introduções externas, efeitos fundadores e/ou crescimento de práticas que ponham em risco determinados nichos populacionais.
 
-**Resumo do Projeto:** A pandemia da aids é causada pelo vírus HIV-1, cujo grupo M é dividido em nove subtipos que podem se recombinar gerando formas recombinantes circulantes (CRFs) [1]. No Brasil, majoritariamente, os subtipos do HIV-1 circulantes são o B, C, F1 e as CRFs formadas pela combinação destes subtipos [2]. Porém, outras CRFs vêm sendo notificadas, como CRF45_cpx que é composta pelos subtipos A, K e regiões indeterminadas (U). Esta é uma CRF encontrada principalmente na África Ocidental, mas já foi registrada em outros países, como Reino Unido, França, Estados Unidos e Brasil [3]. O objetivo deste trabalho foi investigar a presença dessa variante em sequências nucleotídicas virais contidas no banco de dados da Rede Nacional de Genotipagem do HIV-1 (RENAGENO) entre os anos de 2008 a 2017. Inicialmente, as sequências do gene pol do HIV-1, foram subtipadas usando três ferramentas onlines: RIP, COMET e REGA. As sequências que se mostraram discordantes pelas três ferramentas foram separadas para posterior construção de árvores filogenéticas. As sequências foram colocadas juntamente com um dataset de sequências referência e alinhadas com o programa MAFFT. O portal CIPRES foi usado para rodar e construir as árvores de máxima verossimilhança, através do programa IQ-TREE, utilizando o método de ultrafast bootstrap (UFBOOT) como suporte estatístico para os cálculos. As árvores foram visualizadas no programa FigTree e aquelas que tiveram alto suporte de agrupamento (>70 UFBOOT) com sequências referências foram classificadas. Após isso, os indivíduos infectados com a forma CRF45_cpx foram caracterizados quanto a seus dados demográficos e epidemiológicos. Os resultados mostraram que 58 sequências são CRF45_cpx. Os estados que tiveram ocorrências foram Minas Gerais (48,3%, n=28), Rio de Janeiro (34,5%, n=20), São Paulo (8,6%, n=5), Paraná (5,2%, n=3) e Rio Grande do Sul (3,4%, n=2). A cidade do Rio de Janeiro foi a que teve mais casos (20,7%, n=12). Dos 58 casos, as mulheres representaram 60,3% (n=35). Quanto à etnia, a maioria se autodeclarou como parda (50% dos informados, n=15). A faixa etária de 34 a 45 anos representou 34,5% (n=20). Não foi observada nenhuma tendência de crescimento ou diminuição da prevalência da CRF45_cpx ao longo do período amostrado, sendo que em média ela representou 0,1% das sequências por ano. Apesar da baixa prevalência, nosso estudo chama atenção para uma nova CRF que vem se espalhando pelo Brasil, principalmente pela região Sudeste. A principal via de transmissão, aparentemente é a heterossexual, em virtude do grande número de mulheres infectadas. Estes resultados destacam a importância para a vigilância epidemiológica de formas emergentes do HIV-1 no país, que podem ser vinculadas a processos de introduções externas, efeitos fundadores e/ou crescimento de práticas que ponham em risco determinados nichos populacionais. 
-
 **Data de Apresentação:** Outubro de 2019
 
 **Orientador(a):** Tiago Graf e Beatriz Mello Carvalo
@@ -709,4 +707,154 @@ This paper simulates shifts in household behaviour using a macroeconomic framewo
 
 
 
+## A viabilidade ambiental de usinas hidrelétricas e a aplicação da avaliação ambiental estratégica no Brasil
 
+**Título do Projeto:** A viabilidade ambiental de usinas hidrelétricas e a aplicação da avaliação ambiental estratégica no Brasil
+
+**Descrição breve do Projeto:** Esta tese avaliou o atual modelo de avaliação de impactos de usinas hidrelétricas no Brasil, com foco na etapa de discussão da viabilidade ambiental do procedimento de licenciamento ambiental prévio adotado pelo IBAMA, órgão executivo de meio ambiente responsável por promover o licenciamento ambiental federal. Verificou-se que a avaliação da viabilidade ambiental de usinas hidrelétricas tem resultado em ganhos ambientais significativos. Os principais ganhos são decorrentes do aperfeiçoamento dos projetos e inclusão de programas ambientais e medidas mitigadoras inicialmente não previstas nos EIAs. Chegou-se à conclusão que a AAE poderia ser útil na incorporação, de uma maneira sistemática, transparente e democrática, da variável ambiental na escolha da melhor estratégia para a expansão da geração energia hidráulica do país, reduzindo os conflitos e trazendo mais celeridade.
+
+**Resumo do Projeto:**	Esta tese avaliou o atual modelo de avaliação de impactos de usinas hidrelétricas no Brasil, com foco na etapa de discussão da viabilidade ambiental do procedimento de licenciamento ambiental prévio adotado pelo IBAMA, órgão executivo de meio ambiente responsável por promover o licenciamento ambiental federal. A avaliação foi realizada por meio de documentos e diagnósticos já realizados e também a partir revisão dos processos de licenciamento ambiental federal de usinas hidrelétricas que passaram pela discussão de viabilidade ambiental. Os processos de licenciamento foram acessados através do Portal do Licenciamento do órgão. São identificados e discutidos os critérios atualmente utilizados para definição da viabilidade ambiental e são identificados os avanços, limitações e deficiências do processo de licenciamento ambiental de usinas hidrelétricas, buscando identificar e avaliar possíveis soluções para aprimoramento do processo, em especial a possibilidade de aplicação da Avaliação Ambiental Estratégica - AAE para subsidiar o planejamento do setor. Verificou-se que a avaliação da viabilidade ambiental de usinas hidrelétricas tem resultado em ganhos ambientais significativos. Os principais ganhos são decorrentes do aperfeiçoamento dos projetos e inclusão de programas ambientais e medidas mitigadoras inicialmente não previstas nos EIAs. Na avaliação dos instrumentos de planejamento, verificou-se que deficiências e limitações fazem com que estes estudos não contribuam de forma determinante para a AIA, que é realizada na fase de projetos. Chegou-se à conclusão que a AAE poderia ser útil na incorporação, de uma maneira sistemática, transparente e democrática, da variável ambiental na escolha da melhor estratégia para a expansão da geração energia hidráulica do país, reduzindo os conflitos e trazendo mais celeridade.
+
+**Data da Apresentação:** Maio de 2017
+
+**Orientador(a):** Marco Aurélio dos Santos e Marcos Aurélio Vasconcelos de Freitas
+
+**Participantes:** André Lima de Andrade
+
+**Tipo de Projeto:** Tese de Doutorado
+
+**Objetivos de Desenvolvimento Sustentável:** Vida Terrestre [15]
+
+
+
+
+
+
+## Large-scale solar photovoltaic impact assessment in the context of the Brazilian environmental and energy planning
+
+**Título do Projeto:** Large-scale solar photovoltaic impact assessment in the context of the Brazilian environmental and energy planning
+
+**Descrição breve do Projeto:** Esse trabalho busca avaliar aspectos legais, a importância dos impactos ambientais e abordagens atuais de avaliação do impacto ambiental das instalações fotovoltaicas de grande escala (IFVGE) no contexto brasileiro. Além disso, uma metodologia multicritério é proposta para melhorar o atual processo de avaliação.
+
+**Resumo do Projeto:** A energia solar está crescendo em todo o mundo, especialmente através de instalações fotovoltaicas de grande escala (IFVGE). Há, no entanto, uma discussão entre diferentes partes interessadas e profissionais sobre os reais benefícios e impactos ambientais dessas instalações. A discussão aborda o papel principal do licenciamento ambiental (LA) para instalações de energia renovável considerando os impactos reais de tais projetos, assim como os critérios usados para licenciar e orientar os estudos ambientais e os métodos usados na avaliação de impacto e processo de tomada de decisão. Esta dissertação apresenta três artigos que analisam coletivamente os impactos ambientais de IFVGE em três esferas: aspectos legais, importância dos impactos ambientais e abordagens atuais de avaliação de impacto no contexto brasileiro. O primeiro trabalho estuda as atuais regulamentações ambientais para o licenciamento de IFVGE no Brasil e conecta seu papel no planejamento energético do país. O segundo artigo descreve os potenciais impactos ambientais causados pelas IFVGE, comparando sistemas montados no solo com sistemas flutuantes. O trabalho final aborda os métodos de avaliação de impacto utilizados na Avaliação de Impacto Ambiental. Além disso, uma metodologia multicritério é proposta para melhorar o atual processo de avaliação.
+
+**Data da Apresentação:** Março de 2019
+
+**Orientador(a):** David Alves Castelo Branco e Alessandra Magrini.
+
+**Participantes:** Gardenio Diogo Pimentel da Silva
+
+**Tipo de Projeto:** Dissertação de Mestrado
+
+**Objetivos de Desenvolvimento Sustentável:** Energia Acessível e Limpa [7] e Vida Terrestre [15]
+
+
+
+
+
+## Um modelo matemático para simulação e otimização do controle da qualidade da água em sistemas fluviais
+
+**Título do Projeto:** Um modelo matemático para simulação e otimização do controle da qualidade da água em sistemas fluviais
+
+**Descrição breve do Projeto:** Apresenta e aplica uma metodologia de planejamento que permitirá a integração da administração da qualidade da água com o planejamento global do desenvolvimento sócio-econômico de um sistema fluvial.
+
+**Resumo do Projeto:** Apresenta e aplica uma metodologia de planejamento que permitirá a integração da administração da qualidade da água com o planejamento global do desenvolvimento sócio-econômico de um sistema fluvial. A metodologia proposta se baseia na aplicação de técnicas da Análise de Sistemas de Recursos Hídricos e é composta de três submodelos; um submodelo de simulação digital da qualidade da água (SIMOX), um submodelo probabilístico hidrológico (Gumbel - eventos mínimos) e um submodelo para otimização da estratégia do controle da qualidade da água num sistema fluvial empregando programação linear. O modelo é aplicado para a bacia do Rio Paraíba do Sul no seu setor paulista. O submodelo de simulação SIMOX foi calibrado usando informações de uma amostragem de campo obtidas pelo CETESB e foi usado para analisar condições futuras (1990). As condições hidrológicas de amostragem foram avaliadas com o submodelo probabilístico hidrológico. Se estabeleceu uma política projetada ''Ótima'' para o ano de 1990 utilizando o submodelo de otimização e considerando-se uma frequência de excedência das vazões incrementais de 90%.
+
+**Data da Apresentação:** Dezembro de 1977
+
+**Orientador(a):** Pedro Luis Antônio Guerrero Salazar
+
+**Participantes:** Alex Maurício Araújo
+
+**Tipo de Projeto:** Dissertação de Mestrado
+
+**Objetivos de Desenvolvimento Sustentável:** Água Potável e Saneamento [6]
+
+
+
+
+
+
+## Desenvolvimento de membranas de matriz mista baseadas em nanopartículas de sílica para captura de CO2
+
+**Título do Projeto:** Desenvolvimento de membranas de matriz mista baseadas em nanopartículas de sílica para captura de CO2
+
+**Descrição breve do Projeto:** A pesquisa tem por proposta o desenvolvimento de MMM de poliuretano com nanopartículas de sílica e o estudo de seu desempenho na permeação de misturas contendo CO2. Com isso, é possível reduzir a quantidade de CO2 atmosférico através da sua captura com um desempenho melhor que outras medidas tradicionais.
+
+**Resumo do Projeto:** O CO2 é considerado o maior contribuinte para o fenômeno de aquecimento global e, por isso, esforços têm sido voltados para o desenvolvimento de tecnologias que visam à redução do CO2 atmosférico. As principais estratégias de captura são baseadas na separação CO2/N2, referente aos gases pós-combustão de matéria orgânica. Outra importante aplicação implica na purificação de metano proveniente de gás natural, capturando o CO2 do sistema CO2/CH4 o que também pretende reduzir danos nos equipamentos, uma vez que esse gás torna-se corrosivo na presença de água. A técnica de permeação de gases com membranas apresenta diversas vantagens na captura de CO2. A fim de superar limitações de desempenho apresentadas por membranas poliméricas, membranas de matriz mista (MMM) têm sido muito estudadas. A pesquisa tem por proposta o desenvolvimento de MMM de poliuretano com nanopartículas de sílica e o estudo de seu desempenho na permeação de misturas contendo CO2. Ensaios de TPD mostraram que a incorporação de sílica funcionalizada com grupos amino primários e secundários melhorou a capacidade de sorção de CO2 nas membranas. Os resultados mais promissores nos testes com gases puros foram obtidos a 1 bar, indicando transporte facilitado tanto para MMM com 2,5% (m/m) de sílica funcionalizada com grupos amino primários (Si-NH2), quanto para aquela que recebeu mesma carga de sílica com grupos amino secundários (Si-NHR). Membranas de PU com 2,5% de Si-NH2 aprimoraram as seletividades CO2/N2 e CO2/CH4 em 98,4% e 54,2%, respectivamente, enquanto as de PU com 2,5% de Si-NHR obtiveram melhoras de 82,6% e 60,7% para as mesmas seletividades ideais.
+
+**Data da Apresentação:** Março de 2019
+
+**Orientador(a):** Alberto Cláudio Habert e Helen Conceição Ferraz
+
+**Participantes:** Aliny Pautz Sunderhus
+
+**Tipo de Projeto:** Dissertação de Mestrado
+
+**Objetivos de Desenvolvimento Sustentável:** Ação contra a mudança global do clima [13] e Vida Terrestre [15]
+
+
+
+
+
+## Identificação dos coralitos de pólipos fundadores de corais recifais do Brasil (Cnidaria, Anthozoa, Scleractinia)
+
+**Título do Projeto:** Identificação dos coralitos de pólipos fundadores de corais recifais do Brasil (Cnidaria, Anthozoa, Scleractinia)
+
+**Descrição breve do Projeto:** O objetivo deste trabalho é descrever os juvenis de corais recifais brasileiros e analisar criticamente as características esqueléticas de importância taxonômica em suas diferentes fases de desenvolvimento. Estas identificações são importantes em estudos de história de vida, de padrões de recrutamento e avaliações de manutenção e crescimento das populações de corais recifais. Estas são uma ferramenta fundamental na otimização de manejo, conservação e recuperação dos recifes de coral.
+
+**Resumo do Projeto:** Para se estudar a história de vida de um organismo é fundamental que se possa identificá-lo ao longo de seu ciclo de vida. Em relação aos corais, um fator complicador é a dificuldade de sua identificação nos seus estágios iniciais. A taxonomia dos corais está fundamentada em caracteres presentes nos adultos. O objetivo deste trabalho é descrever os juvenis de corais recifais brasileiros e analisar criticamente as características esqueléticas de importância taxonômica em suas diferentes fases de desenvolvimento. Foram analisadas placas de recrutamento colocadas no Banco de Abrolhos, Recifes Itacolomis e Arraial do Cabo. Foram identificados oito táxons com até um ano de idade de família e espécie. Os resultados indicaram que a identificação depende do desenvolvimento do coralo, da morfogênese dos caracteres e dos caracteres que definem cada táxon. É viável classificar os juvenis, apesar desta atividade se mostrar muito trabalhosa, exigindo considerável conhecimento e treino de identificação. Estas identificações são importantes em estudos de história de vida, de padrões de recrutamento e avaliações de manutenção e crescimento das populações de corais recifais. Estas são uma ferramenta fundamental na otimização de manejo, conservação e recuperação dos recifes de coral.
+
+**Data da Apresentação:** Junho de 2003
+
+**Orientador(a):** Débora de Oliveira Pires
+
+**Participantes:** Emiliano Nicolas Calderon
+
+**Tipo de Projeto:** Dissertação de Mestrado
+
+**Objetivos de Desenvolvimento Sustentável:** Vida na Água [14]
+
+
+
+
+## Elaboração e análise de indicadores sociais para o apoio à tomada de decisão no processo de despoluição da Baía de Guanabara
+
+**Título do Projeto:** Elaboração e análise de indicadores sociais para o apoio à tomada de decisão no processo de despoluição da Baía de Guanabara
+
+**Descrição breve do Projeto:** O objetivo do trabalho é elaborar e analisar indicadores para mostrar a necessidade da despoluição e poder direcionar os esforços para açoes efetivas. O modelo se mostrou uma ferramenta útil para uma abordagem holística da bacia ao informar sobre o melhor direcionamento de ações de despoluição para resultados mais efetivos em ambas as questões sociais e ambientais.
+
+**Resumo do Projeto:** A região da bacia da Baía de Guanabara apresenta profundos contrastes, onde em meio à segunda maior metrópole do país há contigentes populacionais ainda sem saneamento básico. Apesar dos esforços de despoluição desde os anos 90, não houve percepção, por parte da opinião pública, de que houve evolução em seu deteriorado quadro social. A importância dos indicadores sociais emerge em um momento em que se faz necessário prestar contas à população quanto aos investimentos e os resultados obtidos, direcionar as ações às questões sociais e locais em situação de maior urgência e acompanhar os resultados para a identificação de ajustes nas ações para o alcance de melhores resultados. A atual agenda de discussão das questões sociais do entorno da baía configurou a base para a elaboração de um sistema de indicadores sociais. Três bacias hidrográficas em processo de despoluição também foram estudadas, com foco em suas abordagens quanto às questões sociais. Um modelo teórico de indicadores foi elaborado e testado em um recorte da bacia da Baía de Guanabara, através da utilização de dados públicos disponíveis. O modelo se mostrou uma ferramenta útil para uma abordagem holística da bacia ao informar sobre o melhor direcionamento de ações de despoluição para resultados mais efetivos em ambas as questões sociais e ambientais.
+
+**Data da Apresentação:** Abril de 2017
+
+**Orientador(a):** Laura Silvia Bahiense da Silva Leite e Carlos Eduardo Durange de Carvalho Infante
+
+**Participantes:** Vanessa Gonçalves Guimarães
+
+**Tipo de Projeto:** Dissertação de Mestrado
+
+**Objetivos de Desenvolvimento Sustentável:** Água Potável e Saneamento [6] e Vida na Água [14]
+
+
+
+
+
+
+## Template
+
+**Título do Projeto:** ...
+
+**Descrição breve do Projeto:** ...
+
+**Resumo do Projeto:** ...
+
+**Data da Apresentação:** ...
+
+**Orientador(a):** ...
+
+**Participantes:** ...
+
+**Tipo de Projeto:** ...
+
+**Objetivos de Desenvolvimento Sustentável:** ...
