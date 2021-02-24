@@ -620,20 +620,93 @@ This paper simulates shifts in household behaviour using a macroeconomic framewo
 
 
 
-## Template
 
-**Título do Projeto:** ...
+## Transferência da informação tecnológica para produtores rurais : estudo de caso no Rio Grande do Norte.
 
-**Descrição breve do Projeto:** ...
+**Título do Projeto:** Transferência da informação tecnológica para produtores rurais : estudo de caso no Rio Grande do Norte.
 
-**Resumo do Projeto:** ...
+**Descrição breve do Projeto:** O objetivo do estudo é avaliar o funcionamento da transferência de informação tecnológica para os produtores rurais, com o objetivo de ajudar esse grupo a obter mais conhecimento tecnológico e poder melhorar sua produção.
 
-**Data da Apresentação:** ...
+**Resumo do Projeto:** Em função do seu papel como fator de produção, a informação tecnológica adquiriu valor de troca na sociedade industrial, transformando-se, de um lado, em mercadoria submetida as forças do mercado e, de outro, em canal de comunicação das ideias de racionalização e eficiência dominantes nessa sociedade. Na comunicação entre a Empresa de Assistência Técnica e Extensão Rural/EMATER-RN, enquanto agencia de informação e os produtores rurais por ela assistidos, considerados seus usuários finais foram identificadas barreiras ideológicas, terminológicas, de eficiência, de capacidade de leitura, de consciência e conhecimento da informação, e de responsabilidade. Considerando fatores que afetam a transferência da informação, como as características individuais dos produtores rurais e os sistemas social, econômico, político e cultural onde se inserem, o estudo coloca a necessidade da agência de informação vir a atuar como comunicador no processo de comunicação de tecnologias e conhecimento técnico-científico. Para isso, a agencia de informação, deve procurar adequar seus meios de comunicação aos usuários finais, de modo a obter a efetiva transferência da informação e sua consequente utilização, pelos produtores rurais assistidos. Isso implicara, principalmente, na adoção de novas formas de interação com os usuários finais, de modo a se transformar, ela mesma, em canal de transferência de informação e de outros recursos para o meio rural.
 
-**Orientador(a):** ...
+**Data da Apresentação:** 1987
 
-**Participantes:** ...
+**Orientador(a):** Vania Maria Rodrigues Hermes de Araujo
 
-**Tipo de Projeto:** ...
+**Participantes:** Isa Maria Freire
 
-**Objetivos de Desenvolvimento Sustentável:** ...
+**Tipo de Projeto:** Dissertação de Mestrado
+
+**Objetivos de Desenvolvimento Sustentável:** Erradicação da Pobreza [1] e Fome Zero e Agricultura Sustentável [2]
+
+
+
+
+## Transferência de informações em tecnologias apropriadas para pequenos produtores rurais brasileiros
+
+**Título do Projeto:** Transferência de informações em tecnologias apropriadas para pequenos produtores rurais brasileiros
+
+**Descrição breve do Projeto:** O objetivo do trabalho é estudar como a transferência de informação tecnológica para os pequenos agricultores ocorre, para compreender e propor medidas de melhoramento, para o desenvolvimento rural.
+
+**Resumo do Projeto:**	Transferência de informações em Tecnologia Apropriada (TA) e negligenciada na literatura de Ciência da Informação. Conceitos e praticas de Estado quanto a reprodução de capital no Brasil obstaculizam a criação e desenvolvimento de sistemas de transferência de TA. O governo enquanto ignora as necessidades tecnológicas dos pequenos agricultores, coage-lhes a um modelo agrícola alheio a suas tradições pré-capitalistas, desconsiderando os princípios fundamentais das TA e levando os sistemas de TA existentes a erros de concepção. As TA são vistas como tábua de salvação para uma tecnificação tardia, barata mas necessária, e reconhecidas como tal pelas Organizações Nao-Governamentais, setor modestamente bem-sucedido. Demonstra-se que setores de governo são inadequados a transferência de informações para os pequenos produtores empobrecidos em razão da incompreensão da TA para a Educação, da Pesquisa-Ação Participativa (PaP) originaria da América Latina e apta a causar efeitos positivos na tecnificação conscientizada. Oferecem-se sugestões para a organização de sistemas de transferência de informações de TA que considerem a PaP como fator determinante para a obtenção de resultados produtivos.
+
+**Data da Apresentação:** 1988
+
+**Orientador(a):** Maria de Nazaré Freitas e Aldo Albuquerque Barreto
+
+**Participantes:** Geraldo Amadel Lobato Franco
+
+**Tipo de Projeto:** Dissertação de Mestrado
+
+**Objetivos de Desenvolvimento Sustentável:** Erradicação da Pobreza [1] e Fome Zero e Agricultura Sustentável [2]
+
+
+
+
+
+
+## 	Diálogos entre a administração da produção para autogestão e a agroecologia: o estudo de caso de dois cursos de extensão para gestão de cooperativas na agricultura familiar
+
+**Título do Projeto:** Diálogos entre a administração da produção para autogestão e a agroecologia: o estudo de caso de dois cursos de extensão para gestão de cooperativas na agricultura familiar
+
+**Descrição breve do Projeto:** A pesquisa se constitui em um estudo qualitativo de caráter exploratório e teve como objetivo analisar elementos conceituais e metodológicos que contribuam para o planejamento da produção agroecológica. Para tal, conta com um estudo de caso que percorre dois cursos de extensão voltados para a gestão de cooperativas na agricultura familiar. Neste sentido, concluímos a análise com o apontamento de algumas considerações e questões para se levar em conta em propostas de formação que articulem a agroecologia e a administração da produção para a autogestão.
+
+**Resumo do Projeto:** A pesquisa se constitui em um estudo qualitativo de caráter exploratório e teve como objetivo analisar elementos conceituais e metodológicos que contribuam para o planejamento da produção agroecológica. Para tal, conta com um estudo de caso que percorre dois cursos de extensão voltados para a gestão de cooperativas na agricultura familiar. Um realizado entre outubro e dezembro de 2015, com carga horária de 36 horas; outro realizado entre outubro de 2016 e outubro de 2017, com carga horária de 160 horas. Ambos construídos em parceria com o Movimento dos Trabalhadores Rurais Sem Terra. Os dados foram obtidos através de pesquisa documental, de observação participante durante a concepção e execução dos dois cursos, e por meio de uma entrevista coletiva realizada com um dos grupos que teve um dos seus membros enquanto educando do segundo curso. Como suporte teórico, foi realizada revisão bibliográfica sobre a agroecologia e a administração da produção, por entender que se tratam de áreas com grande potencial de contribuir para estratégias de formação e organização do trabalho cooperativo no campo. Um trabalho emancipador, criativo, em que as atividades de concepção, planejamento e execução estejam novamente indissociáveis. Neste sentido, concluímos a análise com o apontamento de algumas considerações e questões para se levar em conta em propostas de formação que articulem a agroecologia e a administração da produção para a autogestão.
+
+**Data da Apresentação:** Maio de 2018
+
+**Orientador(a):** Francisco José de Castro Moura Duarte
+
+**Participantes:** Ricardo Silveira de Oliveira Filho
+
+**Tipo de Projeto:** Dissertação de Mestrado
+
+**Objetivos de Desenvolvimento Sustentável:** Erradicação da Pobreza [1] e Fome Zero e Agricultura Sustentável [2]
+
+
+
+
+
+## Abordagem investigativa da digestão e alimentação com estudantes do ensino médio
+
+**Título do Projeto:** Abordagem investigativa da digestão e alimentação com estudantes do ensino médio
+
+**Descrição breve do Projeto:** Observando a necessidade de contextualizar conceitos relacionados ao funcionamento do sistema digestório humano e à educação alimentar, foi produzida uma sequência didática com atividades investigativas sobre alimentação e digestão. O produto desenvolvido neste estudo oferece aos alunos um conhecimento sobre alimentação e digestão que possibilita escolhas alimentares responsáveis.
+
+**Resumo do Projeto:** 	Observando a necessidade de contextualizar conceitos relacionados ao funcionamento do sistema digestório humano e à educação alimentar, foi produzida uma sequência didática com atividades investigativas sobre alimentação e digestão. Os objetivos desta ferramenta didática são abordar e difundir estes temas entre os alunos do Ensino Médio através de tarefas investigativas, conscientizar sobre a importância de uma alimentação adequada e gerar reflexão sobre saúde e alimentação, além de auxiliar no aprendizado do sistema digestório. A sequência didática proporcionou mais estímulo aos alunos e resultou em mais interesse, dedicação e satisfação, contribuindo na construção do conhecimento sobre os temas propostos. É imprescindível que se discuta sobre alimentação saudável com os estudantes de forma mais contextualizada e eficaz, a fim de que os alunos compreendam que os resultados de uma mudança alimentar serão vistos em vários aspectos de suas vidas. O produto desenvolvido neste estudo oferece aos alunos um conhecimento sobre alimentação e digestão que possibilita escolhas alimentares responsáveis.
+
+**Data da Apresentação:** 7 de Julho de 2019
+
+**Orientador(a):** Carolina Alvares da Cunha de Azeredo Braga
+
+**Participantes:** Maria Angélica Muniz Gomes
+
+**Tipo de Projeto:** Dissertação de Mestrado
+
+**Objetivos de Desenvolvimento Sustentável:** Saúde e Bem-Estar [3]
+
+
+
+
+
+
