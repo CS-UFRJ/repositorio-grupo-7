@@ -534,7 +534,44 @@ This paper simulates shifts in household behaviour using a macroeconomic framewo
 
 
 
+## DESENVOLVIMENTO DE MULTICLASSIFICADORES E DE UM SISTEMA DE IDENTIFICAÇÃO DE RESISTÊNCIA DO HIV-1 AOS ANTIRRETROVIRAIS
 
+**Título do Projeto:** DESENVOLVIMENTO DE MULTICLASSIFICADORES E DE UM SISTEMA DE IDENTIFICAÇÃO DE RESISTÊNCIA DO HIV-1 AOS ANTIRRETROVIRAIS
+
+**Descrição Breve do Projeto:** Os objetivos deste trabalho foram desenvolver multiclassificadores de resistência a partir dos algoritmos de interpretação genotípica e implementar um ambiente integrado capaz de identificar as mutações de resistência do HIV-1 e os níveis de suscetibilidade aos ARVs a partir de dados brutos de NGS provenientes de amostras de indivíduos HIV+.
+
+**Resumo do Projeto:** Muitos algoritmos de interpretação genotípica têm sido elaborados com o intuito de detectar resistência do HIV aos antirretrovirais (ARV). Entretanto, esses sistemas têm apresentado discordâncias de classificação, gerando predições conflituosas da resposta terapêutica. Na prática clínica, ensaios genotípicos utilizados na detecção de resistência são realizados por meio do sequenciamento de Sanger, uma técnica com sensibilidade limitada, detectando apenas as variantes do HIV presentes em mais de 15-20% da população viral. Novas técnicas de sequenciamento de DNA, como o sequenciamento de nova geração (NGS), têm sido exploradas nos testes genotípicos de resistência do HIV. Essas técnicas são capazes de detectar mutações de resistência presentes em baixas frequências não detectáveis pela genotipagem atual. Os objetivos deste estudo foram desenvolver multiclassificadores de resistência a partir dos algoritmos de interpretação genotípica e implementar um ambiente integrado capaz de identificar as mutações de resistência do HIV-1 e os níveis de suscetibilidade aos ARVs a partir de dados brutos de NGS. Três estratégias diferentes foram utilizadas no desenvolvimento dos multiclassificadores: voto majoritário (VM), escolha do melhor algoritmo de interpretação genotípica (MS) e técnica stacking, com metaclassificadores naïve Bayes (NB) e k-NN. No geral, as abordagens NB e MS obtiveram os melhores resultados, com o NB sendo estatisticamente superior a pelo menos uma das outras três estratégias para quatro fármacos. O ambiente integrado recebeu o nome de SIRA-HIV e foi implementado na linguagem R. O sistema realiza uma avaliação abrangente dos dados de NGS, fornecendo ao usuário uma lista dos aminoácidos (e suas frequências) encontrados nas regiões analisadas, além da classificação de resistência do HIV-1 aos ARVs segundo dois pontos de corte.
+
+**Data da Apresentação:** Janeiro de 2018
+
+**Orientador:** Flavio Fonseca Nobre
+
+**Participantes:** Letícia Martins Raposo
+
+**Tipo do Projeto:** Tese de Doutorado
+
+**Objetivos de Desenvolvimento Sustentáveis Relacionados:** Saúde e Bem-estar [3]
+
+
+
+
+## ELABORAÇÃO E ANÁLISE DE INDICADORES SOCIAIS PARA O APOIO À TOMADA DE DECISÃO NO PROCESSO DE DESPOLUIÇÃO DA BAÍA DE GUANABARA
+
+**Título do Projeto:** ELABORAÇÃO E ANÁLISE DE INDICADORES SOCIAIS PARA O APOIO À TOMADA DE DECISÃO NO PROCESSO DE DESPOLUIÇÃO DA BAÍA DE GUANABARA
+
+**Descrição Breve do Projeto:**  Incluir a dimensão social no processo de despoluição da Baía de Guanabara, através da elaboração e análise de indicadores sociais que apóiem a tomada de decisão. 
+
+**Resumo do Projeto:** A região da bacia da Baía de Guanabara apresenta profundos contrastes, onde em meio à segunda maior metrópole do país há contingentes populacionais ainda sem saneamento básico. Apesar dos esforços de despoluição desde os anos 90, não houve percepção, por parte da opinião pública, de que houve evolução em seu deteriorado quadro social. A importância dos indicadores sociais emerge em um momento em que se faz necessário prestar contas à população quanto aos investimentos e os resultados obtidos, direcionar as ações às questões sociais e locais em situação de maior urgência e acompanhar os resultados para a identificação de ajustes nas ações para o alcance de melhores resultados. A atual agenda de discussão das questões sociais do entorno da baía configurou a base para a elaboração de um sistema de indicadores sociais. Três bacias hidrográficas em processo de despoluição também foram estudadas, com foco em suas abordagens quanto às questões sociais. Um modelo teórico de indicadores foi elaborado e testado em um recorte da bacia da Baía de Guanabara, através da utilização de dados públicos disponíveis. O modelo se mostrou uma ferramenta útil para uma abordagem holística da bacia ao informar sobre o melhor direcionamento de ações de despoluição para resultados mais efetivos em ambas as questões sociais e ambientais.
+
+**Data da Apresentação:** Abril de 2017
+
+**Orientador:** Laura Silvia Bahiense da Silva Leite, Carlos Eduardo Durange de Carvalho Infante
+
+**Participantes:** Vanessa Gonçalves Guimarães
+
+**Tipo do Projeto:** Dissertação de Mestrado
+
+**Objetivos de Desenvolvimento Sustentáveis Relacionados:** Água Potável e Saneamento [6]
 
 
 
