@@ -263,6 +263,13 @@ https://pantheon.ufrj.br/bitstream/11422/13555/1/AnaKarinaAugustinhodeFrancaUmez
 
 https://pantheon.ufrj.br/bitstream/11422/13260/1/CarlaCarvalhoDaVeiga.pdf
 
+**Desenvolvimento de multiclassificadores e de um sistema de identificação de resistência do HIV-1 aos antirretrovirais** [3]
+
+https://pantheon.ufrj.br/bitstream/11422/12052/1/LeticiaMartinsRaposo.pdf
+
+**ELABORAÇÃO E ANÁLISE DE INDICADORES SOCIAIS PARA O APOIO À TOMADA DE DECISÃO NO PROCESSO DE DESPOLUIÇÃO DA BAÍA DE GUANABARA** [6]
+
+https://pantheon.ufrj.br/bitstream/11422/10092/1/877665.pdf
 
 
 ### Pool de Pesquisas
