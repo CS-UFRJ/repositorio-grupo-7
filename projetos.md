@@ -577,6 +577,49 @@ This paper simulates shifts in household behaviour using a macroeconomic framewo
 
 
 
+
+## Uma proposta de tratamento dos dados sobre acidentes nas rodovias federais brasileiras com vistas a atuar preventivamente na redução de sua ocorrência
+
+**Título do Projeto:** Uma proposta de tratamento dos dados sobre acidentes nas rodovias federais brasileiras com vistas a atuar preventivamente na redução de sua ocorrência.
+
+**Descrição breve do Projeto:** Esta tese tem como propósito apresentar um estudo sobre o desenvolvimento de uma metodologia de análise e previsão de quantidades e severidade dos acidentes de trânsito para o Brasil.
+
+**Resumo do Projeto:** Esta tese tem como propósito apresentar um estudo sobre o desenvolvimento de uma metodologia de análise e previsão de quantidades e severidade dos acidentes de trânsito para o Brasil, tomando como base as ocorrências registradas pela Polícia Rodoviária Federal, nas rodovias federais brasileiras, no ano de 2009, a partir do tratamento matemático dos fatores relacionados, no caso os Volumes Diários Médios Anual (VDMA) por faixa e extensão urbana e/ou rural dos trechos. Adicionalmente, foram utilizados critérios de parametrização da severidade dos acidentes, de forma a identificar a sua oportunidade de utilização com vistas a conhecer os trechos com maior concentração das ocorrências, a partir de seus custos sociais. Esse conjunto de informações foi trabalhado a partir de software com o uso de ferramentas de tratamento de dados, com a finalidade de se chegar a modelos matemáticos que permitiram definir os relacionamentos dos fatores de maior relevância, nos trechos analisados. Foram incorporados ainda estudos geoespaciais que permitiram não só a localização geográfica dos trechos, mas sua confrontação com informações socioeconômicas, com vistas a entender se há correlação direta entre estes indicadores nas Regiões, Estados e Regiões Metropolitanas do Brasil.
+
+**Data da Apresentação:** Agosto de 2017
+
+**Orientador(a):** Carlos David Nassi
+
+**Participantes:** Paulo César Pêgas Ferreira
+
+**Tipo de Projeto:** Tese de Doutorado
+
+**Objetivos de Desenvolvimento Sustentável:** Saúde e Bem-Estar [3]
+
+
+
+
+## A infraestrutura urbana de transportes e o aquecimento global: um estudo sobre possíveis medidas de mitigação
+
+**Título do Projeto:** A infraestrutura urbana de transportes e o aquecimento global: um estudo sobre possíveis medidas de mitigação. 
+
+**Descrição breve do Projeto:** Este trabalho apresenta o impacto do setor de transporte rodoviário no aquecimento global a partir da sua infraestrutura urbana e apresenta possíveis medidas de mitigação como técnicas de geoengenharia e medidas de planejamento urbano integrado ao sistema de transportes. Por fim, ao discorrer sobre as diferentes fontes de impacto do setor de transportes assim como suas medidas de mitigação, o estudo reconhece a importância significativa deste setor às mudanças climáticas.
+
+**Resumo do Projeto:** O aquecimento global é uma realidade e a tendência de crescimento das cidades, grandes focos de impactos ao meio ambiente, alertam para a urgência da implantação de medidas de mitigação. O setor de transportes é responsável por uma parcela significativa da contribuição antrópica ao aumento de temperatura da superfície terrestre. Ainda que a emissão de gases de efeito estufa seja a principal fonte de impacto do setor as mudanças climáticas, esta não é a única. Desta forma, este trabalho apresenta o impacto do setor de transporte rodoviário no aquecimento global a partir da sua infraestrutura urbana. Este impacto decorre da utilização de materiais urbanos de superfícies escuras, como concreto e asfalto, que possuem uma baixa capacidade de refletir a radiação solar e por isso, retém mais calor. Este trabalho apresenta um estudo de caso sobre o impacto da infraestrutura urbana de transportes da cidade do Rio de Janeiro no aquecimento global. Paralelamente à análise dos impactos de sua infraestrutura, o estudo apresenta possíveis medidas de mitigação como técnicas de geoengenharia e medidas de planejamento urbano integrado ao sistema de transportes. Por fim, ao discorrer sobre as diferentes fontes de impacto do setor de transportes assim como suas medidas de mitigação, o estudo reconhece a importância significativa deste setor às mudanças climáticas.
+
+**Data da Apresentação:** Março de 2017
+
+**Orientador(a):** Suzana Kahn Ribeiro
+
+**Participantes:** Berta Castelar Pinheiro
+
+**Tipo de Projeto:** Dissertação de Mestrado
+
+**Objetivos de Desenvolvimento Sustentável:** Ação contra a mudança global do clima [13]
+
+
+
+
 ## Template
 
 **Título do Projeto:** ...
