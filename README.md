@@ -288,6 +288,8 @@ https://sistemasiac.ufrj.br/cadernoController/gerarCadernoResumo/38000000      [
 
 http://www.funasa.gov.br/pesquisas-e-desenvolvimento-tecnologico-em-saude-ambiental-e-saneamento
 
+https://portal.ufsm.br/projetos/publico/projetos/list.html
+
 ### Ações de Pesquisa Externas
 
 #### Conservação Marinha
