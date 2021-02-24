@@ -284,6 +284,18 @@ https://sistemasiac.ufrj.br/cadernoController/gerarCadernoResumo/38000000      [
 
 ## Definições do Dia 18/02/21
 
+### Outros Repositórios Externos
+
+Repositório da UNB: https://repositorio.unb.br/
+
+Repositório da UFSC: https://repositorio.ufsc.br/
+
+Repositório da UFF: https://app.uff.br/riuff/
+
+Repositório da UFC: http://www.repositorio.ufc.br/
+
+Repositorio da UNESP: https://repositorio.unesp.br/
+
 ### Fontes externas
 
 http://www.funasa.gov.br/pesquisas-e-desenvolvimento-tecnologico-em-saude-ambiental-e-saneamento
