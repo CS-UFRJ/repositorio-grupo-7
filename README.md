@@ -338,6 +338,14 @@ https://www.sciencedirect.com/science/article/abs/pii/S0169534718301393#!
 
 https://www.e-publicacoes.uerj.br/index.php/ceres/article/view/1967
 
+**A influência do método pilates na cognição, na resistência, na flexibilidade e no equilíbrio de idosos - UFSM**
+
+https://portal.ufsm.br/projetos/publico/projetos/view.html?idProjeto=67616
+
+**Saúde ocupacional: os benefícios ddos exercícios laborais - UFSM** 
+
+https://portal.ufsm.br/projetos/publico/projetos/view.html?idProjeto=14275
+
 #### Fome Zero e Agricultura Sustentável
 
 **A integração entre agricultura e nutrição como um campo estratégico de ação: análise a partir das conferências internacionais de nutrição - UFRRJ**
@@ -347,6 +355,10 @@ https://sucupira.capes.gov.br/sucupira/public/consultas/coleta/trabalhoConclusao
 **Aproveitamento do albúmen sólido do coco verde para obtenção de smoothie de frutas tropicais - UFRRJ**
 
 https://tede.ufrrj.br/jspui/handle/jspui/2639
+
+**As associações de pequenos agricultores nas perspectivas da agricultura sustentável - UFSM**
+
+https://portal.ufsm.br/projetos/publico/projetos/view.html?idProjeto=15059
 
 #### Erradicação da Pobreza
 
