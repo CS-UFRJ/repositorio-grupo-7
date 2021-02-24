@@ -2,8 +2,41 @@
 
 Esse arquivo possui os projetos com todos os dados completos, seguindo o template estabelecido.
 
+## Contabilidade por ODS
 
+1. **(nossa) Erradicação da pobreza:** 4
 
+2. **(nossa) Fome zero e agricultura sustentável:** 6
+
+3. **(nossa) Saúde e Bem-estar:** 11
+
+4. **Educação de qualidade:** 0
+
+5. **Igualdade de Gênero:** 0
+
+6. **(nossa) Água potável e Saneamento:** 6
+
+7. **Energia Acessível e Limpa:** 5
+
+8. **Trabalho decente e crescimento econômico:** 0
+
+9. **Indústria, Inovação e Infra-estrutura:** 4
+
+10. **Redução das desigualdades:** 0
+
+11. **Cidades e comunidades sustentáveis:** 1
+
+12. **Consumo e produção responsáveis:** 1
+
+13. **(nossa) Ação contra a mudança global do clima:** 7
+
+14. **(nossa) Vida na água:** 7
+
+15. **(nossa) Vida terrestre:** 8 
+
+16. **Paz, justiça e instituições eficazes:** 0
+
+17. **(nossa) Parcerias e meios de implementação:** 5
 
 ## Template
 
