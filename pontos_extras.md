@@ -3,8 +3,10 @@
 ## Aplicação da Computação nos projetos encontrados
 
 ### Pipabot: O Chatbot do Projeto Pipa UFRJ
+A computação está sendo utilizada.
 
 ### Associação entre vitamina D e marcadores do metabolismo glicídico na gestação e desfechos neonatais: resultados de uma coorte brasileira
+
 
 ### Nanobiossensor a fibra óptica revestido com filme fino de ouro para detecção da bactéria Escherichia coli
 
