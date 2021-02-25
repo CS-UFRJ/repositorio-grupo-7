@@ -14,7 +14,7 @@ Esse arquivo possui os projetos com todos os dados completos, seguindo o templat
 
 5. **Igualdade de Gênero:** 0
 
-6. **(nossa) Água potável e Saneamento:** 6
+6. **(nossa) Água potável e Saneamento:** 5
 
 7. **Energia Acessível e Limpa:** 5
 
@@ -28,15 +28,17 @@ Esse arquivo possui os projetos com todos os dados completos, seguindo o templat
 
 12. **Consumo e produção responsáveis:** 1
 
-13. **(nossa) Ação contra a mudança global do clima:** 7
+13. **(nossa) Ação contra a mudança global do clima:** 6
 
-14. **(nossa) Vida na água:** 7
+14. **(nossa) Vida na água:** 6
 
-15. **(nossa) Vida terrestre:** 8 
+15. **(nossa) Vida terrestre:** 9 
 
 16. **Paz, justiça e instituições eficazes:** 0
 
 17. **(nossa) Parcerias e meios de implementação:** 5
+
+
 
 ## Template
 
