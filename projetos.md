@@ -345,9 +345,9 @@ This paper simulates shifts in household behaviour using a macroeconomic framewo
 
 **Título do Projeto:** Proposta metodológica para incorporação do risco climático nas estratégias de negócios da NEOENERGIA. Apoio ao projeto piloto de adaptação da TERMOPE.
 
-**Descrição breve do Projeto:** Busca ornecer subsídios para a incorporação do risco climático nas estratégias de negócios da NEOENERGIA, com base na estruturação de um plano de adaptação às mudanças do clima.
+**Descrição breve do Projeto:** Busca fornecer subsídios para a incorporação do risco climático nas estratégias de negócios da NEOENERGIA, com base na estruturação de um plano de adaptação às mudanças do clima.
 
-**Resumo do Projeto:** ...
+**Resumo do Projeto:** Não especificado. 
 
 **Data da Apresentação:** Março de 2020
 
@@ -410,7 +410,7 @@ This paper simulates shifts in household behaviour using a macroeconomic framewo
 
 **Título do Projeto:** EMPREENDIMENTOS DE GERAÇÃO HIDRELÉTRICA NA AMAZÔNIA: DESMATAMENTO EM ÁREAS DE USO RESTRITO E GESTÃO DE ÁREAS PROTEGIDAS
 
-**Descrição breve do Projeto:** Este  trabalho,  no entanto, apresenta um diagnóstico da importância das áreas protegidas para a conservação da cobertura vegetal no entorno de empreendimentos hidroelétricos, descreve e analisa o uso  de  instrumentos  de  gestão,  alguns  já  existentes  outros  a  serem  sugeridos,  que possibilite  uma  redução  dos  conflitos  e  uma  maior  eficiência  ambiental  na  geração  de energia.
+**Descrição breve do Projeto:** Este  trabalho apresenta um diagnóstico da importância das áreas protegidas para a conservação da cobertura vegetal no entorno de empreendimentos hidroelétricos, descreve e analisa o uso  de  instrumentos  de  gestão,  alguns  já  existentes  outros  a  serem  sugeridos,  que possibilite  uma  redução  dos  conflitos  e  uma  maior  eficiência  ambiental  na  geração  de energia.
 
 **Resumo do Projeto:** A  energia  elétrica  obtida  de  fontes  renováveis  representa  mais  de  80%  do  total produzido no Brasil, sendo cerca de 60% proveniente de fontes hidrelétricas. A Amazônia brasileira  é  conhecida  por  sua  abundância  hídrica, principal  fator  que  tem  atraído crescentes  investimentos  hidrelétricos  para  a  região.  Além  da  riqueza  de  seus  rios,  a Amazônia  é  rica  em  diversidade  biológica,  possuindo  uma  floresta  com  expressiva densidade de matéria orgânica. Grande parte da floresta na região, em função de pressões internas  e  externas  de  mudança  de  uso  do  solo,  está  sobre  algum  regime  especial  de proteção, sobretudo com o status de áreas protegidas (AP), tais como Terras  Indígenas (TI) e Unidades de Conservação (UC). Este cenário pode se constituir em exacerbações de tais conflitos, pois formas de proteção e conservação da natureza e das formas de vida de  populações  tradicionais  usam  dos  mesmos  territórios  e  recursos  naturais  que  os empreendimentos   geradores   de   energia   elétrica,   públicos   e   privados,   e   descrito majoritariamente  como  conflitante  e  com  consequências  negativas.  Este  trabalho,  no entanto, apresenta um diagnóstico da importância das áreas protegidas para a conservação da cobertura vegetal no entorno de empreendimentos hidroelétricos, descreve e analisa o uso  de  instrumentos  de  gestão,  alguns  já  existentes  outros  a  serem  sugeridos,  que possibilite  uma  redução  dos  conflitos  e  uma  maior  eficiência  ambiental  na  geração  de energia.
 
@@ -449,26 +449,6 @@ This paper simulates shifts in household behaviour using a macroeconomic framewo
 
 
 
-## MULTIMETODOLOGIA APLICADA À GESTÃO DE RESÍDUOS SÓLIDOS EM TERMINAIS PORTUÁRIOS
-
-**Título do Projeto:** MULTIMETODOLOGIA APLICADA À GESTÃO DE RESÍDUOS SÓLIDOS EM TERMINAIS PORTUÁRIOS
-
-**Descrição breve do Projeto:** O objetivo geral do presente trabalho de pesquisa é contribuir para o desenvolvimento de um modelo multimetodológico para avaliar o desempenho operacional de terminais portuários quanto a eficiência técnica e ambiental na gestão de resíduos sólidos.
-
-**Resumo do Projeto:** A análise envoltória de dados (DEA) tem se mostrado apropriada na avaliação de desempenho operacional portuário e seu emprego tem sido crescente nos últimos anos, embora restrita aos aspectos teóricos, sem a interação com os usuários. Esta tese desenvolve uma multimetodologia para avaliação de eficiência técnica e ambiental da gestão de resíduos sólidos nos terminais portuários do Porto de Santos. Com esse objetivo, o trabalho analisou 24 terminais portuários, no ano de 2015, com utilização do método DEA, quanto à movimentação de cargas em relação à infraestrutura disponível e à gestão de resíduos empregada. O resultado do modelo clássico revelou que cinco terminais de carga geral e sete de granel sólido estariam na fronteira de eficiência e, quando se aplicou a restrição aos pesos, quatro de cada cluster permaneceram na fronteira Pareto-eficiente. A análise quantitativa é formal e trata uma parte do problema, enquanto que a realidade é qualitativa. Assim, incorporou-se um mapa conceitual que explicita um conhecimento interno implícito. A multimetodologia proposta identifica os fatores envolvidos, incluindo os inconsistentes, inexistentes ou que não podem ser representados em uma base de dados. A integração dos métodos representa um importante subsídio para maior entendimento da influência da eficiência da gestão de resíduos na operação portuária para o processo decisório.
-
-**Data da Apresentação:** Abril de 2019
-
-**Orientador(a):** Cláudio Fernando Mahler e Marcos Pereira Estellita Lins
-
-**Participantes:** Betina Maciel Versiani
-
-**Tipo de Projeto:** Tese de Doutorado
-
-**Objetivos de Desenvolvimento Sustentável:** Ação Contra a Mudança Global do Clima [13] e Vida na Água [14]
-
-
-
 
 ## A BRAZILIAN PERSPECTIVE ON ZERO EMISSION FUELS FOR SHIPPING
 
@@ -495,7 +475,7 @@ This paper simulates shifts in household behaviour using a macroeconomic framewo
 
 **Resumo do Projeto:** Efeito de Fibras de Sementes de Manga sob as Propriedades Mecânicas do Cimento Entre as muitas fontes renováveis utilizadas para preparo de novos materiais, as fibras naturais têm sido frequentemente pesquisadas. Isso se deve a algumas de suas interessantes propriedades, como boa resistência mecânica e baixa densidade, além do baixo custo e da boa disponibilidade. Particularmente, o uso de fibras de sementes de manga para o preparo de novos materiais compósitos é muito interessante, já que a manga (Mangifera indica L., família Anacardiaceae) é um material natural abundantemente consumido em todo o mundo. A manga cresce em quase todas as regiões tropicais e subtropicais do mundo e cerca de 27 milhões de toneladas desta fruta são produzidas anualmente. Só o Brasil produz cerca de 5% da manga consumida, sendo um dos oito maiores produtores do mundo. Por outro lado, o uso de reforço de fibras em materiais à base de cimento atrai cada vez mais interesse como uma solução para melhorar propriedades mecânicas de argamassas e obter materiais conhecidos como Compostos Cimentícios Reforçados por Fibras (FRCCs). Os FRCCs são geralmente caracterizados por uma maior resistência à tração e à flexão, um comportamento pós-craqueamento mais resistente e dúctil e propriedades de 106 SESSÕES SNCT durabilidade superiores resultantes de uma redução na fissura. A viabilidade do uso de fibras naturais é uma alternativa para a concepção e produção de FRCCs. Neste trabalho, foram realizadas modificações nas fibras, com nanopartículas de magnetita e polianilina/magnetita, com intuito de torná-las sensíveis a campos magnéticos com o objetivo de tentar orienta-las para obter melhores FRCCs. As fibras de semente de manga in natura e com modificações foram inseridas em uma pasta de cimento na proporção de 0,5%, 1% e 2%, em volume. A cura da matriz ocorreu na presença de ímãs, com a finalidade de orientar as fibras e provocar a anisotropia das propriedades mecânicas. As fibras de sementes de manga foram caracterizados por FTIR, MEV e TGA / DSC e os corpos de prova ensaiados mecanicamente. Os FRCCs que apresentaram melhores respostas ao ensaio de compressão foram os moldados com as fibras modificadas com polianilina/magnetita, inseridas na proporção 1%, cuja cura ocorreu na presença de imãs. O uso dos ímãs de ferrita produziu um aumento de 22% na tensão limite de ruptura em relação aos FRCCs curados na ausência de campo magnético. Esse é um resultado muito promissor e novos testes serão feitos com ímãs de neodímio, buscando entender mais profundamente o efeito do campo magnético sobre a cura dos FRCCs. 
 
-**Data da Apresentação:** 23 à 29 de outubro de 2017
+**Data da Apresentação:** Outubro de 2017
 
 **Orientador(a):** Geiza Oliveira e Fernando Gomes de Souza Junior
 
