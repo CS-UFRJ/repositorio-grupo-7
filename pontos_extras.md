@@ -85,6 +85,5 @@ Sistemas inteligentes podem realizar a simulação e otimizar o controle da qual
 ### Identificação dos coralitos de pólipos fundadores de corais recifais do Brasil (Cnidaria, Anthozoa, Scleractinia)
 Pode ser criado um aplicativo para o cadastro e identificação desses coralitos, além de diversas outras espécies, para manter um histórico que ajude no manejo, conservação e recuperação.
 
-### Elaboração e análise de indicadores sociais para o apoio à tomada de decisão no processo de despoluição da Baía de Guanabara
 
 
