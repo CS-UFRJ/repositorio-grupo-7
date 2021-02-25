@@ -248,7 +248,7 @@ https://sistemasiac.ufrj.br/cadernoController/gerarCadernoResumo/36000000 [artig
 
 **Tipo de Projeto:** Iniciação Científica
 
-**Objetivos de Desenvolvimento Sustentável:** Água Potável e Saneamento [6], Indústria, Inovação e Infra-estrutura [9] e Cidades e Comunidades Sustentáveis [11]
+**Objetivos de Desenvolvimento Sustentável:** Indústria, Inovação e Infra-estrutura [9], Cidades e Comunidades Sustentáveis [11] e Vida Terrestre [15]
 
 
 
