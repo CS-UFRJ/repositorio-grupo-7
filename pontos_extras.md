@@ -7,7 +7,6 @@ A computação está sendo utilizada.
 
 ### Associação entre vitamina D e marcadores do metabolismo glicídico na gestação e desfechos neonatais: resultados de uma coorte brasileira
 
-
 ### Nanobiossensor a fibra óptica revestido com filme fino de ouro para detecção da bactéria Escherichia coli
 
 ### Modelo Termoregulatório em Elementos Finitos para Simulação de Tratamento por Hipotermia em Recém-nascidos
@@ -17,8 +16,10 @@ A computação está sendo utilizada.
 ### MEDIÇÃO DO AUMENTO DA AERAÇÃO NASAL PÓS MANOBRAS DE HIGIENE, HIDRATAÇÃO E AUMENTO DA DEMANDA CARDIORRESPIRATÓRIA EM PACIENTES RESPIRADORES ORAIS
 
 ### CLASSIFICAÇÃO E EPIDEMIOLOGIA DA FORMA RECOMBINANTE CRF45_CPX DO HIV-1 NO BRASIL
+Podemos utilizar a computação através de sistemas que integrem os dados relativos aos infectados de HIV-1 de país todo, e compreender a propagação da doença para obter respostas eficazes de contenção.
 
 ### PRODUÇÃO ORGÂNICA E AGROECOLÓGICA DE ALIMENTOS DE ORIGEM ANIMAL E VEGETAL EM PROPRIEDADES URBANAS COM MÃO DE OBRA FAMILIAR DO ESTADO DO RIO DE JANEIRO
+A computação pode ajudar muito os pequenos agricultores de mão de obra familiar a otimizar suas produções, com sistemas inteligentes que monitoram constantemente as condições e necessidades das plantas e animais, com o possível uso de computação em nuvem. Também é possível usar esses sistemas para prever épocas de muita chuva para evitar a perda da colheita.
 
 ### ESTUDO DE ADAPTAÇÃO DAS FUNÇÕES URBANAS APLICADAS NA FERRAMENTA “INTEGRATED MODIFICATION METHODOLOGY (IMM)” COM FOCO NO PLANEJAMENTO DE BACIAS URBANAS - ESTUDO DE CASO DA BACIA HIDROGRÁFICA DO CANAL DO MANGUE
 
