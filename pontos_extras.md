@@ -34,7 +34,7 @@ A computação pode ajudar muito os pequenos agricultores de mão de obra famili
 ### Proposta metodológica para incorporação do risco climático nas estratégias de negócios da NEOENERGIA. Apoio ao projeto piloto de adaptação da TERMOPE.
 
 ### UM ESTUDO SOBRE AS PERDAS DE ALIMENTO NUMA DISTRIBUIDORA BRASILEIRA DE FRUTAS, LEGUMES E VERDURAS - FLV
-Podemos aplicar a computação em todo o processo de distribuição, para acompanhar em tempo real em quais estapas estão sendo perdidas frutas. Com essa informação, os responsáveis podem encontrar problemas e tomar decisões mais ágeis e eficazes para prevenir os desperdícios e obter uma distribuição mais eficiente. 
+Podemos aplicar a computação em todo o processo de distribuição, para acompanhar em tempo real em quais etapas estão sendo perdidas frutas. Com essa informação, os responsáveis podem encontrar problemas e tomar decisões mais ágeis e eficazes para prevenir os desperdícios e obter uma distribuição mais eficiente. 
 
 ### AVALIAÇÃO DE PROCESSOS OXIDATIVOS AVANÇADOS PARA POLIMENTO DE EFLUENTE HOSPITALAR BIOTRATADO COM VISTAS AO REÚSO
 
