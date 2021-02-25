@@ -57,9 +57,9 @@ Já utiliza computação com simulações.
 Já utiliza modelos de classificadores.
 
 ### ELABORAÇÃO E ANÁLISE DE INDICADORES SOCIAIS PARA O APOIO À TOMADA DE DECISÃO NO PROCESSO DE DESPOLUIÇÃO DA BAÍA DE GUANABARA
-É possível criar sistemas de predição de acidentes baseado nos fatores relevantes das rodovias, podendo tomar ações preventivas como reduzir a velocidade de sinalizações automaticamente.
 
 ### Uma proposta de tratamento dos dados sobre acidentes nas rodovias federais brasileiras com vistas a atuar preventivamente na redução de sua ocorrência
+É possível criar sistemas de predição de acidentes baseado nos fatores relevantes das rodovias, podendo tomar ações preventivas como reduzir a velocidade de sinalizações automaticamente.
 
 ### A infraestrutura urbana de transportes e o aquecimento global: um estudo sobre possíveis medidas de mitigação
 
