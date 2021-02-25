@@ -49,20 +49,25 @@ Podemos aplicar a computação em todo o processo de distribuição, para acompa
 ### MICROALGAS: PRODUÇÃO, CARACTERIZAÇÃO E FRACIONAMENTO PARA A OBTENÇÃO DE BIOCOMBUSTÍVEIS E BIOPRODUTOS COM POTENCIAL BIOATIVO
 
 ### VULNERABILIDADE DOS MANGUEZAIS DA BAÍA DE SEPETIBA A DERRAMES DE ÓLEO NA ÁREA PORTUÁRIA 
+Já utiliza computação com simulações.
 
 ### DA INVENÇÃO À INOVAÇÃO: UM PROCESSO DE DESENVOLVIMENTO DE PRODUTOS SUSTENTÁVEIS PARA BIOTECNOLOGIA MARINHA 
 
 ### DESENVOLVIMENTO DE MULTICLASSIFICADORES E DE UM SISTEMA DE IDENTIFICAÇÃO DE RESISTÊNCIA DO HIV-1 AOS ANTIRRETROVIRAIS
+Já utiliza modelos de classificadores.
 
 ### ELABORAÇÃO E ANÁLISE DE INDICADORES SOCIAIS PARA O APOIO À TOMADA DE DECISÃO NO PROCESSO DE DESPOLUIÇÃO DA BAÍA DE GUANABARA
+É possível criar sistemas de predição de acidentes baseado nos fatores relevantes das rodovias, podendo tomar ações preventivas como reduzir a velocidade de sinalizações automaticamente.
 
 ### Uma proposta de tratamento dos dados sobre acidentes nas rodovias federais brasileiras com vistas a atuar preventivamente na redução de sua ocorrência
 
 ### A infraestrutura urbana de transportes e o aquecimento global: um estudo sobre possíveis medidas de mitigação
 
 ### Transferência da informação tecnológica para produtores rurais : estudo de caso no Rio Grande do Norte.
+O projeto foi feito em 1987, hoje em dia é possível realizar a transferência de conhecimento muito mais fácil pela internet.
 
 ### Transferência de informações em tecnologias apropriadas para pequenos produtores rurais brasileiros
+Assim como o caso anterior, podemos utilizar a internet para realizar a tranferência de informações.
 
 ### Diálogos entre a administração da produção para autogestão e a agroecologia: o estudo de caso de dois cursos de extensão para gestão de cooperativas na agricultura familiar
 
@@ -73,9 +78,13 @@ Podemos aplicar a computação em todo o processo de distribuição, para acompa
 ### Large-scale solar photovoltaic impact assessment in the context of the Brazilian environmental and energy planning
 
 ### Um modelo matemático para simulação e otimização do controle da qualidade da água em sistemas fluviais
+Sistemas inteligentes podem realizar a simulação e otimizar o controle da qualidade da água compreendendo seus dados.
 
 ### Desenvolvimento de membranas de matriz mista baseadas em nanopartículas de sílica para captura de CO2
 
 ### Identificação dos coralitos de pólipos fundadores de corais recifais do Brasil (Cnidaria, Anthozoa, Scleractinia)
+Pode ser criado um aplicativo para o cadastro e identificação desses coralitos, além de diversas outras espécies, para manter um histórico que ajude no manejo, conservação e recuperação.
 
 ### Elaboração e análise de indicadores sociais para o apoio à tomada de decisão no processo de despoluição da Baía de Guanabara
+
+
