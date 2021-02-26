@@ -901,7 +901,7 @@ This paper simulates shifts in household behaviour using a macroeconomic framewo
 
 **Objetivos de Desenvolvimento Sustentável:** Água Potável e Saneamento [6] e Vida na Água [14]
 
-**Indicadores:**
+**Indicadores:** Montante de ajuda oficial ao desenvolvimento na área da água e saneamento, inserida num plano governamental de despesa [6.a.1]
 
 
 
