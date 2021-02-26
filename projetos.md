@@ -58,6 +58,8 @@ Esse arquivo possui os projetos com todos os dados completos, seguindo o templat
 
 **Objetivos de Desenvolvimento Sustentável:** ...
 
+**Indicadores:** ...
+
 
 
 
@@ -77,6 +79,8 @@ Esse arquivo possui os projetos com todos os dados completos, seguindo o templat
 **Tipo de Projeto:** Trabalho de Conclusão de Curso (TCC)
 
 **Objetivos de Desenvolvimento Sustentável:** Saúde e Bem-Estar [3]
+
+**Indicadores:** 
 
 
 
@@ -99,6 +103,8 @@ Esse arquivo possui os projetos com todos os dados completos, seguindo o templat
 
 **Objetivos de Desenvolvimento Sustentável:** Saúde e Bem-Estar [3]
 
+**Indicadores:**
+
 
 
 
@@ -119,6 +125,8 @@ Esse arquivo possui os projetos com todos os dados completos, seguindo o templat
 **Tipo de Projeto:** Tese de Doutorado
 
 **Objetivos de Desenvolvimento Sustentável:** Saúde e Bem-Estar [3] e Água Potável e Saneamento [6]
+
+**Indicadores:**
 
 
 
@@ -142,6 +150,8 @@ Esse arquivo possui os projetos com todos os dados completos, seguindo o templat
 
 **Objetivos de Desenvolvimento Sustentável:** Saúde e Bem-Estar [3]
 
+**Indicadores:**
+
 
 
 ## DESENVOLVIMENTO DE LEISHMANIA AMAZONENSIS EXPRESSANDO A PROTEÍNA FLUORESCENTE MCHERRY
@@ -161,6 +171,8 @@ Esse arquivo possui os projetos com todos os dados completos, seguindo o templat
 **Tipo de Projeto:** Não Identificado
 
 **Objetivos de Desenvolvimento Sustentável:** Saúde e Bem-Estar [3]
+
+**Indicadores:**
 
 
 
@@ -186,6 +198,8 @@ https://sistemasiac.ufrj.br/cadernoController/gerarCadernoResumo/35000000 [artig
 
 **Objetivos de Desenvolvimento Sustentável:** Saúde e Bem Estar [3]
 
+**Indicadores:**
+
 
 
 
@@ -206,6 +220,8 @@ https://sistemasiac.ufrj.br/cadernoController/gerarCadernoResumo/35000000 [artig
 **Tipo de Projeto:** Iniciação Científica
 
 **Objetivos de Desenvolvimento Sustentável:** Saúde e Bem estar [3]
+
+**Indicadores:**
 
 
 
@@ -228,6 +244,8 @@ https://sistemasiac.ufrj.br/cadernoController/gerarCadernoResumo/35000000 [artig
 **Tipo de Projeto:** Iniciação Científica
 
 **Objetivos de Desenvolvimento Sustentável:** Fome Zero e Agricultura Sustentável [2] e Erradicação da Pobreza [1]
+
+**Indicadores:**
 
 
 
@@ -252,6 +270,8 @@ https://sistemasiac.ufrj.br/cadernoController/gerarCadernoResumo/36000000 [artig
 
 **Objetivos de Desenvolvimento Sustentável:** Indústria, Inovação e Infra-estrutura [9], Cidades e Comunidades Sustentáveis [11] e Vida Terrestre [15]
 
+**Indicadores:**
+
 
 
 
@@ -274,6 +294,8 @@ https://sistemasiac.ufrj.br/cadernoController/gerarCadernoResumo/36000000 [artig
 
 **Objetivos de Desenvolvimento Sustentável:** Fome zero e agricultura sustentável [2], Parcerias e meios de implementação [17]
 
+**Indicadores:**
+
 
 
 
@@ -294,6 +316,8 @@ https://sistemasiac.ufrj.br/cadernoController/gerarCadernoResumo/36000000 [artig
 **Tipo de Projeto:** Tese de Doutorado
 
 **Objetivos de Desenvolvimento Sustentável:** Vida Terrestre [15]
+
+**Indicadores:**
 
 
 
@@ -316,6 +340,7 @@ https://sistemasiac.ufrj.br/cadernoController/gerarCadernoResumo/36000000 [artig
 
 **Objetivos de Desenvolvimento Sustentável:** Energia Acessível e Limpa [7], Indústria, Inovação e Infra-estrutura [9] e Ação contra a mudança global do clima [13]
 
+**Indicadores:**
 
 
 
@@ -339,6 +364,8 @@ This paper simulates shifts in household behaviour using a macroeconomic framewo
 
 **Objetivos de Desenvolvimento Sustentável:** Energia Acessível e Limpa[7] e Ação contra a mudança global do clima [13]
 
+**Indicadores:**
+
 
 
 
@@ -360,6 +387,8 @@ This paper simulates shifts in household behaviour using a macroeconomic framewo
 **Tipo de Projeto:** Não Especificado
 
 **Objetivos de Desenvolvimento Sustentável:** Energia Acessível e Limpa [7], Indústria, Inovação e Infra-estrutura [9], Ação contra a mudança global do clima [13] e Parcerias e meios de implementação [17]
+
+**Indicadores:**
 
 
 
@@ -383,6 +412,8 @@ This paper simulates shifts in household behaviour using a macroeconomic framewo
 
 **Objetivos de Desenvolvimento Sustentável:** Fome zero e agricultura sustentável [2], Consumo e produção responsáveis [12], Vida terrestre [15] e Parcerias e meios de implementação [17]
 
+**Indicadores:**
+
 
 
 
@@ -403,6 +434,8 @@ This paper simulates shifts in household behaviour using a macroeconomic framewo
 **Tipo de Projeto:** Dissertação de Mestrado
 
 **Objetivos de Desenvolvimento Sustentável:** Água potável e Saneamento [6], Indústria, Inovação e Infra-estrutura [9] e Parcerias e meios de implementação [17]
+
+**Indicadores:**
 
 
 
@@ -426,6 +459,8 @@ This paper simulates shifts in household behaviour using a macroeconomic framewo
 
 **Objetivos de Desenvolvimento Sustentável:** Energia Acessível e Limpa [7] e Vida terrestre [15]
 
+**Indicadores:**
+
 
 
 
@@ -448,6 +483,8 @@ This paper simulates shifts in household behaviour using a macroeconomic framewo
 
 **Objetivos de Desenvolvimento Sustentável:** Saúde e Bem-estar [3]
 
+**Indicadores:**
+
 
 
 
@@ -468,6 +505,8 @@ This paper simulates shifts in household behaviour using a macroeconomic framewo
 
 **Objetivos de Desenvolvimento Sustentável:** Vida na Água [14] e Vida Terrestre [15]
 
+**Indicadores:**
+
 
 
 
@@ -487,6 +526,8 @@ This paper simulates shifts in household behaviour using a macroeconomic framewo
 
 **Objetivos de Desenvolvimento Sustentável:** Vida Terrestre [15]
 
+**Indicadores:**
+
 
 
 
@@ -503,6 +544,8 @@ This paper simulates shifts in household behaviour using a macroeconomic framewo
 **Tipo de Projeto:** Laboratório
 
 **Objetivos de Desenvolvimento Sustentável:** Ação Contra a Mudança Global do Clima [13] e Vida na Água [14]
+
+**Indicadores:**
 
 
 
@@ -525,6 +568,8 @@ This paper simulates shifts in household behaviour using a macroeconomic framewo
 
 **Objetivos de Desenvolvimento Sustentáveis Relacionados:** Vida na Água [14]
 
+**Indicadores:**
+
 
 
 ## DA INVENÇÃO À INOVAÇÃO: UM PROCESSO DE DESENVOLVIMENTO DE PRODUTOS SUSTENTÁVEIS PARA BIOTECNOLOGIA MARINHA 
@@ -545,6 +590,8 @@ This paper simulates shifts in household behaviour using a macroeconomic framewo
 
 **Objetivos de Desenvolvimento Sustentáveis Relacionados:** Vida na Água [14] e Parcerias e Meios de Implementação [17]
 
+**Indicadores:**
+
 
 
 ## DESENVOLVIMENTO DE MULTICLASSIFICADORES E DE UM SISTEMA DE IDENTIFICAÇÃO DE RESISTÊNCIA DO HIV-1 AOS ANTIRRETROVIRAIS
@@ -564,6 +611,8 @@ This paper simulates shifts in household behaviour using a macroeconomic framewo
 **Tipo do Projeto:** Tese de Doutorado
 
 **Objetivos de Desenvolvimento Sustentáveis Relacionados:** Saúde e Bem-estar [3]
+
+**Indicadores:**
 
 
 
@@ -589,6 +638,8 @@ This paper simulates shifts in household behaviour using a macroeconomic framewo
 
 **Objetivos de Desenvolvimento Sustentável:** Saúde e Bem-Estar [3]
 
+**Indicadores:**
+
 
 
 
@@ -609,6 +660,8 @@ This paper simulates shifts in household behaviour using a macroeconomic framewo
 **Tipo de Projeto:** Dissertação de Mestrado
 
 **Objetivos de Desenvolvimento Sustentável:** Ação contra a mudança global do clima [13]
+
+**Indicadores:**
 
 
 
@@ -632,6 +685,8 @@ This paper simulates shifts in household behaviour using a macroeconomic framewo
 
 **Objetivos de Desenvolvimento Sustentável:** Erradicação da Pobreza [1] e Fome Zero e Agricultura Sustentável [2]
 
+**Indicadores:**
+
 
 
 
@@ -652,6 +707,8 @@ This paper simulates shifts in household behaviour using a macroeconomic framewo
 **Tipo de Projeto:** Dissertação de Mestrado
 
 **Objetivos de Desenvolvimento Sustentável:** Erradicação da Pobreza [1] e Fome Zero e Agricultura Sustentável [2]
+
+**Indicadores:**
 
 
 
@@ -676,6 +733,8 @@ This paper simulates shifts in household behaviour using a macroeconomic framewo
 
 **Objetivos de Desenvolvimento Sustentável:** Erradicação da Pobreza [1] e Fome Zero e Agricultura Sustentável [2]
 
+**Indicadores:**
+
 
 
 
@@ -698,6 +757,8 @@ This paper simulates shifts in household behaviour using a macroeconomic framewo
 
 **Objetivos de Desenvolvimento Sustentável:** Saúde e Bem-Estar [3]
 
+**Indicadores:**
+
 
 
 
@@ -719,6 +780,8 @@ This paper simulates shifts in household behaviour using a macroeconomic framewo
 **Tipo de Projeto:** Tese de Doutorado
 
 **Objetivos de Desenvolvimento Sustentável:** Vida Terrestre [15]
+
+**Indicadores:**
 
 
 
@@ -743,6 +806,8 @@ This paper simulates shifts in household behaviour using a macroeconomic framewo
 
 **Objetivos de Desenvolvimento Sustentável:** Energia Acessível e Limpa [7] e Vida Terrestre [15]
 
+**Indicadores:**
+
 
 
 
@@ -764,6 +829,8 @@ This paper simulates shifts in household behaviour using a macroeconomic framewo
 **Tipo de Projeto:** Dissertação de Mestrado
 
 **Objetivos de Desenvolvimento Sustentável:** Água Potável e Saneamento [6]
+
+**Indicadores:**
 
 
 
@@ -788,6 +855,8 @@ This paper simulates shifts in household behaviour using a macroeconomic framewo
 
 **Objetivos de Desenvolvimento Sustentável:** Ação contra a mudança global do clima [13] e Vida Terrestre [15]
 
+**Indicadores:**
+
 
 
 
@@ -810,6 +879,7 @@ This paper simulates shifts in household behaviour using a macroeconomic framewo
 
 **Objetivos de Desenvolvimento Sustentável:** Vida na Água [14]
 
+**Indicadores:**
 
 
 
@@ -830,6 +900,8 @@ This paper simulates shifts in household behaviour using a macroeconomic framewo
 **Tipo de Projeto:** Dissertação de Mestrado
 
 **Objetivos de Desenvolvimento Sustentável:** Água Potável e Saneamento [6] e Vida na Água [14]
+
+**Indicadores:**
 
 
 
@@ -853,3 +925,5 @@ This paper simulates shifts in household behaviour using a macroeconomic framewo
 **Tipo de Projeto:** ...
 
 **Objetivos de Desenvolvimento Sustentável:** ...
+
+**Indicadores:** ...
