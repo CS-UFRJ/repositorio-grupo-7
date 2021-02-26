@@ -150,7 +150,7 @@ Esse arquivo possui os projetos com todos os dados completos, seguindo o templat
 
 **Objetivos de Desenvolvimento Sustentável:** Saúde e Bem-Estar [3]
 
-**Indicadores:**
+**Indicadores:** Taxa de mortalidade neonatal [3.2.2]
 
 
 
@@ -364,7 +364,9 @@ This paper simulates shifts in household behaviour using a macroeconomic framewo
 
 **Objetivos de Desenvolvimento Sustentável:** Energia Acessível e Limpa[7] e Ação contra a mudança global do clima [13]
 
-**Indicadores:**
+**Indicadores:** Capacidade instalada de geração de energia renovável nos países em desenvolvimento [7.b.1] e Grau em que a (i) a educação para a cidadania global e (ii) a educação para o desenvolvimento sustentável são integradas nas (a) políticas nacionais de educação; (b) currículos escolares; (c) formação de professores; e (d) avaliação de estudantes [13.3.1]
+
+
 
 
 
@@ -638,7 +640,7 @@ This paper simulates shifts in household behaviour using a macroeconomic framewo
 
 **Objetivos de Desenvolvimento Sustentável:** Saúde e Bem-Estar [3]
 
-**Indicadores:**
+**Indicadores:** Taxa de mortalidade por acidentes de trânsito [3.6.1]
 
 
 
@@ -661,7 +663,7 @@ This paper simulates shifts in household behaviour using a macroeconomic framewo
 
 **Objetivos de Desenvolvimento Sustentável:** Ação contra a mudança global do clima [13]
 
-**Indicadores:**
+**Indicadores:** Emissões totais de gases de efeito estufa por ano [13.2.2]
 
 
 
@@ -685,7 +687,7 @@ This paper simulates shifts in household behaviour using a macroeconomic framewo
 
 **Objetivos de Desenvolvimento Sustentável:** Erradicação da Pobreza [1] e Fome Zero e Agricultura Sustentável [2]
 
-**Indicadores:**
+**Indicadores:** 1.a.1: Subsídios totais de assistência oficial ao desenvolvimento [1.a.1] e Total de fluxos oficiais (ajuda pública ao desenvolvimento e outros fluxos oficiais) para o setor agrícola [2.a.2]
 
 
 
@@ -708,7 +710,7 @@ This paper simulates shifts in household behaviour using a macroeconomic framewo
 
 **Objetivos de Desenvolvimento Sustentável:** Erradicação da Pobreza [1] e Fome Zero e Agricultura Sustentável [2]
 
-**Indicadores:**
+**Indicadores:** 1.a.1: Subsídios totais de assistência oficial ao desenvolvimento [1.a.1] e Total de fluxos oficiais (ajuda pública ao desenvolvimento e outros fluxos oficiais) para o setor agrícola [2.a.2]
 
 
 
@@ -733,7 +735,7 @@ This paper simulates shifts in household behaviour using a macroeconomic framewo
 
 **Objetivos de Desenvolvimento Sustentável:** Erradicação da Pobreza [1] e Fome Zero e Agricultura Sustentável [2]
 
-**Indicadores:**
+**Indicadores:** Subsídios totais de assistência oficial ao desenvolvimento [1.a.1] e Renda média dos pequenos produtores de alimentos, por sexo e condição de indígena [2.3.2]
 
 
 
@@ -757,7 +759,7 @@ This paper simulates shifts in household behaviour using a macroeconomic framewo
 
 **Objetivos de Desenvolvimento Sustentável:** Saúde e Bem-Estar [3]
 
-**Indicadores:**
+**Indicadores:** Cobertura da Atenção Primária à Saúde [3.8.1]
 
 
 
@@ -781,7 +783,7 @@ This paper simulates shifts in household behaviour using a macroeconomic framewo
 
 **Objetivos de Desenvolvimento Sustentável:** Vida Terrestre [15]
 
-**Indicadores:**
+**Indicadores:** 
 
 
 
@@ -830,7 +832,7 @@ This paper simulates shifts in household behaviour using a macroeconomic framewo
 
 **Objetivos de Desenvolvimento Sustentável:** Água Potável e Saneamento [6]
 
-**Indicadores:**
+**Indicadores:** Proporção de corpos hídricos com boa qualidade ambiental [6.3.2]
 
 
 
@@ -855,7 +857,7 @@ This paper simulates shifts in household behaviour using a macroeconomic framewo
 
 **Objetivos de Desenvolvimento Sustentável:** Ação contra a mudança global do clima [13] e Vida Terrestre [15]
 
-**Indicadores:**
+**Indicadores:** 
 
 
 
