@@ -80,7 +80,7 @@ Esse arquivo possui os projetos com todos os dados completos, seguindo o templat
 
 **Objetivos de Desenvolvimento Sustentável:** Saúde e Bem-Estar [3]
 
-**Indicadores:** 
+**Indicadores:** Taxa de mortalidade por poluição ambiental (externa e doméstica) do ar [3.9.1] e Taxa de mortalidade em menores de 5 anos [3.2.1]
 
 
 
@@ -103,7 +103,7 @@ Esse arquivo possui os projetos com todos os dados completos, seguindo o templat
 
 **Objetivos de Desenvolvimento Sustentável:** Saúde e Bem-Estar [3]
 
-**Indicadores:**
+**Indicadores:** Taxa de mortalidade neonatal [3.2.2] e Proporção de nascimentos assistidos por pessoal de saúde qualificado [3.1.2]
 
 
 
@@ -126,7 +126,7 @@ Esse arquivo possui os projetos com todos os dados completos, seguindo o templat
 
 **Objetivos de Desenvolvimento Sustentável:** Saúde e Bem-Estar [3] e Água Potável e Saneamento [6]
 
-**Indicadores:**
+**Indicadores:** Cobertura da Atenção Primária à Saúde [3.8.1],  3.9.2: Taxa de mortalidade atribuída a fontes de água inseguras, saneamento inseguro e falta de higiene [3.9.2] e Proporção de corpos hídricos com boa qualidade ambiental [6.3.2]
 
 
 
@@ -172,7 +172,7 @@ Esse arquivo possui os projetos com todos os dados completos, seguindo o templat
 
 **Objetivos de Desenvolvimento Sustentável:** Saúde e Bem-Estar [3]
 
-**Indicadores:**
+**Indicadores:** Número de pessoas que necessitam de intervenções contra doenças tropicais negligenciadas (DTN) [3.3.5]
 
 
 
@@ -198,7 +198,7 @@ https://sistemasiac.ufrj.br/cadernoController/gerarCadernoResumo/35000000 [artig
 
 **Objetivos de Desenvolvimento Sustentável:** Saúde e Bem Estar [3]
 
-**Indicadores:**
+**Indicadores:** Cobertura da Atenção Primária à Saúde [3.8.1]
 
 
 
@@ -221,7 +221,7 @@ https://sistemasiac.ufrj.br/cadernoController/gerarCadernoResumo/35000000 [artig
 
 **Objetivos de Desenvolvimento Sustentável:** Saúde e Bem estar [3]
 
-**Indicadores:**
+**Indicadores:** Número de novas infecções por HIV por 1 000 habitantes, por sexo, idade e populações específicas [3.3.1]
 
 
 
@@ -245,7 +245,7 @@ https://sistemasiac.ufrj.br/cadernoController/gerarCadernoResumo/35000000 [artig
 
 **Objetivos de Desenvolvimento Sustentável:** Fome Zero e Agricultura Sustentável [2] e Erradicação da Pobreza [1]
 
-**Indicadores:**
+**Indicadores:** Proporção da população abrangida por regimes de proteção social, por sexo e para os seguintes grupos populacionais: crianças, população desempregada, população idosa, população com deficiência, mulheres grávidas, crianças recém-nascidas, pessoas que sofreram acidentes de trabalho, população em risco de pobreza e outros grupos populacionais vulneráveis [1.3.1], Proporção da área agrícola sob agricultura produtiva e sustentável [2.4.1] e Renda média dos pequenos produtores de alimentos, por sexo e condição de indígena [2.3.2].
 
 
 
@@ -270,7 +270,7 @@ https://sistemasiac.ufrj.br/cadernoController/gerarCadernoResumo/36000000 [artig
 
 **Objetivos de Desenvolvimento Sustentável:** Indústria, Inovação e Infra-estrutura [9], Cidades e Comunidades Sustentáveis [11] e Vida Terrestre [15]
 
-**Indicadores:**
+**Indicadores:** Alteração na extensão dos ecossistemas relacionados a água ao longo do tempo [6.6.1], Nível de stress hídrico: proporção das retiradas de água doce em relação ao total dos recursos de água doce disponíveis [6.4.2], Proporção de governos locais que adotam e implementam estratégias locais de redução de risco de desastres em linha com as estratégias nacionais de redução de risco de desastres [11.b.2] e Número de países que possuem políticas urbanas nacionais ou planos de desenvolvimento regional que (a) respondem à dinâmica populacional; (b) garantem um desenvolvimento territorial equilibrado; e (c) possuem responsabilidade fiscal [11.a.1]
 
 
 
@@ -294,7 +294,7 @@ https://sistemasiac.ufrj.br/cadernoController/gerarCadernoResumo/36000000 [artig
 
 **Objetivos de Desenvolvimento Sustentável:** Fome zero e agricultura sustentável [2], Parcerias e meios de implementação [17]
 
-**Indicadores:**
+**Indicadores:** 
 
 
 
@@ -340,7 +340,7 @@ https://sistemasiac.ufrj.br/cadernoController/gerarCadernoResumo/36000000 [artig
 
 **Objetivos de Desenvolvimento Sustentável:** Energia Acessível e Limpa [7], Indústria, Inovação e Infra-estrutura [9] e Ação contra a mudança global do clima [13]
 
-**Indicadores:**
+**Indicadores:** Intensidade energética medida em termos de energia primária e de PIB [7.3.1], Emissão de CO2 pelo PIB	[9.4.1] e Emissões totais de gases de efeito estufa por ano [13.2.2]
 
 
 
@@ -388,7 +388,7 @@ This paper simulates shifts in household behaviour using a macroeconomic framewo
 
 **Objetivos de Desenvolvimento Sustentável:** Energia Acessível e Limpa [7], Indústria, Inovação e Infra-estrutura [9], Ação contra a mudança global do clima [13] e Parcerias e meios de implementação [17]
 
-**Indicadores:**
+**Indicadores:** Participação das energias renováveis na Oferta Interna de Energia (OIE) [7.2.1], Proporção do valor adicionado nas indústrias de média e alta intensidade tecnológica no valor adicionado total [9.b.1] e Emissões totais de gases de efeito estufa por ano [13.2.2]
 
 
 
@@ -412,7 +412,7 @@ This paper simulates shifts in household behaviour using a macroeconomic framewo
 
 **Objetivos de Desenvolvimento Sustentável:** Fome zero e agricultura sustentável [2], Consumo e produção responsáveis [12], Vida terrestre [15] e Parcerias e meios de implementação [17]
 
-**Indicadores:**
+**Indicadores:** 
 
 
 
@@ -435,7 +435,7 @@ This paper simulates shifts in household behaviour using a macroeconomic framewo
 
 **Objetivos de Desenvolvimento Sustentável:** Água potável e Saneamento [6], Indústria, Inovação e Infra-estrutura [9] e Parcerias e meios de implementação [17]
 
-**Indicadores:**
+**Indicadores:** Proporção do fluxo de águas residuais doméstica e industrial tratadas de forma segura [6.3.1] e Grau de implementação da gestão integrada de recursos hídricos (0-100) [6.5.1]
 
 
 
@@ -483,7 +483,7 @@ This paper simulates shifts in household behaviour using a macroeconomic framewo
 
 **Objetivos de Desenvolvimento Sustentável:** Saúde e Bem-estar [3]
 
-**Indicadores:**
+**Indicadores:** Proporção de estabelecimentos de saúde que dispõem de um conjunto básico de medicamentos essenciais e relevantes disponíveis e a custo acessível numa base sustentável [3.b.3] e Proporção de pessoas em famílias com grandes gastos em saúde em relação ao total de despesas familiares [3.8.2]
 
 
 
@@ -505,7 +505,7 @@ This paper simulates shifts in household behaviour using a macroeconomic framewo
 
 **Objetivos de Desenvolvimento Sustentável:** Vida na Água [14] e Vida Terrestre [15]
 
-**Indicadores:**
+**Indicadores:** 
 
 
 
@@ -612,7 +612,7 @@ This paper simulates shifts in household behaviour using a macroeconomic framewo
 
 **Objetivos de Desenvolvimento Sustentáveis Relacionados:** Saúde e Bem-estar [3]
 
-**Indicadores:**
+**Indicadores:** Número de novas infecções por HIV por 1 000 habitantes, por sexo, idade e populações específicas [3.3.1]
 
 
 
