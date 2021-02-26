@@ -294,7 +294,7 @@ https://sistemasiac.ufrj.br/cadernoController/gerarCadernoResumo/36000000 [artig
 
 **Objetivos de Desenvolvimento Sustentável:** Fome zero e agricultura sustentável [2], Parcerias e meios de implementação [17]
 
-**Indicadores:** 
+**Indicadores:** Subsídios às exportações agrícolas, 2.4.1: Proporção da área agrícola sob agricultura produtiva e sustentável [2.b.1]
 
 
 
@@ -317,7 +317,7 @@ https://sistemasiac.ufrj.br/cadernoController/gerarCadernoResumo/36000000 [artig
 
 **Objetivos de Desenvolvimento Sustentável:** Vida Terrestre [15]
 
-**Indicadores:**
+**Indicadores:** 
 
 
 
@@ -414,7 +414,7 @@ This paper simulates shifts in household behaviour using a macroeconomic framewo
 
 **Objetivos de Desenvolvimento Sustentável:** Fome zero e agricultura sustentável [2], Consumo e produção responsáveis [12], Vida terrestre [15] e Parcerias e meios de implementação [17]
 
-**Indicadores:** 
+**Indicadores:** Subsídios às exportações agrícolas [2.b.1], Índice de perdas alimentares e Índice de desperdício alimentar [12.3.1]
 
 
 
@@ -507,7 +507,7 @@ This paper simulates shifts in household behaviour using a macroeconomic framewo
 
 **Objetivos de Desenvolvimento Sustentável:** Vida na Água [14] e Vida Terrestre [15]
 
-**Indicadores:** 
+**Indicadores:** Capacidade instalada de geração de energia renovável nos países em desenvolvimento [7.b.1]
 
 
 
@@ -547,7 +547,7 @@ This paper simulates shifts in household behaviour using a macroeconomic framewo
 
 **Objetivos de Desenvolvimento Sustentável:** Ação Contra a Mudança Global do Clima [13] e Vida na Água [14]
 
-**Indicadores:**
+**Indicadores:** Emissões totais de gases de efeito estufa por ano [13.2.2]
 
 
 
@@ -808,7 +808,7 @@ This paper simulates shifts in household behaviour using a macroeconomic framewo
 
 **Objetivos de Desenvolvimento Sustentável:** Energia Acessível e Limpa [7] e Vida Terrestre [15]
 
-**Indicadores:**
+**Indicadores:** Capacidade instalada de geração de energia renovável nos países em desenvolvimento [7.b.1], Participação das energias renováveis na Oferta Interna de Energia (OIE) [7.2.1]
 
 
 
@@ -857,7 +857,7 @@ This paper simulates shifts in household behaviour using a macroeconomic framewo
 
 **Objetivos de Desenvolvimento Sustentável:** Ação contra a mudança global do clima [13] e Vida Terrestre [15]
 
-**Indicadores:** 
+**Indicadores:** Emissões totais de gases de efeito estufa por ano [13.2.2]
 
 
 
