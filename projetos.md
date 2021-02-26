@@ -568,26 +568,6 @@ This paper simulates shifts in household behaviour using a macroeconomic framewo
 
 
 
-## ELABORAÇÃO E ANÁLISE DE INDICADORES SOCIAIS PARA O APOIO À TOMADA DE DECISÃO NO PROCESSO DE DESPOLUIÇÃO DA BAÍA DE GUANABARA
-
-**Título do Projeto:** ELABORAÇÃO E ANÁLISE DE INDICADORES SOCIAIS PARA O APOIO À TOMADA DE DECISÃO NO PROCESSO DE DESPOLUIÇÃO DA BAÍA DE GUANABARA
-
-**Descrição Breve do Projeto:**  Incluir a dimensão social no processo de despoluição da Baía de Guanabara, através da elaboração e análise de indicadores sociais que apóiem a tomada de decisão. 
-
-**Resumo do Projeto:** A região da bacia da Baía de Guanabara apresenta profundos contrastes, onde em meio à segunda maior metrópole do país há contingentes populacionais ainda sem saneamento básico. Apesar dos esforços de despoluição desde os anos 90, não houve percepção, por parte da opinião pública, de que houve evolução em seu deteriorado quadro social. A importância dos indicadores sociais emerge em um momento em que se faz necessário prestar contas à população quanto aos investimentos e os resultados obtidos, direcionar as ações às questões sociais e locais em situação de maior urgência e acompanhar os resultados para a identificação de ajustes nas ações para o alcance de melhores resultados. A atual agenda de discussão das questões sociais do entorno da baía configurou a base para a elaboração de um sistema de indicadores sociais. Três bacias hidrográficas em processo de despoluição também foram estudadas, com foco em suas abordagens quanto às questões sociais. Um modelo teórico de indicadores foi elaborado e testado em um recorte da bacia da Baía de Guanabara, através da utilização de dados públicos disponíveis. O modelo se mostrou uma ferramenta útil para uma abordagem holística da bacia ao informar sobre o melhor direcionamento de ações de despoluição para resultados mais efetivos em ambas as questões sociais e ambientais.
-
-**Data da Apresentação:** Abril de 2017
-
-**Orientador:** Laura Silvia Bahiense da Silva Leite, Carlos Eduardo Durange de Carvalho Infante
-
-**Participantes:** Vanessa Gonçalves Guimarães
-
-**Tipo do Projeto:** Dissertação de Mestrado
-
-**Objetivos de Desenvolvimento Sustentáveis Relacionados:** Água Potável e Saneamento [6]
-
-
-
 
 
 
