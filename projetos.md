@@ -592,7 +592,7 @@ This paper simulates shifts in household behaviour using a macroeconomic framewo
 
 **Objetivos de Desenvolvimento Sustentáveis Relacionados:** Vida na Água [14] e Parcerias e Meios de Implementação [17]
 
-**Indicadores:**
+**Indicadores:** Proporção do total do orçamento de pesquisas alocado para pesquisas na área da tecnologia marinha [14.a.1] e Montante total de financiamento para países em desenvolvimento para promover o desenvolvimento, transferência, disseminação e difusão de tecnologias ambientalmente seguras e racionais [17.7.1]
 
 
 
