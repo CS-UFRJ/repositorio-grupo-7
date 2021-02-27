@@ -292,9 +292,9 @@ https://sistemasiac.ufrj.br/cadernoController/gerarCadernoResumo/36000000 [artig
 
 **Tipo de Projeto:** Dissertação de Mestrado
 
-**Objetivos de Desenvolvimento Sustentável:** Fome zero e agricultura sustentável [2], Parcerias e meios de implementação [17]
+**Objetivos de Desenvolvimento Sustentável:** Fome zero e agricultura sustentável [2], Vida na água [14]
 
-**Indicadores:** Subsídios às exportações agrícolas, 2.4.1: Proporção da área agrícola sob agricultura produtiva e sustentável [2.b.1]
+**Indicadores:** Subsídios às exportações agrícolas [2.b.1], Proporção da área agrícola sob agricultura produtiva e sustentável [2.4.1] e Pesca sustentável como uma proporção do Produto Interno Bruto (PIB) de pequenos Estados insulares em desenvolvimento, (Small Islands Developing States), de países menos desenvolvidos e todos os países [14.7.1]
 
 
 
@@ -317,7 +317,7 @@ https://sistemasiac.ufrj.br/cadernoController/gerarCadernoResumo/36000000 [artig
 
 **Objetivos de Desenvolvimento Sustentável:** Vida Terrestre [15]
 
-**Indicadores:** 
+**Indicadores:** (a) Assistência oficial ao desenvolvimento em conservação e uso sustentável da biodiversidade; e (b) receita gerada e financiamento mobilizado a partir de instrumentos econômicos relevantes para a biodiversidade [15.a.1]
 
 
 
@@ -414,7 +414,7 @@ This paper simulates shifts in household behaviour using a macroeconomic framewo
 
 **Objetivos de Desenvolvimento Sustentável:** Fome zero e agricultura sustentável [2], Consumo e produção responsáveis [12], Vida terrestre [15] e Parcerias e meios de implementação [17]
 
-**Indicadores:** Subsídios às exportações agrícolas [2.b.1], Índice de perdas alimentares e Índice de desperdício alimentar [12.3.1]
+**Indicadores:** Subsídios às exportações agrícolas [2.b.1], Índice de perdas alimentares e Índice de desperdício alimentar [12.3.1] e Progressos na gestão florestal sustentável [15.2.1]
 
 
 
@@ -461,7 +461,7 @@ This paper simulates shifts in household behaviour using a macroeconomic framewo
 
 **Objetivos de Desenvolvimento Sustentável:** Energia Acessível e Limpa [7] e Vida terrestre [15]
 
-**Indicadores:**
+**Indicadores:** Proporção do território com solos degradados [15.3.1] e Proporção de sítios importantes para a biodiversidade terrestre e de água doce cobertos por áreas protegidas, por tipo de ecossistema [15.1.2]
 
 
 
@@ -507,7 +507,7 @@ This paper simulates shifts in household behaviour using a macroeconomic framewo
 
 **Objetivos de Desenvolvimento Sustentável:** Vida na Água [14] e Vida Terrestre [15]
 
-**Indicadores:** Capacidade instalada de geração de energia renovável nos países em desenvolvimento [7.b.1]
+**Indicadores:** Capacidade instalada de geração de energia renovável nos países em desenvolvimento [7.b.1], Proporção do total do orçamento de pesquisas alocado para pesquisas na área da tecnologia marinha [14.a.1] e (a) Assistência oficial ao desenvolvimento em conservação e uso sustentável da biodiversidade; e (b) receita gerada e financiamento mobilizado a partir de instrumentos econômicos relevantes para a biodiversidade [15.a.1]
 
 
 
@@ -528,7 +528,7 @@ This paper simulates shifts in household behaviour using a macroeconomic framewo
 
 **Objetivos de Desenvolvimento Sustentável:** Vida Terrestre [15]
 
-**Indicadores:**
+**Indicadores:** Progressos na gestão florestal sustentável [15.2.1]
 
 
 
@@ -547,7 +547,7 @@ This paper simulates shifts in household behaviour using a macroeconomic framewo
 
 **Objetivos de Desenvolvimento Sustentável:** Ação Contra a Mudança Global do Clima [13] e Vida na Água [14]
 
-**Indicadores:** Emissões totais de gases de efeito estufa por ano [13.2.2]
+**Indicadores:** Emissões totais de gases de efeito estufa por ano [13.2.2] e Número de países com progressos na ratificação, aceitação e implementação, através de quadros legais, políticos e institucionais, de instrumentos relacionados com o oceano que implementam o direito internacional, tal como refletido na Convenção das Nações Unidas sobre o Direito do Mar, para a conservação e uso sustentável dos oceanos e seus recursos [14.c.1]
 
 
 
@@ -570,7 +570,7 @@ This paper simulates shifts in household behaviour using a macroeconomic framewo
 
 **Objetivos de Desenvolvimento Sustentáveis Relacionados:** Vida na Água [14]
 
-**Indicadores:**
+**Indicadores:** Acidez média marinha (pH) medida num conjunto representativo de estações de coleta [14.3.1] e a) Índice de eutrofização costeira; e (b) densidade de detritos plásticos [14.1.1]
 
 
 
@@ -783,7 +783,7 @@ This paper simulates shifts in household behaviour using a macroeconomic framewo
 
 **Objetivos de Desenvolvimento Sustentável:** Vida Terrestre [15]
 
-**Indicadores:** 
+**Indicadores:** (a) Assistência oficial ao desenvolvimento em conservação e uso sustentável da biodiversidade; e (b) receita gerada e financiamento mobilizado a partir de instrumentos econômicos relevantes para a biodiversidade [15.a.1]
 
 
 
@@ -808,7 +808,7 @@ This paper simulates shifts in household behaviour using a macroeconomic framewo
 
 **Objetivos de Desenvolvimento Sustentável:** Energia Acessível e Limpa [7] e Vida Terrestre [15]
 
-**Indicadores:** Capacidade instalada de geração de energia renovável nos países em desenvolvimento [7.b.1], Participação das energias renováveis na Oferta Interna de Energia (OIE) [7.2.1]
+**Indicadores:** Capacidade instalada de geração de energia renovável nos países em desenvolvimento [7.b.1], Participação das energias renováveis na Oferta Interna de Energia (OIE) [7.2.1] e Índice das listas vermelhas [15.5.1]
 
 
 
@@ -857,7 +857,7 @@ This paper simulates shifts in household behaviour using a macroeconomic framewo
 
 **Objetivos de Desenvolvimento Sustentável:** Ação contra a mudança global do clima [13] e Vida Terrestre [15]
 
-**Indicadores:** Emissões totais de gases de efeito estufa por ano [13.2.2]
+**Indicadores:** Emissões totais de gases de efeito estufa por ano [13.2.2] e Progressos na gestão florestal sustentável [15.2.1]
 
 
 
@@ -881,7 +881,7 @@ This paper simulates shifts in household behaviour using a macroeconomic framewo
 
 **Objetivos de Desenvolvimento Sustentável:** Vida na Água [14]
 
-**Indicadores:**
+**Indicadores:** Proporção do total do orçamento de pesquisas alocado para pesquisas na área da tecnologia marinha [14.a.1]
 
 
 
