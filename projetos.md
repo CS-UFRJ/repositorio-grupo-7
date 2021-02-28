@@ -340,7 +340,7 @@ https://sistemasiac.ufrj.br/cadernoController/gerarCadernoResumo/36000000 [artig
 
 **Objetivos de Desenvolvimento Sustentável:** Energia Acessível e Limpa [7], Indústria, Inovação e Infra-estrutura [9] e Ação contra a mudança global do clima [13]
 
-**Indicadores:** Intensidade energética medida em termos de energia primária e de PIB [7.3.1], Emissão de CO2 pelo PIB	[9.4.1] e Emissões totais de gases de efeito estufa por ano [13.2.2]
+**Indicadores:** Emissão de CO2 pelo PIB	[9.4.1] e Emissões totais de gases de efeito estufa por ano [13.2.2]
 
 
 
@@ -390,7 +390,7 @@ This paper simulates shifts in household behaviour using a macroeconomic framewo
 
 **Objetivos de Desenvolvimento Sustentável:** Energia Acessível e Limpa [7], Indústria, Inovação e Infra-estrutura [9], Ação contra a mudança global do clima [13] e Parcerias e meios de implementação [17]
 
-**Indicadores:** Participação das energias renováveis na Oferta Interna de Energia (OIE) [7.2.1], Proporção do valor adicionado nas indústrias de média e alta intensidade tecnológica no valor adicionado total [9.b.1] e Emissões totais de gases de efeito estufa por ano [13.2.2]
+**Indicadores:** Emissões totais de gases de efeito estufa por ano [13.2.2]
 
 
 
@@ -412,9 +412,9 @@ This paper simulates shifts in household behaviour using a macroeconomic framewo
 
 **Tipo de Projeto:** Trabalho de Conclusão de Curso (TCC)
 
-**Objetivos de Desenvolvimento Sustentável:** Fome zero e agricultura sustentável [2], Consumo e produção responsáveis [12], Vida terrestre [15] e Parcerias e meios de implementação [17]
+**Objetivos de Desenvolvimento Sustentável:** Fome zero e agricultura sustentável [2], Consumo e produção responsáveis [12] e Parcerias e meios de implementação [17]
 
-**Indicadores:** Subsídios às exportações agrícolas [2.b.1], Índice de perdas alimentares e Índice de desperdício alimentar [12.3.1] e Progressos na gestão florestal sustentável [15.2.1]
+**Indicadores:** Índice de perdas alimentares e Índice de desperdício alimentar [12.3.1]
 
 
 
